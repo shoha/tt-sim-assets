@@ -1,0 +1,7768 @@
+{
+  "pack_id": "pokemon",
+  "display_name": "Pokemon",
+  "version": "1.0",
+  "assets": {
+    "1": {
+      "display_name": "Bulbasaur",
+      "variants": {
+        "default": {
+          "model": "1_bulbasaur.glb",
+          "icon": "1_bulbasaur.png"
+        },
+        "shiny": {
+          "model": "1_bulbasaur_shiny.glb",
+          "icon": "1_bulbasaur_shiny.png"
+        }
+      }
+    },
+    "2": {
+      "display_name": "Ivysaur",
+      "variants": {
+        "default": {
+          "model": "2_ivysaur.glb",
+          "icon": "2_ivysaur.png"
+        },
+        "shiny": {
+          "model": "2_ivysaur_shiny.glb",
+          "icon": "2_ivysaur_shiny.png"
+        }
+      }
+    },
+    "3": {
+      "display_name": "Venusaur",
+      "variants": {
+        "default": {
+          "model": "3_venusaur.glb",
+          "icon": "3_venusaur.png"
+        },
+        "shiny": {
+          "model": "3_venusaur_shiny.glb",
+          "icon": "3_venusaur_shiny.png"
+        }
+      }
+    },
+    "4": {
+      "display_name": "Charmander",
+      "variants": {
+        "default": {
+          "model": "4_charmander.glb",
+          "icon": "4_charmander.png"
+        },
+        "shiny": {
+          "model": "4_charmander_shiny.glb",
+          "icon": "4_charmander_shiny.png"
+        }
+      }
+    },
+    "5": {
+      "display_name": "Charmeleon",
+      "variants": {
+        "default": {
+          "model": "5_charmeleon.glb",
+          "icon": "5_charmeleon.png"
+        },
+        "shiny": {
+          "model": "5_charmeleon_shiny.glb",
+          "icon": "5_charmeleon_shiny.png"
+        }
+      }
+    },
+    "6": {
+      "display_name": "Charizard",
+      "variants": {
+        "default": {
+          "model": "6_charizard.glb",
+          "icon": "6_charizard.png"
+        },
+        "shiny": {
+          "model": "6_charizard_shiny.glb",
+          "icon": "6_charizard_shiny.png"
+        }
+      }
+    },
+    "7": {
+      "display_name": "Squirtle",
+      "variants": {
+        "default": {
+          "model": "7_squirtle.glb",
+          "icon": "7_squirtle.png"
+        },
+        "shiny": {
+          "model": "7_squirtle_shiny.glb",
+          "icon": "7_squirtle_shiny.png"
+        }
+      }
+    },
+    "8": {
+      "display_name": "Wartortle",
+      "variants": {
+        "default": {
+          "model": "8_wartortle.glb",
+          "icon": "8_wartortle.png"
+        },
+        "shiny": {
+          "model": "8_wartortle_shiny.glb",
+          "icon": "8_wartortle_shiny.png"
+        }
+      }
+    },
+    "9": {
+      "display_name": "Blastoise",
+      "variants": {
+        "default": {
+          "model": "9_blastoise.glb",
+          "icon": "9_blastoise.png"
+        },
+        "shiny": {
+          "model": "9_blastoise_shiny.glb",
+          "icon": "9_blastoise_shiny.png"
+        }
+      }
+    },
+    "13": {
+      "display_name": "Weedle",
+      "variants": {
+        "default": {
+          "model": "13_weedle.glb",
+          "icon": "13_weedle.png"
+        },
+        "shiny": {
+          "model": "13_weedle_shiny.glb",
+          "icon": "13_weedle_shiny.png"
+        }
+      }
+    },
+    "14": {
+      "display_name": "Kakuna",
+      "variants": {
+        "default": {
+          "model": "14_kakuna.glb",
+          "icon": "14_kakuna.png"
+        },
+        "shiny": {
+          "model": "14_kakuna_shiny.glb",
+          "icon": "14_kakuna_shiny.png"
+        }
+      }
+    },
+    "15": {
+      "display_name": "Beedrill",
+      "variants": {
+        "default": {
+          "model": "15_beedrill.glb",
+          "icon": "15_beedrill.png"
+        },
+        "shiny": {
+          "model": "15_beedrill_shiny.glb",
+          "icon": "15_beedrill_shiny.png"
+        }
+      }
+    },
+    "16": {
+      "display_name": "Pidgey",
+      "variants": {
+        "default": {
+          "model": "16_pidgey.glb",
+          "icon": "16_pidgey.png"
+        },
+        "shiny": {
+          "model": "16_pidgey_shiny.glb",
+          "icon": "16_pidgey_shiny.png"
+        }
+      }
+    },
+    "17": {
+      "display_name": "Pidgeotto",
+      "variants": {
+        "default": {
+          "model": "17_pidgeotto.glb",
+          "icon": "17_pidgeotto.png"
+        },
+        "shiny": {
+          "model": "17_pidgeotto_shiny.glb",
+          "icon": "17_pidgeotto_shiny.png"
+        }
+      }
+    },
+    "18": {
+      "display_name": "Pidgeot",
+      "variants": {
+        "default": {
+          "model": "18_pidgeot.glb",
+          "icon": "18_pidgeot.png"
+        },
+        "shiny": {
+          "model": "18_pidgeot_shiny.glb",
+          "icon": "18_pidgeot_shiny.png"
+        }
+      }
+    },
+    "23": {
+      "display_name": "Ekans",
+      "variants": {
+        "default": {
+          "model": "23_ekans.glb",
+          "icon": "23_ekans.png"
+        },
+        "shiny": {
+          "model": "23_ekans_shiny.glb",
+          "icon": "23_ekans_shiny.png"
+        }
+      }
+    },
+    "24": {
+      "display_name": "Arbok",
+      "variants": {
+        "default": {
+          "model": "24_arbok.glb",
+          "icon": "24_arbok.png"
+        },
+        "shiny": {
+          "model": "24_arbok_shiny.glb",
+          "icon": "24_arbok_shiny.png"
+        }
+      }
+    },
+    "25": {
+      "display_name": "Pikachu",
+      "variants": {
+        "default": {
+          "model": "25_pikachu.glb",
+          "icon": "25_pikachu.png"
+        },
+        "shiny": {
+          "model": "25_pikachu_shiny.glb",
+          "icon": "25_pikachu_shiny.png"
+        }
+      }
+    },
+    "26": {
+      "display_name": "Raichu",
+      "variants": {
+        "default": {
+          "model": "26_raichu.glb",
+          "icon": "26_raichu.png"
+        },
+        "shiny": {
+          "model": "26_raichu_shiny.glb",
+          "icon": "26_raichu_shiny.png"
+        }
+      }
+    },
+    "35": {
+      "display_name": "Clefairy",
+      "variants": {
+        "default": {
+          "model": "35_clefairy.glb",
+          "icon": "35_clefairy.png"
+        },
+        "shiny": {
+          "model": "35_clefairy_shiny.glb",
+          "icon": "35_clefairy_shiny.png"
+        }
+      }
+    },
+    "36": {
+      "display_name": "Clefable",
+      "variants": {
+        "default": {
+          "model": "36_clefable.glb",
+          "icon": "36_clefable.png"
+        },
+        "shiny": {
+          "model": "36_clefable_shiny.glb",
+          "icon": "36_clefable_shiny.png"
+        }
+      }
+    },
+    "39": {
+      "display_name": "Jigglypuff",
+      "variants": {
+        "default": {
+          "model": "39_jigglypuff.glb",
+          "icon": "39_jigglypuff.png"
+        },
+        "shiny": {
+          "model": "39_jigglypuff_shiny.glb",
+          "icon": "39_jigglypuff_shiny.png"
+        }
+      }
+    },
+    "40": {
+      "display_name": "Wigglytuff",
+      "variants": {
+        "default": {
+          "model": "40_wigglytuff.glb",
+          "icon": "40_wigglytuff.png"
+        },
+        "shiny": {
+          "model": "40_wigglytuff_shiny.glb",
+          "icon": "40_wigglytuff_shiny.png"
+        }
+      }
+    },
+    "48": {
+      "display_name": "Venonat",
+      "variants": {
+        "default": {
+          "model": "48_venonat.glb",
+          "icon": "48_venonat.png"
+        },
+        "shiny": {
+          "model": "48_venonat_shiny.glb",
+          "icon": "48_venonat_shiny.png"
+        }
+      }
+    },
+    "49": {
+      "display_name": "Venomoth",
+      "variants": {
+        "default": {
+          "model": "49_venomoth.glb",
+          "icon": "49_venomoth.png"
+        },
+        "shiny": {
+          "model": "49_venomoth_shiny.glb",
+          "icon": "49_venomoth_shiny.png"
+        }
+      }
+    },
+    "50": {
+      "display_name": "Diglett",
+      "variants": {
+        "default": {
+          "model": "50_diglett.glb",
+          "icon": "50_diglett.png"
+        },
+        "shiny": {
+          "model": "50_diglett_shiny.glb",
+          "icon": "50_diglett_shiny.png"
+        }
+      }
+    },
+    "51": {
+      "display_name": "Dugtrio",
+      "variants": {
+        "default": {
+          "model": "51_dugtrio.glb",
+          "icon": "51_dugtrio.png"
+        },
+        "shiny": {
+          "model": "51_dugtrio_shiny.glb",
+          "icon": "51_dugtrio_shiny.png"
+        }
+      }
+    },
+    "52": {
+      "display_name": "Meowth",
+      "variants": {
+        "default": {
+          "model": "52_meowth.glb",
+          "icon": "52_meowth.png"
+        },
+        "shiny": {
+          "model": "52_meowth_shiny.glb",
+          "icon": "52_meowth_shiny.png"
+        }
+      }
+    },
+    "53": {
+      "display_name": "Persian",
+      "variants": {
+        "default": {
+          "model": "53_persian.glb",
+          "icon": "53_persian.png"
+        },
+        "shiny": {
+          "model": "53_persian_shiny.glb",
+          "icon": "53_persian_shiny.png"
+        }
+      }
+    },
+    "54": {
+      "display_name": "Psyduck",
+      "variants": {
+        "default": {
+          "model": "54_psyduck.glb",
+          "icon": "54_psyduck.png"
+        },
+        "shiny": {
+          "model": "54_psyduck_shiny.glb",
+          "icon": "54_psyduck_shiny.png"
+        }
+      }
+    },
+    "55": {
+      "display_name": "Golduck",
+      "variants": {
+        "default": {
+          "model": "55_golduck.glb",
+          "icon": "55_golduck.png"
+        },
+        "shiny": {
+          "model": "55_golduck_shiny.glb",
+          "icon": "55_golduck_shiny.png"
+        }
+      }
+    },
+    "56": {
+      "display_name": "Mankey",
+      "variants": {
+        "default": {
+          "model": "56_mankey.glb",
+          "icon": "56_mankey.png"
+        },
+        "shiny": {
+          "model": "56_mankey_shiny.glb",
+          "icon": "56_mankey_shiny.png"
+        }
+      }
+    },
+    "57": {
+      "display_name": "Primeape",
+      "variants": {
+        "default": {
+          "model": "57_primeape.glb",
+          "icon": "57_primeape.png"
+        },
+        "shiny": {
+          "model": "57_primeape_shiny.glb",
+          "icon": "57_primeape_shiny.png"
+        }
+      }
+    },
+    "58": {
+      "display_name": "Growlithe",
+      "variants": {
+        "default": {
+          "model": "58_growlithe.glb",
+          "icon": "58_growlithe.png"
+        },
+        "shiny": {
+          "model": "58_growlithe_shiny.glb",
+          "icon": "58_growlithe_shiny.png"
+        }
+      }
+    },
+    "59": {
+      "display_name": "Arcanine",
+      "variants": {
+        "default": {
+          "model": "59_arcanine.glb",
+          "icon": "59_arcanine.png"
+        },
+        "shiny": {
+          "model": "59_arcanine_shiny.glb",
+          "icon": "59_arcanine_shiny.png"
+        }
+      }
+    },
+    "63": {
+      "display_name": "Abra",
+      "variants": {
+        "default": {
+          "model": "63_abra.glb",
+          "icon": "63_abra.png"
+        },
+        "shiny": {
+          "model": "63_abra_shiny.glb",
+          "icon": "63_abra_shiny.png"
+        }
+      }
+    },
+    "64": {
+      "display_name": "Kadabra",
+      "variants": {
+        "default": {
+          "model": "64_kadabra.glb",
+          "icon": "64_kadabra.png"
+        },
+        "shiny": {
+          "model": "64_kadabra_shiny.glb",
+          "icon": "64_kadabra_shiny.png"
+        }
+      }
+    },
+    "65": {
+      "display_name": "Alakazam",
+      "variants": {
+        "default": {
+          "model": "65_alakazam.glb",
+          "icon": "65_alakazam.png"
+        },
+        "shiny": {
+          "model": "65_alakazam_shiny.glb",
+          "icon": "65_alakazam_shiny.png"
+        }
+      }
+    },
+    "66": {
+      "display_name": "Machop",
+      "variants": {
+        "default": {
+          "model": "66_machop.glb",
+          "icon": "66_machop.png"
+        },
+        "shiny": {
+          "model": "66_machop_shiny.glb",
+          "icon": "66_machop_shiny.png"
+        }
+      }
+    },
+    "67": {
+      "display_name": "Machoke",
+      "variants": {
+        "default": {
+          "model": "67_machoke.glb",
+          "icon": "67_machoke.png"
+        },
+        "shiny": {
+          "model": "67_machoke_shiny.glb",
+          "icon": "67_machoke_shiny.png"
+        }
+      }
+    },
+    "68": {
+      "display_name": "Machamp",
+      "variants": {
+        "default": {
+          "model": "68_machamp.glb",
+          "icon": "68_machamp.png"
+        },
+        "shiny": {
+          "model": "68_machamp_shiny.glb",
+          "icon": "68_machamp_shiny.png"
+        }
+      }
+    },
+    "69": {
+      "display_name": "Bellsprout",
+      "variants": {
+        "default": {
+          "model": "69_bellsprout.glb",
+          "icon": "69_bellsprout.png"
+        },
+        "shiny": {
+          "model": "69_bellsprout_shiny.glb",
+          "icon": "69_bellsprout_shiny.png"
+        }
+      }
+    },
+    "70": {
+      "display_name": "Weepinbell",
+      "variants": {
+        "default": {
+          "model": "70_weepinbell.glb",
+          "icon": "70_weepinbell.png"
+        },
+        "shiny": {
+          "model": "70_weepinbell_shiny.glb",
+          "icon": "70_weepinbell_shiny.png"
+        }
+      }
+    },
+    "71": {
+      "display_name": "Victreebel",
+      "variants": {
+        "default": {
+          "model": "71_victreebel.glb",
+          "icon": "71_victreebel.png"
+        },
+        "shiny": {
+          "model": "71_victreebel_shiny.glb",
+          "icon": "71_victreebel_shiny.png"
+        }
+      }
+    },
+    "79": {
+      "display_name": "Slowpoke",
+      "variants": {
+        "default": {
+          "model": "79_slowpoke.glb",
+          "icon": "79_slowpoke.png"
+        },
+        "shiny": {
+          "model": "79_slowpoke_shiny.glb",
+          "icon": "79_slowpoke_shiny.png"
+        }
+      }
+    },
+    "80": {
+      "display_name": "Slowbro",
+      "variants": {
+        "default": {
+          "model": "80_slowbro.glb",
+          "icon": "80_slowbro.png"
+        },
+        "shiny": {
+          "model": "80_slowbro_shiny.glb",
+          "icon": "80_slowbro_shiny.png"
+        }
+      }
+    },
+    "81": {
+      "display_name": "Magnemite",
+      "variants": {
+        "default": {
+          "model": "81_magnemite.glb",
+          "icon": "81_magnemite.png"
+        },
+        "shiny": {
+          "model": "81_magnemite_shiny.glb",
+          "icon": "81_magnemite_shiny.png"
+        }
+      }
+    },
+    "82": {
+      "display_name": "Magneton",
+      "variants": {
+        "default": {
+          "model": "82_magneton.glb",
+          "icon": "82_magneton.png"
+        },
+        "shiny": {
+          "model": "82_magneton_shiny.glb",
+          "icon": "82_magneton_shiny.png"
+        }
+      }
+    },
+    "88": {
+      "display_name": "Grimer",
+      "variants": {
+        "default": {
+          "model": "88_grimer.glb",
+          "icon": "88_grimer.png"
+        },
+        "shiny": {
+          "model": "88_grimer_shiny.glb",
+          "icon": "88_grimer_shiny.png"
+        }
+      }
+    },
+    "89": {
+      "display_name": "Muk",
+      "variants": {
+        "default": {
+          "model": "89_muk.glb",
+          "icon": "89_muk.png"
+        },
+        "shiny": {
+          "model": "89_muk_shiny.glb",
+          "icon": "89_muk_shiny.png"
+        }
+      }
+    },
+    "90": {
+      "display_name": "Shellder",
+      "variants": {
+        "default": {
+          "model": "90_shellder.glb",
+          "icon": "90_shellder.png"
+        },
+        "shiny": {
+          "model": "90_shellder_shiny.glb",
+          "icon": "90_shellder_shiny.png"
+        }
+      }
+    },
+    "91": {
+      "display_name": "Cloyster",
+      "variants": {
+        "default": {
+          "model": "91_cloyster.glb",
+          "icon": "91_cloyster.png"
+        },
+        "shiny": {
+          "model": "91_cloyster_shiny.glb",
+          "icon": "91_cloyster_shiny.png"
+        }
+      }
+    },
+    "92": {
+      "display_name": "Gastly",
+      "variants": {
+        "default": {
+          "model": "92_gastly.glb",
+          "icon": "92_gastly.png"
+        },
+        "shiny": {
+          "model": "92_gastly_shiny.glb",
+          "icon": "92_gastly_shiny.png"
+        }
+      }
+    },
+    "93": {
+      "display_name": "Haunter",
+      "variants": {
+        "default": {
+          "model": "93_haunter.glb",
+          "icon": "93_haunter.png"
+        },
+        "shiny": {
+          "model": "93_haunter_shiny.glb",
+          "icon": "93_haunter_shiny.png"
+        }
+      }
+    },
+    "94": {
+      "display_name": "Gengar",
+      "variants": {
+        "default": {
+          "model": "94_gengar.glb",
+          "icon": "94_gengar.png"
+        },
+        "shiny": {
+          "model": "94_gengar_shiny.glb",
+          "icon": "94_gengar_shiny.png"
+        }
+      }
+    },
+    "95": {
+      "display_name": "Onix",
+      "variants": {
+        "default": {
+          "model": "95_onix.glb",
+          "icon": "95_onix.png"
+        },
+        "shiny": {
+          "model": "95_onix_shiny.glb",
+          "icon": "95_onix_shiny.png"
+        }
+      }
+    },
+    "96": {
+      "display_name": "Drowzee",
+      "variants": {
+        "default": {
+          "model": "96_drowzee.glb",
+          "icon": "96_drowzee.png"
+        },
+        "shiny": {
+          "model": "96_drowzee_shiny.glb",
+          "icon": "96_drowzee_shiny.png"
+        }
+      }
+    },
+    "97": {
+      "display_name": "Hypno",
+      "variants": {
+        "default": {
+          "model": "97_hypno.glb",
+          "icon": "97_hypno.png"
+        },
+        "shiny": {
+          "model": "97_hypno_shiny.glb",
+          "icon": "97_hypno_shiny.png"
+        }
+      }
+    },
+    "100": {
+      "display_name": "Voltorb",
+      "variants": {
+        "default": {
+          "model": "100_voltorb.glb",
+          "icon": "100_voltorb.png"
+        },
+        "shiny": {
+          "model": "100_voltorb_shiny.glb",
+          "icon": "100_voltorb_shiny.png"
+        }
+      }
+    },
+    "101": {
+      "display_name": "Electrode",
+      "variants": {
+        "default": {
+          "model": "101_electrode.glb",
+          "icon": "101_electrode.png"
+        },
+        "shiny": {
+          "model": "101_electrode_shiny.glb",
+          "icon": "101_electrode_shiny.png"
+        }
+      }
+    },
+    "113": {
+      "display_name": "Chansey",
+      "variants": {
+        "default": {
+          "model": "113_chansey.glb",
+          "icon": "113_chansey.png"
+        },
+        "shiny": {
+          "model": "113_chansey_shiny.glb",
+          "icon": "113_chansey_shiny.png"
+        }
+      }
+    },
+    "115": {
+      "display_name": "Kangaskhan",
+      "variants": {
+        "default": {
+          "model": "115_kangaskhan.glb",
+          "icon": "115_kangaskhan.png"
+        },
+        "shiny": {
+          "model": "115_kangaskhan_shiny.glb",
+          "icon": "115_kangaskhan_shiny.png"
+        }
+      }
+    },
+    "120": {
+      "display_name": "Staryu",
+      "variants": {
+        "default": {
+          "model": "120_staryu.glb",
+          "icon": "120_staryu.png"
+        },
+        "shiny": {
+          "model": "120_staryu_shiny.glb",
+          "icon": "120_staryu_shiny.png"
+        }
+      }
+    },
+    "121": {
+      "display_name": "Starmie",
+      "variants": {
+        "default": {
+          "model": "121_starmie.glb",
+          "icon": "121_starmie.png"
+        },
+        "shiny": {
+          "model": "121_starmie_shiny.glb",
+          "icon": "121_starmie_shiny.png"
+        }
+      }
+    },
+    "123": {
+      "display_name": "Scyther",
+      "variants": {
+        "default": {
+          "model": "123_scyther.glb",
+          "icon": "123_scyther.png"
+        },
+        "shiny": {
+          "model": "123_scyther_shiny.glb",
+          "icon": "123_scyther_shiny.png"
+        }
+      }
+    },
+    "127": {
+      "display_name": "Pinsir",
+      "variants": {
+        "default": {
+          "model": "127_pinsir.glb",
+          "icon": "127_pinsir.png"
+        },
+        "shiny": {
+          "model": "127_pinsir_shiny.glb",
+          "icon": "127_pinsir_shiny.png"
+        }
+      }
+    },
+    "128": {
+      "display_name": "Tauros",
+      "variants": {
+        "default": {
+          "model": "128_tauros.glb",
+          "icon": "128_tauros.png"
+        },
+        "shiny": {
+          "model": "128_tauros_shiny.glb",
+          "icon": "128_tauros_shiny.png"
+        }
+      }
+    },
+    "129": {
+      "display_name": "Magikarp",
+      "variants": {
+        "default": {
+          "model": "129_magikarp.glb",
+          "icon": "129_magikarp.png"
+        },
+        "shiny": {
+          "model": "129_magikarp_shiny.glb",
+          "icon": "129_magikarp_shiny.png"
+        }
+      }
+    },
+    "130": {
+      "display_name": "Gyarados",
+      "variants": {
+        "default": {
+          "model": "130_gyarados.glb",
+          "icon": "130_gyarados.png"
+        },
+        "shiny": {
+          "model": "130_gyarados_shiny.glb",
+          "icon": "130_gyarados_shiny.png"
+        }
+      }
+    },
+    "132": {
+      "display_name": "Ditto",
+      "variants": {
+        "default": {
+          "model": "132_ditto.glb",
+          "icon": "132_ditto.png"
+        },
+        "shiny": {
+          "model": "132_ditto_shiny.glb",
+          "icon": "132_ditto_shiny.png"
+        }
+      }
+    },
+    "133": {
+      "display_name": "Eevee",
+      "variants": {
+        "default": {
+          "model": "133_eevee.glb",
+          "icon": "133_eevee.png"
+        },
+        "shiny": {
+          "model": "133_eevee_shiny.glb",
+          "icon": "133_eevee_shiny.png"
+        }
+      }
+    },
+    "134": {
+      "display_name": "Vaporeon",
+      "variants": {
+        "default": {
+          "model": "134_vaporeon.glb",
+          "icon": "134_vaporeon.png"
+        },
+        "shiny": {
+          "model": "134_vaporeon_shiny.glb",
+          "icon": "134_vaporeon_shiny.png"
+        }
+      }
+    },
+    "135": {
+      "display_name": "Jolteon",
+      "variants": {
+        "default": {
+          "model": "135_jolteon.glb",
+          "icon": "135_jolteon.png"
+        },
+        "shiny": {
+          "model": "135_jolteon_shiny.glb",
+          "icon": "135_jolteon_shiny.png"
+        }
+      }
+    },
+    "136": {
+      "display_name": "Flareon",
+      "variants": {
+        "default": {
+          "model": "136_flareon.glb",
+          "icon": "136_flareon.png"
+        },
+        "shiny": {
+          "model": "136_flareon_shiny.glb",
+          "icon": "136_flareon_shiny.png"
+        }
+      }
+    },
+    "142": {
+      "display_name": "Aerodactyl",
+      "variants": {
+        "default": {
+          "model": "142_aerodactyl.glb",
+          "icon": "142_aerodactyl.png"
+        },
+        "shiny": {
+          "model": "142_aerodactyl_shiny.glb",
+          "icon": "142_aerodactyl_shiny.png"
+        }
+      }
+    },
+    "144": {
+      "display_name": "Articuno",
+      "variants": {
+        "default": {
+          "model": "144_articuno.glb",
+          "icon": "144_articuno.png"
+        },
+        "shiny": {
+          "model": "144_articuno_shiny.glb",
+          "icon": "144_articuno_shiny.png"
+        }
+      }
+    },
+    "145": {
+      "display_name": "Zapdos",
+      "variants": {
+        "default": {
+          "model": "145_zapdos.glb",
+          "icon": "145_zapdos.png"
+        },
+        "shiny": {
+          "model": "145_zapdos_shiny.glb",
+          "icon": "145_zapdos_shiny.png"
+        }
+      }
+    },
+    "146": {
+      "display_name": "Moltres",
+      "variants": {
+        "default": {
+          "model": "146_moltres.glb",
+          "icon": "146_moltres.png"
+        },
+        "shiny": {
+          "model": "146_moltres_shiny.glb",
+          "icon": "146_moltres_shiny.png"
+        }
+      }
+    },
+    "147": {
+      "display_name": "Dratini",
+      "variants": {
+        "default": {
+          "model": "147_dratini.glb",
+          "icon": "147_dratini.png"
+        },
+        "shiny": {
+          "model": "147_dratini_shiny.glb",
+          "icon": "147_dratini_shiny.png"
+        }
+      }
+    },
+    "148": {
+      "display_name": "Dragonair",
+      "variants": {
+        "default": {
+          "model": "148_dragonair.glb",
+          "icon": "148_dragonair.png"
+        },
+        "shiny": {
+          "model": "148_dragonair_shiny.glb",
+          "icon": "148_dragonair_shiny.png"
+        }
+      }
+    },
+    "149": {
+      "display_name": "Dragonite",
+      "variants": {
+        "default": {
+          "model": "149_dragonite.glb",
+          "icon": "149_dragonite.png"
+        },
+        "shiny": {
+          "model": "149_dragonite_shiny.glb",
+          "icon": "149_dragonite_shiny.png"
+        }
+      }
+    },
+    "150": {
+      "display_name": "Mewtwo",
+      "variants": {
+        "default": {
+          "model": "150_mewtwo.glb",
+          "icon": "150_mewtwo.png"
+        },
+        "shiny": {
+          "model": "150_mewtwo_shiny.glb",
+          "icon": "150_mewtwo_shiny.png"
+        }
+      }
+    },
+    "151": {
+      "display_name": "Mew",
+      "variants": {
+        "default": {
+          "model": "151_mew.glb",
+          "icon": "151_mew.png"
+        },
+        "shiny": {
+          "model": "151_mew_shiny.glb",
+          "icon": "151_mew_shiny.png"
+        }
+      }
+    },
+    "152": {
+      "display_name": "Chikorita",
+      "variants": {
+        "default": {
+          "model": "152_chikorita.glb",
+          "icon": "152_chikorita.png"
+        },
+        "shiny": {
+          "model": "152_chikorita_shiny.glb",
+          "icon": "152_chikorita_shiny.png"
+        }
+      }
+    },
+    "153": {
+      "display_name": "Bayleef",
+      "variants": {
+        "default": {
+          "model": "153_bayleef.glb",
+          "icon": "153_bayleef.png"
+        },
+        "shiny": {
+          "model": "153_bayleef_shiny.glb",
+          "icon": "153_bayleef_shiny.png"
+        }
+      }
+    },
+    "154": {
+      "display_name": "Meganium",
+      "variants": {
+        "default": {
+          "model": "154_meganium.glb",
+          "icon": "154_meganium.png"
+        },
+        "shiny": {
+          "model": "154_meganium_shiny.glb",
+          "icon": "154_meganium_shiny.png"
+        }
+      }
+    },
+    "155": {
+      "display_name": "Cyndaquil",
+      "variants": {
+        "default": {
+          "model": "155_cyndaquil.glb",
+          "icon": "155_cyndaquil.png"
+        },
+        "shiny": {
+          "model": "155_cyndaquil_shiny.glb",
+          "icon": "155_cyndaquil_shiny.png"
+        }
+      }
+    },
+    "156": {
+      "display_name": "Quilava",
+      "variants": {
+        "default": {
+          "model": "156_quilava.glb",
+          "icon": "156_quilava.png"
+        },
+        "shiny": {
+          "model": "156_quilava_shiny.glb",
+          "icon": "156_quilava_shiny.png"
+        }
+      }
+    },
+    "157": {
+      "display_name": "Typhlosion",
+      "variants": {
+        "default": {
+          "model": "157_typhlosion.glb",
+          "icon": "157_typhlosion.png"
+        },
+        "shiny": {
+          "model": "157_typhlosion_shiny.glb",
+          "icon": "157_typhlosion_shiny.png"
+        }
+      }
+    },
+    "158": {
+      "display_name": "Totodile",
+      "variants": {
+        "default": {
+          "model": "158_totodile.glb",
+          "icon": "158_totodile.png"
+        },
+        "shiny": {
+          "model": "158_totodile_shiny.glb",
+          "icon": "158_totodile_shiny.png"
+        }
+      }
+    },
+    "159": {
+      "display_name": "Croconaw",
+      "variants": {
+        "default": {
+          "model": "159_croconaw.glb",
+          "icon": "159_croconaw.png"
+        },
+        "shiny": {
+          "model": "159_croconaw_shiny.glb",
+          "icon": "159_croconaw_shiny.png"
+        }
+      }
+    },
+    "160": {
+      "display_name": "Feraligatr",
+      "variants": {
+        "default": {
+          "model": "160_feraligatr.glb",
+          "icon": "160_feraligatr.png"
+        },
+        "shiny": {
+          "model": "160_feraligatr_shiny.glb",
+          "icon": "160_feraligatr_shiny.png"
+        }
+      }
+    },
+    "167": {
+      "display_name": "Spinarak",
+      "variants": {
+        "default": {
+          "model": "167_spinarak.glb",
+          "icon": "167_spinarak.png"
+        },
+        "shiny": {
+          "model": "167_spinarak_shiny.glb",
+          "icon": "167_spinarak_shiny.png"
+        }
+      }
+    },
+    "168": {
+      "display_name": "Ariados",
+      "variants": {
+        "default": {
+          "model": "168_ariados.glb",
+          "icon": "168_ariados.png"
+        },
+        "shiny": {
+          "model": "168_ariados_shiny.glb",
+          "icon": "168_ariados_shiny.png"
+        }
+      }
+    },
+    "172": {
+      "display_name": "Pichu",
+      "variants": {
+        "default": {
+          "model": "172_pichu.glb",
+          "icon": "172_pichu.png"
+        },
+        "shiny": {
+          "model": "172_pichu_shiny.glb",
+          "icon": "172_pichu_shiny.png"
+        }
+      }
+    },
+    "173": {
+      "display_name": "Cleffa",
+      "variants": {
+        "default": {
+          "model": "173_cleffa.glb",
+          "icon": "173_cleffa.png"
+        },
+        "shiny": {
+          "model": "173_cleffa_shiny.glb",
+          "icon": "173_cleffa_shiny.png"
+        }
+      }
+    },
+    "174": {
+      "display_name": "Igglybuff",
+      "variants": {
+        "default": {
+          "model": "174_igglybuff.glb",
+          "icon": "174_igglybuff.png"
+        },
+        "shiny": {
+          "model": "174_igglybuff_shiny.glb",
+          "icon": "174_igglybuff_shiny.png"
+        }
+      }
+    },
+    "179": {
+      "display_name": "Mareep",
+      "variants": {
+        "default": {
+          "model": "179_mareep.glb",
+          "icon": "179_mareep.png"
+        },
+        "shiny": {
+          "model": "179_mareep_shiny.glb",
+          "icon": "179_mareep_shiny.png"
+        }
+      }
+    },
+    "180": {
+      "display_name": "Flaaffy",
+      "variants": {
+        "default": {
+          "model": "180_flaaffy.glb",
+          "icon": "180_flaaffy.png"
+        },
+        "shiny": {
+          "model": "180_flaaffy_shiny.glb",
+          "icon": "180_flaaffy_shiny.png"
+        }
+      }
+    },
+    "181": {
+      "display_name": "Ampharos",
+      "variants": {
+        "default": {
+          "model": "181_ampharos.glb",
+          "icon": "181_ampharos.png"
+        },
+        "shiny": {
+          "model": "181_ampharos_shiny.glb",
+          "icon": "181_ampharos_shiny.png"
+        }
+      }
+    },
+    "183": {
+      "display_name": "Marill",
+      "variants": {
+        "default": {
+          "model": "183_marill.glb",
+          "icon": "183_marill.png"
+        },
+        "shiny": {
+          "model": "183_marill_shiny.glb",
+          "icon": "183_marill_shiny.png"
+        }
+      }
+    },
+    "184": {
+      "display_name": "Azumarill",
+      "variants": {
+        "default": {
+          "model": "184_azumarill.glb",
+          "icon": "184_azumarill.png"
+        },
+        "shiny": {
+          "model": "184_azumarill_shiny.glb",
+          "icon": "184_azumarill_shiny.png"
+        }
+      }
+    },
+    "185": {
+      "display_name": "Sudowoodo",
+      "variants": {
+        "default": {
+          "model": "185_sudowoodo.glb",
+          "icon": "185_sudowoodo.png"
+        },
+        "shiny": {
+          "model": "185_sudowoodo_shiny.glb",
+          "icon": "185_sudowoodo_shiny.png"
+        }
+      }
+    },
+    "187": {
+      "display_name": "Hoppip",
+      "variants": {
+        "default": {
+          "model": "187_hoppip.glb",
+          "icon": "187_hoppip.png"
+        },
+        "shiny": {
+          "model": "187_hoppip_shiny.glb",
+          "icon": "187_hoppip_shiny.png"
+        }
+      }
+    },
+    "188": {
+      "display_name": "Skiploom",
+      "variants": {
+        "default": {
+          "model": "188_skiploom.glb",
+          "icon": "188_skiploom.png"
+        },
+        "shiny": {
+          "model": "188_skiploom_shiny.glb",
+          "icon": "188_skiploom_shiny.png"
+        }
+      }
+    },
+    "189": {
+      "display_name": "Jumpluff",
+      "variants": {
+        "default": {
+          "model": "189_jumpluff.glb",
+          "icon": "189_jumpluff.png"
+        },
+        "shiny": {
+          "model": "189_jumpluff_shiny.glb",
+          "icon": "189_jumpluff_shiny.png"
+        }
+      }
+    },
+    "191": {
+      "display_name": "Sunkern",
+      "variants": {
+        "default": {
+          "model": "191_sunkern.glb",
+          "icon": "191_sunkern.png"
+        },
+        "shiny": {
+          "model": "191_sunkern_shiny.glb",
+          "icon": "191_sunkern_shiny.png"
+        }
+      }
+    },
+    "192": {
+      "display_name": "Sunflora",
+      "variants": {
+        "default": {
+          "model": "192_sunflora.glb",
+          "icon": "192_sunflora.png"
+        },
+        "shiny": {
+          "model": "192_sunflora_shiny.glb",
+          "icon": "192_sunflora_shiny.png"
+        }
+      }
+    },
+    "194": {
+      "display_name": "Wooper",
+      "variants": {
+        "default": {
+          "model": "194_wooper.glb",
+          "icon": "194_wooper.png"
+        },
+        "shiny": {
+          "model": "194_wooper_shiny.glb",
+          "icon": "194_wooper_shiny.png"
+        }
+      }
+    },
+    "195": {
+      "display_name": "Quagsire",
+      "variants": {
+        "default": {
+          "model": "195_quagsire.glb",
+          "icon": "195_quagsire.png"
+        },
+        "shiny": {
+          "model": "195_quagsire_shiny.glb",
+          "icon": "195_quagsire_shiny.png"
+        }
+      }
+    },
+    "196": {
+      "display_name": "Espeon",
+      "variants": {
+        "default": {
+          "model": "196_espeon.glb",
+          "icon": "196_espeon.png"
+        },
+        "shiny": {
+          "model": "196_espeon_shiny.glb",
+          "icon": "196_espeon_shiny.png"
+        }
+      }
+    },
+    "197": {
+      "display_name": "Umbreon",
+      "variants": {
+        "default": {
+          "model": "197_umbreon.glb",
+          "icon": "197_umbreon.png"
+        },
+        "shiny": {
+          "model": "197_umbreon_shiny.glb",
+          "icon": "197_umbreon_shiny.png"
+        }
+      }
+    },
+    "198": {
+      "display_name": "Murkrow",
+      "variants": {
+        "default": {
+          "model": "198_murkrow.glb",
+          "icon": "198_murkrow.png"
+        },
+        "shiny": {
+          "model": "198_murkrow_shiny.glb",
+          "icon": "198_murkrow_shiny.png"
+        }
+      }
+    },
+    "199": {
+      "display_name": "Slowking",
+      "variants": {
+        "default": {
+          "model": "199_slowking.glb",
+          "icon": "199_slowking.png"
+        },
+        "shiny": {
+          "model": "199_slowking_shiny.glb",
+          "icon": "199_slowking_shiny.png"
+        }
+      }
+    },
+    "200": {
+      "display_name": "Misdreavus",
+      "variants": {
+        "default": {
+          "model": "200_misdreavus.glb",
+          "icon": "200_misdreavus.png"
+        },
+        "shiny": {
+          "model": "200_misdreavus_shiny.glb",
+          "icon": "200_misdreavus_shiny.png"
+        }
+      }
+    },
+    "203": {
+      "display_name": "Girafarig",
+      "variants": {
+        "default": {
+          "model": "203_girafarig.glb",
+          "icon": "203_girafarig.png"
+        },
+        "shiny": {
+          "model": "203_girafarig_shiny.glb",
+          "icon": "203_girafarig_shiny.png"
+        }
+      }
+    },
+    "204": {
+      "display_name": "Pineco",
+      "variants": {
+        "default": {
+          "model": "204_pineco.glb",
+          "icon": "204_pineco.png"
+        },
+        "shiny": {
+          "model": "204_pineco_shiny.glb",
+          "icon": "204_pineco_shiny.png"
+        }
+      }
+    },
+    "205": {
+      "display_name": "Forretress",
+      "variants": {
+        "default": {
+          "model": "205_forretress.glb",
+          "icon": "205_forretress.png"
+        },
+        "shiny": {
+          "model": "205_forretress_shiny.glb",
+          "icon": "205_forretress_shiny.png"
+        }
+      }
+    },
+    "206": {
+      "display_name": "Dunsparce",
+      "variants": {
+        "default": {
+          "model": "206_dunsparce.glb",
+          "icon": "206_dunsparce.png"
+        },
+        "shiny": {
+          "model": "206_dunsparce_shiny.glb",
+          "icon": "206_dunsparce_shiny.png"
+        }
+      }
+    },
+    "208": {
+      "display_name": "Steelix",
+      "variants": {
+        "default": {
+          "model": "208_steelix.glb",
+          "icon": "208_steelix.png"
+        },
+        "shiny": {
+          "model": "208_steelix_shiny.glb",
+          "icon": "208_steelix_shiny.png"
+        }
+      }
+    },
+    "211": {
+      "display_name": "Qwilfish",
+      "variants": {
+        "default": {
+          "model": "211_qwilfish.glb",
+          "icon": "211_qwilfish.png"
+        },
+        "shiny": {
+          "model": "211_qwilfish_shiny.glb",
+          "icon": "211_qwilfish_shiny.png"
+        }
+      }
+    },
+    "212": {
+      "display_name": "Scizor",
+      "variants": {
+        "default": {
+          "model": "212_scizor.glb",
+          "icon": "212_scizor.png"
+        },
+        "shiny": {
+          "model": "212_scizor_shiny.glb",
+          "icon": "212_scizor_shiny.png"
+        }
+      }
+    },
+    "214": {
+      "display_name": "Heracross",
+      "variants": {
+        "default": {
+          "model": "214_heracross.glb",
+          "icon": "214_heracross.png"
+        },
+        "shiny": {
+          "model": "214_heracross_shiny.glb",
+          "icon": "214_heracross_shiny.png"
+        }
+      }
+    },
+    "215": {
+      "display_name": "Sneasel",
+      "variants": {
+        "default": {
+          "model": "215_sneasel.glb",
+          "icon": "215_sneasel.png"
+        },
+        "shiny": {
+          "model": "215_sneasel_shiny.glb",
+          "icon": "215_sneasel_shiny.png"
+        }
+      }
+    },
+    "216": {
+      "display_name": "Teddiursa",
+      "variants": {
+        "default": {
+          "model": "216_teddiursa.glb",
+          "icon": "216_teddiursa.png"
+        },
+        "shiny": {
+          "model": "216_teddiursa_shiny.glb",
+          "icon": "216_teddiursa_shiny.png"
+        }
+      }
+    },
+    "217": {
+      "display_name": "Ursaring",
+      "variants": {
+        "default": {
+          "model": "217_ursaring.glb",
+          "icon": "217_ursaring.png"
+        },
+        "shiny": {
+          "model": "217_ursaring_shiny.glb",
+          "icon": "217_ursaring_shiny.png"
+        }
+      }
+    },
+    "225": {
+      "display_name": "Delibird",
+      "variants": {
+        "default": {
+          "model": "225_delibird.glb",
+          "icon": "225_delibird.png"
+        },
+        "shiny": {
+          "model": "225_delibird_shiny.glb",
+          "icon": "225_delibird_shiny.png"
+        }
+      }
+    },
+    "227": {
+      "display_name": "Skarmory",
+      "variants": {
+        "default": {
+          "model": "227_skarmory.glb",
+          "icon": "227_skarmory.png"
+        },
+        "shiny": {
+          "model": "227_skarmory_shiny.glb",
+          "icon": "227_skarmory_shiny.png"
+        }
+      }
+    },
+    "228": {
+      "display_name": "Houndour",
+      "variants": {
+        "default": {
+          "model": "228_houndour.glb",
+          "icon": "228_houndour.png"
+        },
+        "shiny": {
+          "model": "228_houndour_shiny.glb",
+          "icon": "228_houndour_shiny.png"
+        }
+      }
+    },
+    "229": {
+      "display_name": "Houndoom",
+      "variants": {
+        "default": {
+          "model": "229_houndoom.glb",
+          "icon": "229_houndoom.png"
+        },
+        "shiny": {
+          "model": "229_houndoom_shiny.glb",
+          "icon": "229_houndoom_shiny.png"
+        }
+      }
+    },
+    "231": {
+      "display_name": "Phanpy",
+      "variants": {
+        "default": {
+          "model": "231_phanpy.glb",
+          "icon": "231_phanpy.png"
+        },
+        "shiny": {
+          "model": "231_phanpy_shiny.glb",
+          "icon": "231_phanpy_shiny.png"
+        }
+      }
+    },
+    "232": {
+      "display_name": "Donphan",
+      "variants": {
+        "default": {
+          "model": "232_donphan.glb",
+          "icon": "232_donphan.png"
+        },
+        "shiny": {
+          "model": "232_donphan_shiny.glb",
+          "icon": "232_donphan_shiny.png"
+        }
+      }
+    },
+    "234": {
+      "display_name": "Stantler",
+      "variants": {
+        "default": {
+          "model": "234_stantler.glb",
+          "icon": "234_stantler.png"
+        },
+        "shiny": {
+          "model": "234_stantler_shiny.glb",
+          "icon": "234_stantler_shiny.png"
+        }
+      }
+    },
+    "242": {
+      "display_name": "Blissey",
+      "variants": {
+        "default": {
+          "model": "242_blissey.glb",
+          "icon": "242_blissey.png"
+        },
+        "shiny": {
+          "model": "242_blissey_shiny.glb",
+          "icon": "242_blissey_shiny.png"
+        }
+      }
+    },
+    "246": {
+      "display_name": "Larvitar",
+      "variants": {
+        "default": {
+          "model": "246_larvitar.glb",
+          "icon": "246_larvitar.png"
+        },
+        "shiny": {
+          "model": "246_larvitar_shiny.glb",
+          "icon": "246_larvitar_shiny.png"
+        }
+      }
+    },
+    "247": {
+      "display_name": "Pupitar",
+      "variants": {
+        "default": {
+          "model": "247_pupitar.glb",
+          "icon": "247_pupitar.png"
+        },
+        "shiny": {
+          "model": "247_pupitar_shiny.glb",
+          "icon": "247_pupitar_shiny.png"
+        }
+      }
+    },
+    "248": {
+      "display_name": "Tyranitar",
+      "variants": {
+        "default": {
+          "model": "248_tyranitar.glb",
+          "icon": "248_tyranitar.png"
+        },
+        "shiny": {
+          "model": "248_tyranitar_shiny.glb",
+          "icon": "248_tyranitar_shiny.png"
+        }
+      }
+    },
+    "278": {
+      "display_name": "Wingull",
+      "variants": {
+        "default": {
+          "model": "278_wingull.glb",
+          "icon": "278_wingull.png"
+        },
+        "shiny": {
+          "model": "278_wingull_shiny.glb",
+          "icon": "278_wingull_shiny.png"
+        }
+      }
+    },
+    "279": {
+      "display_name": "Pelipper",
+      "variants": {
+        "default": {
+          "model": "279_pelipper.glb",
+          "icon": "279_pelipper.png"
+        },
+        "shiny": {
+          "model": "279_pelipper_shiny.glb",
+          "icon": "279_pelipper_shiny.png"
+        }
+      }
+    },
+    "280": {
+      "display_name": "Ralts",
+      "variants": {
+        "default": {
+          "model": "280_ralts.glb",
+          "icon": "280_ralts.png"
+        },
+        "shiny": {
+          "model": "280_ralts_shiny.glb",
+          "icon": "280_ralts_shiny.png"
+        }
+      }
+    },
+    "281": {
+      "display_name": "Kirlia",
+      "variants": {
+        "default": {
+          "model": "281_kirlia.glb",
+          "icon": "281_kirlia.png"
+        },
+        "shiny": {
+          "model": "281_kirlia_shiny.glb",
+          "icon": "281_kirlia_shiny.png"
+        }
+      }
+    },
+    "282": {
+      "display_name": "Gardevoir",
+      "variants": {
+        "default": {
+          "model": "282_gardevoir.glb",
+          "icon": "282_gardevoir.png"
+        },
+        "shiny": {
+          "model": "282_gardevoir_shiny.glb",
+          "icon": "282_gardevoir_shiny.png"
+        }
+      }
+    },
+    "283": {
+      "display_name": "Surskit",
+      "variants": {
+        "default": {
+          "model": "283_surskit.glb",
+          "icon": "283_surskit.png"
+        },
+        "shiny": {
+          "model": "283_surskit_shiny.glb",
+          "icon": "283_surskit_shiny.png"
+        }
+      }
+    },
+    "284": {
+      "display_name": "Masquerain",
+      "variants": {
+        "default": {
+          "model": "284_masquerain.glb",
+          "icon": "284_masquerain.png"
+        },
+        "shiny": {
+          "model": "284_masquerain_shiny.glb",
+          "icon": "284_masquerain_shiny.png"
+        }
+      }
+    },
+    "285": {
+      "display_name": "Shroomish",
+      "variants": {
+        "default": {
+          "model": "285_shroomish.glb",
+          "icon": "285_shroomish.png"
+        },
+        "shiny": {
+          "model": "285_shroomish_shiny.glb",
+          "icon": "285_shroomish_shiny.png"
+        }
+      }
+    },
+    "286": {
+      "display_name": "Breloom",
+      "variants": {
+        "default": {
+          "model": "286_breloom.glb",
+          "icon": "286_breloom.png"
+        },
+        "shiny": {
+          "model": "286_breloom_shiny.glb",
+          "icon": "286_breloom_shiny.png"
+        }
+      }
+    },
+    "287": {
+      "display_name": "Slakoth",
+      "variants": {
+        "default": {
+          "model": "287_slakoth.glb",
+          "icon": "287_slakoth.png"
+        },
+        "shiny": {
+          "model": "287_slakoth_shiny.glb",
+          "icon": "287_slakoth_shiny.png"
+        }
+      }
+    },
+    "288": {
+      "display_name": "Vigoroth",
+      "variants": {
+        "default": {
+          "model": "288_vigoroth.glb",
+          "icon": "288_vigoroth.png"
+        },
+        "shiny": {
+          "model": "288_vigoroth_shiny.glb",
+          "icon": "288_vigoroth_shiny.png"
+        }
+      }
+    },
+    "289": {
+      "display_name": "Slaking",
+      "variants": {
+        "default": {
+          "model": "289_slaking.glb",
+          "icon": "289_slaking.png"
+        },
+        "shiny": {
+          "model": "289_slaking_shiny.glb",
+          "icon": "289_slaking_shiny.png"
+        }
+      }
+    },
+    "296": {
+      "display_name": "Makuhita",
+      "variants": {
+        "default": {
+          "model": "296_makuhita.glb",
+          "icon": "296_makuhita.png"
+        },
+        "shiny": {
+          "model": "296_makuhita_shiny.glb",
+          "icon": "296_makuhita_shiny.png"
+        }
+      }
+    },
+    "297": {
+      "display_name": "Hariyama",
+      "variants": {
+        "default": {
+          "model": "297_hariyama.glb",
+          "icon": "297_hariyama.png"
+        },
+        "shiny": {
+          "model": "297_hariyama_shiny.glb",
+          "icon": "297_hariyama_shiny.png"
+        }
+      }
+    },
+    "298": {
+      "display_name": "Azurill",
+      "variants": {
+        "default": {
+          "model": "298_azurill.glb",
+          "icon": "298_azurill.png"
+        },
+        "shiny": {
+          "model": "298_azurill_shiny.glb",
+          "icon": "298_azurill_shiny.png"
+        }
+      }
+    },
+    "302": {
+      "display_name": "Sableye",
+      "variants": {
+        "default": {
+          "model": "302_sableye.glb",
+          "icon": "302_sableye.png"
+        },
+        "shiny": {
+          "model": "302_sableye_shiny.glb",
+          "icon": "302_sableye_shiny.png"
+        }
+      }
+    },
+    "303": {
+      "display_name": "Mawile",
+      "variants": {
+        "default": {
+          "model": "303_mawile.glb",
+          "icon": "303_mawile.png"
+        },
+        "shiny": {
+          "model": "303_mawile_shiny.glb",
+          "icon": "303_mawile_shiny.png"
+        }
+      }
+    },
+    "304": {
+      "display_name": "Aron",
+      "variants": {
+        "default": {
+          "model": "304_aron.glb",
+          "icon": "304_aron.png"
+        },
+        "shiny": {
+          "model": "304_aron_shiny.glb",
+          "icon": "304_aron_shiny.png"
+        }
+      }
+    },
+    "305": {
+      "display_name": "Lairon",
+      "variants": {
+        "default": {
+          "model": "305_lairon.glb",
+          "icon": "305_lairon.png"
+        },
+        "shiny": {
+          "model": "305_lairon_shiny.glb",
+          "icon": "305_lairon_shiny.png"
+        }
+      }
+    },
+    "306": {
+      "display_name": "Aggron",
+      "variants": {
+        "default": {
+          "model": "306_aggron.glb",
+          "icon": "306_aggron.png"
+        },
+        "shiny": {
+          "model": "306_aggron_shiny.glb",
+          "icon": "306_aggron_shiny.png"
+        }
+      }
+    },
+    "307": {
+      "display_name": "Meditite",
+      "variants": {
+        "default": {
+          "model": "307_meditite.glb",
+          "icon": "307_meditite.png"
+        },
+        "shiny": {
+          "model": "307_meditite_shiny.glb",
+          "icon": "307_meditite_shiny.png"
+        }
+      }
+    },
+    "308": {
+      "display_name": "Medicham",
+      "variants": {
+        "default": {
+          "model": "308_medicham.glb",
+          "icon": "308_medicham.png"
+        },
+        "shiny": {
+          "model": "308_medicham_shiny.glb",
+          "icon": "308_medicham_shiny.png"
+        }
+      }
+    },
+    "309": {
+      "display_name": "Electrike",
+      "variants": {
+        "default": {
+          "model": "309_electrike.glb",
+          "icon": "309_electrike.png"
+        },
+        "shiny": {
+          "model": "309_electrike_shiny.glb",
+          "icon": "309_electrike_shiny.png"
+        }
+      }
+    },
+    "310": {
+      "display_name": "Manectric",
+      "variants": {
+        "default": {
+          "model": "310_manectric.glb",
+          "icon": "310_manectric.png"
+        },
+        "shiny": {
+          "model": "310_manectric_shiny.glb",
+          "icon": "310_manectric_shiny.png"
+        }
+      }
+    },
+    "315": {
+      "display_name": "Roselia",
+      "variants": {
+        "default": {
+          "model": "315_roselia.glb",
+          "icon": "315_roselia.png"
+        },
+        "shiny": {
+          "model": "315_roselia_shiny.glb",
+          "icon": "315_roselia_shiny.png"
+        }
+      }
+    },
+    "316": {
+      "display_name": "Gulpin",
+      "variants": {
+        "default": {
+          "model": "316_gulpin.glb",
+          "icon": "316_gulpin.png"
+        },
+        "shiny": {
+          "model": "316_gulpin_shiny.glb",
+          "icon": "316_gulpin_shiny.png"
+        }
+      }
+    },
+    "317": {
+      "display_name": "Swalot",
+      "variants": {
+        "default": {
+          "model": "317_swalot.glb",
+          "icon": "317_swalot.png"
+        },
+        "shiny": {
+          "model": "317_swalot_shiny.glb",
+          "icon": "317_swalot_shiny.png"
+        }
+      }
+    },
+    "318": {
+      "display_name": "Carvanha",
+      "variants": {
+        "default": {
+          "model": "318_carvanha.glb",
+          "icon": "318_carvanha.png"
+        },
+        "shiny": {
+          "model": "318_carvanha_shiny.glb",
+          "icon": "318_carvanha_shiny.png"
+        }
+      }
+    },
+    "319": {
+      "display_name": "Sharpedo",
+      "variants": {
+        "default": {
+          "model": "319_sharpedo.glb",
+          "icon": "319_sharpedo.png"
+        },
+        "shiny": {
+          "model": "319_sharpedo_shiny.glb",
+          "icon": "319_sharpedo_shiny.png"
+        }
+      }
+    },
+    "322": {
+      "display_name": "Numel",
+      "variants": {
+        "default": {
+          "model": "322_numel.glb",
+          "icon": "322_numel.png"
+        },
+        "shiny": {
+          "model": "322_numel_shiny.glb",
+          "icon": "322_numel_shiny.png"
+        }
+      }
+    },
+    "323": {
+      "display_name": "Camerupt",
+      "variants": {
+        "default": {
+          "model": "323_camerupt.glb",
+          "icon": "323_camerupt.png"
+        },
+        "shiny": {
+          "model": "323_camerupt_shiny.glb",
+          "icon": "323_camerupt_shiny.png"
+        }
+      }
+    },
+    "324": {
+      "display_name": "Torkoal",
+      "variants": {
+        "default": {
+          "model": "324_torkoal.glb",
+          "icon": "324_torkoal.png"
+        },
+        "shiny": {
+          "model": "324_torkoal_shiny.glb",
+          "icon": "324_torkoal_shiny.png"
+        }
+      }
+    },
+    "325": {
+      "display_name": "Spoink",
+      "variants": {
+        "default": {
+          "model": "325_spoink.glb",
+          "icon": "325_spoink.png"
+        },
+        "shiny": {
+          "model": "325_spoink_shiny.glb",
+          "icon": "325_spoink_shiny.png"
+        }
+      }
+    },
+    "326": {
+      "display_name": "Grumpig",
+      "variants": {
+        "default": {
+          "model": "326_grumpig.glb",
+          "icon": "326_grumpig.png"
+        },
+        "shiny": {
+          "model": "326_grumpig_shiny.glb",
+          "icon": "326_grumpig_shiny.png"
+        }
+      }
+    },
+    "331": {
+      "display_name": "Cacnea",
+      "variants": {
+        "default": {
+          "model": "331_cacnea.glb",
+          "icon": "331_cacnea.png"
+        },
+        "shiny": {
+          "model": "331_cacnea_shiny.glb",
+          "icon": "331_cacnea_shiny.png"
+        }
+      }
+    },
+    "332": {
+      "display_name": "Cacturne",
+      "variants": {
+        "default": {
+          "model": "332_cacturne.glb",
+          "icon": "332_cacturne.png"
+        },
+        "shiny": {
+          "model": "332_cacturne_shiny.glb",
+          "icon": "332_cacturne_shiny.png"
+        }
+      }
+    },
+    "333": {
+      "display_name": "Swablu",
+      "variants": {
+        "default": {
+          "model": "333_swablu.glb",
+          "icon": "333_swablu.png"
+        },
+        "shiny": {
+          "model": "333_swablu_shiny.glb",
+          "icon": "333_swablu_shiny.png"
+        }
+      }
+    },
+    "334": {
+      "display_name": "Altaria",
+      "variants": {
+        "default": {
+          "model": "334_altaria.glb",
+          "icon": "334_altaria.png"
+        },
+        "shiny": {
+          "model": "334_altaria_shiny.glb",
+          "icon": "334_altaria_shiny.png"
+        }
+      }
+    },
+    "335": {
+      "display_name": "Zangoose",
+      "variants": {
+        "default": {
+          "model": "335_zangoose.glb",
+          "icon": "335_zangoose.png"
+        },
+        "shiny": {
+          "model": "335_zangoose_shiny.glb",
+          "icon": "335_zangoose_shiny.png"
+        }
+      }
+    },
+    "336": {
+      "display_name": "Seviper",
+      "variants": {
+        "default": {
+          "model": "336_seviper.glb",
+          "icon": "336_seviper.png"
+        },
+        "shiny": {
+          "model": "336_seviper_shiny.glb",
+          "icon": "336_seviper_shiny.png"
+        }
+      }
+    },
+    "339": {
+      "display_name": "Barboach",
+      "variants": {
+        "default": {
+          "model": "339_barboach.glb",
+          "icon": "339_barboach.png"
+        },
+        "shiny": {
+          "model": "339_barboach_shiny.glb",
+          "icon": "339_barboach_shiny.png"
+        }
+      }
+    },
+    "340": {
+      "display_name": "Whiscash",
+      "variants": {
+        "default": {
+          "model": "340_whiscash.glb",
+          "icon": "340_whiscash.png"
+        },
+        "shiny": {
+          "model": "340_whiscash_shiny.glb",
+          "icon": "340_whiscash_shiny.png"
+        }
+      }
+    },
+    "353": {
+      "display_name": "Shuppet",
+      "variants": {
+        "default": {
+          "model": "353_shuppet.glb",
+          "icon": "353_shuppet.png"
+        },
+        "shiny": {
+          "model": "353_shuppet_shiny.glb",
+          "icon": "353_shuppet_shiny.png"
+        }
+      }
+    },
+    "354": {
+      "display_name": "Banette",
+      "variants": {
+        "default": {
+          "model": "354_banette.glb",
+          "icon": "354_banette.png"
+        },
+        "shiny": {
+          "model": "354_banette_shiny.glb",
+          "icon": "354_banette_shiny.png"
+        }
+      }
+    },
+    "357": {
+      "display_name": "Tropius",
+      "variants": {
+        "default": {
+          "model": "357_tropius.glb",
+          "icon": "357_tropius.png"
+        },
+        "shiny": {
+          "model": "357_tropius_shiny.glb",
+          "icon": "357_tropius_shiny.png"
+        }
+      }
+    },
+    "359": {
+      "display_name": "Absol",
+      "variants": {
+        "default": {
+          "model": "359_absol.glb",
+          "icon": "359_absol.png"
+        },
+        "shiny": {
+          "model": "359_absol_shiny.glb",
+          "icon": "359_absol_shiny.png"
+        }
+      }
+    },
+    "361": {
+      "display_name": "Snorunt",
+      "variants": {
+        "default": {
+          "model": "361_snorunt.glb",
+          "icon": "361_snorunt.png"
+        },
+        "shiny": {
+          "model": "361_snorunt_shiny.glb",
+          "icon": "361_snorunt_shiny.png"
+        }
+      }
+    },
+    "362": {
+      "display_name": "Glalie",
+      "variants": {
+        "default": {
+          "model": "362_glalie.glb",
+          "icon": "362_glalie.png"
+        },
+        "shiny": {
+          "model": "362_glalie_shiny.glb",
+          "icon": "362_glalie_shiny.png"
+        }
+      }
+    },
+    "370": {
+      "display_name": "Luvdisc",
+      "variants": {
+        "default": {
+          "model": "370_luvdisc.glb",
+          "icon": "370_luvdisc.png"
+        },
+        "shiny": {
+          "model": "370_luvdisc_shiny.glb",
+          "icon": "370_luvdisc_shiny.png"
+        }
+      }
+    },
+    "371": {
+      "display_name": "Bagon",
+      "variants": {
+        "default": {
+          "model": "371_bagon.glb",
+          "icon": "371_bagon.png"
+        },
+        "shiny": {
+          "model": "371_bagon_shiny.glb",
+          "icon": "371_bagon_shiny.png"
+        }
+      }
+    },
+    "372": {
+      "display_name": "Shelgon",
+      "variants": {
+        "default": {
+          "model": "372_shelgon.glb",
+          "icon": "372_shelgon.png"
+        },
+        "shiny": {
+          "model": "372_shelgon_shiny.glb",
+          "icon": "372_shelgon_shiny.png"
+        }
+      }
+    },
+    "373": {
+      "display_name": "Salamence",
+      "variants": {
+        "default": {
+          "model": "373_salamence.glb",
+          "icon": "373_salamence.png"
+        },
+        "shiny": {
+          "model": "373_salamence_shiny.glb",
+          "icon": "373_salamence_shiny.png"
+        }
+      }
+    },
+    "374": {
+      "display_name": "Beldum",
+      "variants": {
+        "default": {
+          "model": "374_beldum.glb",
+          "icon": "374_beldum.png"
+        },
+        "shiny": {
+          "model": "374_beldum_shiny.glb",
+          "icon": "374_beldum_shiny.png"
+        }
+      }
+    },
+    "375": {
+      "display_name": "Metang",
+      "variants": {
+        "default": {
+          "model": "375_metang.glb",
+          "icon": "375_metang.png"
+        },
+        "shiny": {
+          "model": "375_metang_shiny.glb",
+          "icon": "375_metang_shiny.png"
+        }
+      }
+    },
+    "376": {
+      "display_name": "Metagross",
+      "variants": {
+        "default": {
+          "model": "376_metagross.glb",
+          "icon": "376_metagross.png"
+        },
+        "shiny": {
+          "model": "376_metagross_shiny.glb",
+          "icon": "376_metagross_shiny.png"
+        }
+      }
+    },
+    "382": {
+      "display_name": "Kyogre",
+      "variants": {
+        "default": {
+          "model": "382_kyogre.glb",
+          "icon": "382_kyogre.png"
+        },
+        "shiny": {
+          "model": "382_kyogre_shiny.glb",
+          "icon": "382_kyogre_shiny.png"
+        }
+      }
+    },
+    "383": {
+      "display_name": "Groudon",
+      "variants": {
+        "default": {
+          "model": "383_groudon.glb",
+          "icon": "383_groudon.png"
+        },
+        "shiny": {
+          "model": "383_groudon_shiny.glb",
+          "icon": "383_groudon_shiny.png"
+        }
+      }
+    },
+    "384": {
+      "display_name": "Rayquaza",
+      "variants": {
+        "default": {
+          "model": "384_rayquaza.glb",
+          "icon": "384_rayquaza.png"
+        },
+        "shiny": {
+          "model": "384_rayquaza_shiny.glb",
+          "icon": "384_rayquaza_shiny.png"
+        }
+      }
+    },
+    "396": {
+      "display_name": "Starly",
+      "variants": {
+        "default": {
+          "model": "396_starly.glb",
+          "icon": "396_starly.png"
+        },
+        "shiny": {
+          "model": "396_starly_shiny.glb",
+          "icon": "396_starly_shiny.png"
+        }
+      }
+    },
+    "397": {
+      "display_name": "Staravia",
+      "variants": {
+        "default": {
+          "model": "397_staravia.glb",
+          "icon": "397_staravia.png"
+        },
+        "shiny": {
+          "model": "397_staravia_shiny.glb",
+          "icon": "397_staravia_shiny.png"
+        }
+      }
+    },
+    "398": {
+      "display_name": "Staraptor",
+      "variants": {
+        "default": {
+          "model": "398_staraptor.glb",
+          "icon": "398_staraptor.png"
+        },
+        "shiny": {
+          "model": "398_staraptor_shiny.glb",
+          "icon": "398_staraptor_shiny.png"
+        }
+      }
+    },
+    "401": {
+      "display_name": "Kricketot",
+      "variants": {
+        "default": {
+          "model": "401_kricketot.glb",
+          "icon": "401_kricketot.png"
+        },
+        "shiny": {
+          "model": "401_kricketot_shiny.glb",
+          "icon": "401_kricketot_shiny.png"
+        }
+      }
+    },
+    "402": {
+      "display_name": "Kricketune",
+      "variants": {
+        "default": {
+          "model": "402_kricketune.glb",
+          "icon": "402_kricketune.png"
+        },
+        "shiny": {
+          "model": "402_kricketune_shiny.glb",
+          "icon": "402_kricketune_shiny.png"
+        }
+      }
+    },
+    "403": {
+      "display_name": "Shinx",
+      "variants": {
+        "default": {
+          "model": "403_shinx.glb",
+          "icon": "403_shinx.png"
+        },
+        "shiny": {
+          "model": "403_shinx_shiny.glb",
+          "icon": "403_shinx_shiny.png"
+        }
+      }
+    },
+    "404": {
+      "display_name": "Luxio",
+      "variants": {
+        "default": {
+          "model": "404_luxio.glb",
+          "icon": "404_luxio.png"
+        },
+        "shiny": {
+          "model": "404_luxio_shiny.glb",
+          "icon": "404_luxio_shiny.png"
+        }
+      }
+    },
+    "405": {
+      "display_name": "Luxray",
+      "variants": {
+        "default": {
+          "model": "405_luxray.glb",
+          "icon": "405_luxray.png"
+        },
+        "shiny": {
+          "model": "405_luxray_shiny.glb",
+          "icon": "405_luxray_shiny.png"
+        }
+      }
+    },
+    "406": {
+      "display_name": "Budew",
+      "variants": {
+        "default": {
+          "model": "406_budew.glb",
+          "icon": "406_budew.png"
+        },
+        "shiny": {
+          "model": "406_budew_shiny.glb",
+          "icon": "406_budew_shiny.png"
+        }
+      }
+    },
+    "407": {
+      "display_name": "Roserade",
+      "variants": {
+        "default": {
+          "model": "407_roserade.glb",
+          "icon": "407_roserade.png"
+        },
+        "shiny": {
+          "model": "407_roserade_shiny.glb",
+          "icon": "407_roserade_shiny.png"
+        }
+      }
+    },
+    "415": {
+      "display_name": "Combee",
+      "variants": {
+        "default": {
+          "model": "415_combee.glb",
+          "icon": "415_combee.png"
+        },
+        "shiny": {
+          "model": "415_combee_shiny.glb",
+          "icon": "415_combee_shiny.png"
+        }
+      }
+    },
+    "416": {
+      "display_name": "Vespiquen",
+      "variants": {
+        "default": {
+          "model": "416_vespiquen.glb",
+          "icon": "416_vespiquen.png"
+        },
+        "shiny": {
+          "model": "416_vespiquen_shiny.glb",
+          "icon": "416_vespiquen_shiny.png"
+        }
+      }
+    },
+    "417": {
+      "display_name": "Pachirisu",
+      "variants": {
+        "default": {
+          "model": "417_pachirisu.glb",
+          "icon": "417_pachirisu.png"
+        },
+        "shiny": {
+          "model": "417_pachirisu_shiny.glb",
+          "icon": "417_pachirisu_shiny.png"
+        }
+      }
+    },
+    "418": {
+      "display_name": "Buizel",
+      "variants": {
+        "default": {
+          "model": "418_buizel.glb",
+          "icon": "418_buizel.png"
+        },
+        "shiny": {
+          "model": "418_buizel_shiny.glb",
+          "icon": "418_buizel_shiny.png"
+        }
+      }
+    },
+    "419": {
+      "display_name": "Floatzel",
+      "variants": {
+        "default": {
+          "model": "419_floatzel.glb",
+          "icon": "419_floatzel.png"
+        },
+        "shiny": {
+          "model": "419_floatzel_shiny.glb",
+          "icon": "419_floatzel_shiny.png"
+        }
+      }
+    },
+    "422": {
+      "display_name": "Shellos",
+      "variants": {
+        "default": {
+          "model": "422_shellos.glb",
+          "icon": "422_shellos.png"
+        },
+        "shiny": {
+          "model": "422_shellos_shiny.glb",
+          "icon": "422_shellos_shiny.png"
+        }
+      }
+    },
+    "423": {
+      "display_name": "Gastrodon",
+      "variants": {
+        "default": {
+          "model": "423_gastrodon.glb",
+          "icon": "423_gastrodon.png"
+        },
+        "shiny": {
+          "model": "423_gastrodon_shiny.glb",
+          "icon": "423_gastrodon_shiny.png"
+        }
+      }
+    },
+    "425": {
+      "display_name": "Drifloon",
+      "variants": {
+        "default": {
+          "model": "425_drifloon.glb",
+          "icon": "425_drifloon.png"
+        },
+        "shiny": {
+          "model": "425_drifloon_shiny.glb",
+          "icon": "425_drifloon_shiny.png"
+        }
+      }
+    },
+    "426": {
+      "display_name": "Drifblim",
+      "variants": {
+        "default": {
+          "model": "426_drifblim.glb",
+          "icon": "426_drifblim.png"
+        },
+        "shiny": {
+          "model": "426_drifblim_shiny.glb",
+          "icon": "426_drifblim_shiny.png"
+        }
+      }
+    },
+    "427": {
+      "display_name": "Buneary",
+      "variants": {
+        "default": {
+          "model": "427_buneary.glb",
+          "icon": "427_buneary.png"
+        },
+        "shiny": {
+          "model": "427_buneary_shiny.glb",
+          "icon": "427_buneary_shiny.png"
+        }
+      }
+    },
+    "428": {
+      "display_name": "Lopunny",
+      "variants": {
+        "default": {
+          "model": "428_lopunny.glb",
+          "icon": "428_lopunny.png"
+        },
+        "shiny": {
+          "model": "428_lopunny_shiny.glb",
+          "icon": "428_lopunny_shiny.png"
+        }
+      }
+    },
+    "429": {
+      "display_name": "Mismagius",
+      "variants": {
+        "default": {
+          "model": "429_mismagius.glb",
+          "icon": "429_mismagius.png"
+        },
+        "shiny": {
+          "model": "429_mismagius_shiny.glb",
+          "icon": "429_mismagius_shiny.png"
+        }
+      }
+    },
+    "430": {
+      "display_name": "Honchkrow",
+      "variants": {
+        "default": {
+          "model": "430_honchkrow.glb",
+          "icon": "430_honchkrow.png"
+        },
+        "shiny": {
+          "model": "430_honchkrow_shiny.glb",
+          "icon": "430_honchkrow_shiny.png"
+        }
+      }
+    },
+    "434": {
+      "display_name": "Stunky",
+      "variants": {
+        "default": {
+          "model": "434_stunky.glb",
+          "icon": "434_stunky.png"
+        },
+        "shiny": {
+          "model": "434_stunky_shiny.glb",
+          "icon": "434_stunky_shiny.png"
+        }
+      }
+    },
+    "435": {
+      "display_name": "Skuntank",
+      "variants": {
+        "default": {
+          "model": "435_skuntank.glb",
+          "icon": "435_skuntank.png"
+        },
+        "shiny": {
+          "model": "435_skuntank_shiny.glb",
+          "icon": "435_skuntank_shiny.png"
+        }
+      }
+    },
+    "436": {
+      "display_name": "Bronzor",
+      "variants": {
+        "default": {
+          "model": "436_bronzor.glb",
+          "icon": "436_bronzor.png"
+        },
+        "shiny": {
+          "model": "436_bronzor_shiny.glb",
+          "icon": "436_bronzor_shiny.png"
+        }
+      }
+    },
+    "437": {
+      "display_name": "Bronzong",
+      "variants": {
+        "default": {
+          "model": "437_bronzong.glb",
+          "icon": "437_bronzong.png"
+        },
+        "shiny": {
+          "model": "437_bronzong_shiny.glb",
+          "icon": "437_bronzong_shiny.png"
+        }
+      }
+    },
+    "438": {
+      "display_name": "Bonsly",
+      "variants": {
+        "default": {
+          "model": "438_bonsly.glb",
+          "icon": "438_bonsly.png"
+        },
+        "shiny": {
+          "model": "438_bonsly_shiny.glb",
+          "icon": "438_bonsly_shiny.png"
+        }
+      }
+    },
+    "440": {
+      "display_name": "Happiny",
+      "variants": {
+        "default": {
+          "model": "440_happiny.glb",
+          "icon": "440_happiny.png"
+        },
+        "shiny": {
+          "model": "440_happiny_shiny.glb",
+          "icon": "440_happiny_shiny.png"
+        }
+      }
+    },
+    "442": {
+      "display_name": "Spiritomb",
+      "variants": {
+        "default": {
+          "model": "442_spiritomb.glb",
+          "icon": "442_spiritomb.png"
+        },
+        "shiny": {
+          "model": "442_spiritomb_shiny.glb",
+          "icon": "442_spiritomb_shiny.png"
+        }
+      }
+    },
+    "443": {
+      "display_name": "Gible",
+      "variants": {
+        "default": {
+          "model": "443_gible.glb",
+          "icon": "443_gible.png"
+        },
+        "shiny": {
+          "model": "443_gible_shiny.glb",
+          "icon": "443_gible_shiny.png"
+        }
+      }
+    },
+    "444": {
+      "display_name": "Gabite",
+      "variants": {
+        "default": {
+          "model": "444_gabite.glb",
+          "icon": "444_gabite.png"
+        },
+        "shiny": {
+          "model": "444_gabite_shiny.glb",
+          "icon": "444_gabite_shiny.png"
+        }
+      }
+    },
+    "445": {
+      "display_name": "Garchomp",
+      "variants": {
+        "default": {
+          "model": "445_garchomp.glb",
+          "icon": "445_garchomp.png"
+        },
+        "shiny": {
+          "model": "445_garchomp_shiny.glb",
+          "icon": "445_garchomp_shiny.png"
+        }
+      }
+    },
+    "447": {
+      "display_name": "Riolu",
+      "variants": {
+        "default": {
+          "model": "447_riolu.glb",
+          "icon": "447_riolu.png"
+        },
+        "shiny": {
+          "model": "447_riolu_shiny.glb",
+          "icon": "447_riolu_shiny.png"
+        }
+      }
+    },
+    "448": {
+      "display_name": "Lucario",
+      "variants": {
+        "default": {
+          "model": "448_lucario.glb",
+          "icon": "448_lucario.png"
+        },
+        "shiny": {
+          "model": "448_lucario_shiny.glb",
+          "icon": "448_lucario_shiny.png"
+        }
+      }
+    },
+    "449": {
+      "display_name": "Hippopotas",
+      "variants": {
+        "default": {
+          "model": "449_hippopotas.glb",
+          "icon": "449_hippopotas.png"
+        },
+        "shiny": {
+          "model": "449_hippopotas_shiny.glb",
+          "icon": "449_hippopotas_shiny.png"
+        }
+      }
+    },
+    "450": {
+      "display_name": "Hippowdon",
+      "variants": {
+        "default": {
+          "model": "450_hippowdon.glb",
+          "icon": "450_hippowdon.png"
+        },
+        "shiny": {
+          "model": "450_hippowdon_shiny.glb",
+          "icon": "450_hippowdon_shiny.png"
+        }
+      }
+    },
+    "453": {
+      "display_name": "Croagunk",
+      "variants": {
+        "default": {
+          "model": "453_croagunk.glb",
+          "icon": "453_croagunk.png"
+        },
+        "shiny": {
+          "model": "453_croagunk_shiny.glb",
+          "icon": "453_croagunk_shiny.png"
+        }
+      }
+    },
+    "454": {
+      "display_name": "Toxicroak",
+      "variants": {
+        "default": {
+          "model": "454_toxicroak.glb",
+          "icon": "454_toxicroak.png"
+        },
+        "shiny": {
+          "model": "454_toxicroak_shiny.glb",
+          "icon": "454_toxicroak_shiny.png"
+        }
+      }
+    },
+    "456": {
+      "display_name": "Finneon",
+      "variants": {
+        "default": {
+          "model": "456_finneon.glb",
+          "icon": "456_finneon.png"
+        },
+        "shiny": {
+          "model": "456_finneon_shiny.glb",
+          "icon": "456_finneon_shiny.png"
+        }
+      }
+    },
+    "457": {
+      "display_name": "Lumineon",
+      "variants": {
+        "default": {
+          "model": "457_lumineon.glb",
+          "icon": "457_lumineon.png"
+        },
+        "shiny": {
+          "model": "457_lumineon_shiny.glb",
+          "icon": "457_lumineon_shiny.png"
+        }
+      }
+    },
+    "459": {
+      "display_name": "Snover",
+      "variants": {
+        "default": {
+          "model": "459_snover.glb",
+          "icon": "459_snover.png"
+        },
+        "shiny": {
+          "model": "459_snover_shiny.glb",
+          "icon": "459_snover_shiny.png"
+        }
+      }
+    },
+    "460": {
+      "display_name": "Abomasnow",
+      "variants": {
+        "default": {
+          "model": "460_abomasnow.glb",
+          "icon": "460_abomasnow.png"
+        },
+        "shiny": {
+          "model": "460_abomasnow_shiny.glb",
+          "icon": "460_abomasnow_shiny.png"
+        }
+      }
+    },
+    "461": {
+      "display_name": "Weavile",
+      "variants": {
+        "default": {
+          "model": "461_weavile.glb",
+          "icon": "461_weavile.png"
+        },
+        "shiny": {
+          "model": "461_weavile_shiny.glb",
+          "icon": "461_weavile_shiny.png"
+        }
+      }
+    },
+    "462": {
+      "display_name": "Magnezone",
+      "variants": {
+        "default": {
+          "model": "462_magnezone.glb",
+          "icon": "462_magnezone.png"
+        },
+        "shiny": {
+          "model": "462_magnezone_shiny.glb",
+          "icon": "462_magnezone_shiny.png"
+        }
+      }
+    },
+    "470": {
+      "display_name": "Leafeon",
+      "variants": {
+        "default": {
+          "model": "470_leafeon.glb",
+          "icon": "470_leafeon.png"
+        },
+        "shiny": {
+          "model": "470_leafeon_shiny.glb",
+          "icon": "470_leafeon_shiny.png"
+        }
+      }
+    },
+    "471": {
+      "display_name": "Glaceon",
+      "variants": {
+        "default": {
+          "model": "471_glaceon.glb",
+          "icon": "471_glaceon.png"
+        },
+        "shiny": {
+          "model": "471_glaceon_shiny.glb",
+          "icon": "471_glaceon_shiny.png"
+        }
+      }
+    },
+    "475": {
+      "display_name": "Gallade",
+      "variants": {
+        "default": {
+          "model": "475_gallade.glb",
+          "icon": "475_gallade.png"
+        },
+        "shiny": {
+          "model": "475_gallade_shiny.glb",
+          "icon": "475_gallade_shiny.png"
+        }
+      }
+    },
+    "478": {
+      "display_name": "Froslass",
+      "variants": {
+        "default": {
+          "model": "478_froslass.glb",
+          "icon": "478_froslass.png"
+        },
+        "shiny": {
+          "model": "478_froslass_shiny.glb",
+          "icon": "478_froslass_shiny.png"
+        }
+      }
+    },
+    "479": {
+      "display_name": "Rotom",
+      "variants": {
+        "default": {
+          "model": "479_rotom.glb",
+          "icon": "479_rotom.png"
+        },
+        "shiny": {
+          "model": "479_rotom_shiny.glb",
+          "icon": "479_rotom_shiny.png"
+        }
+      }
+    },
+    "480": {
+      "display_name": "Uxie",
+      "variants": {
+        "default": {
+          "model": "480_uxie.glb",
+          "icon": "480_uxie.png"
+        },
+        "shiny": {
+          "model": "480_uxie_shiny.glb",
+          "icon": "480_uxie_shiny.png"
+        }
+      }
+    },
+    "481": {
+      "display_name": "Mesprit",
+      "variants": {
+        "default": {
+          "model": "481_mesprit.glb",
+          "icon": "481_mesprit.png"
+        },
+        "shiny": {
+          "model": "481_mesprit_shiny.glb",
+          "icon": "481_mesprit_shiny.png"
+        }
+      }
+    },
+    "482": {
+      "display_name": "Azelf",
+      "variants": {
+        "default": {
+          "model": "482_azelf.glb",
+          "icon": "482_azelf.png"
+        },
+        "shiny": {
+          "model": "482_azelf_shiny.glb",
+          "icon": "482_azelf_shiny.png"
+        }
+      }
+    },
+    "483": {
+      "display_name": "Dialga",
+      "variants": {
+        "default": {
+          "model": "483_dialga.glb",
+          "icon": "483_dialga.png"
+        },
+        "shiny": {
+          "model": "483_dialga_shiny.glb",
+          "icon": "483_dialga_shiny.png"
+        }
+      }
+    },
+    "484": {
+      "display_name": "Palkia",
+      "variants": {
+        "default": {
+          "model": "484_palkia.glb",
+          "icon": "484_palkia.png"
+        },
+        "shiny": {
+          "model": "484_palkia_shiny.glb",
+          "icon": "484_palkia_shiny.png"
+        }
+      }
+    },
+    "485": {
+      "display_name": "Heatran",
+      "variants": {
+        "default": {
+          "model": "485_heatran.glb",
+          "icon": "485_heatran.png"
+        },
+        "shiny": {
+          "model": "485_heatran_shiny.glb",
+          "icon": "485_heatran_shiny.png"
+        }
+      }
+    },
+    "487": {
+      "display_name": "Giratina Altered",
+      "variants": {
+        "default": {
+          "model": "487_giratina-altered.glb",
+          "icon": "487_giratina-altered.png"
+        },
+        "shiny": {
+          "model": "487_giratina-altered_shiny.glb",
+          "icon": "487_giratina-altered_shiny.png"
+        }
+      }
+    },
+    "488": {
+      "display_name": "Cresselia",
+      "variants": {
+        "default": {
+          "model": "488_cresselia.glb",
+          "icon": "488_cresselia.png"
+        },
+        "shiny": {
+          "model": "488_cresselia_shiny.glb",
+          "icon": "488_cresselia_shiny.png"
+        }
+      }
+    },
+    "493": {
+      "display_name": "Arceus",
+      "variants": {
+        "default": {
+          "model": "493_arceus.glb",
+          "icon": "493_arceus.png"
+        },
+        "shiny": {
+          "model": "493_arceus_shiny.glb",
+          "icon": "493_arceus_shiny.png"
+        }
+      }
+    },
+    "498": {
+      "display_name": "Tepig",
+      "variants": {
+        "default": {
+          "model": "498_tepig.glb",
+          "icon": "498_tepig.png"
+        },
+        "shiny": {
+          "model": "498_tepig_shiny.glb",
+          "icon": "498_tepig_shiny.png"
+        }
+      }
+    },
+    "499": {
+      "display_name": "Pignite",
+      "variants": {
+        "default": {
+          "model": "499_pignite.glb",
+          "icon": "499_pignite.png"
+        },
+        "shiny": {
+          "model": "499_pignite_shiny.glb",
+          "icon": "499_pignite_shiny.png"
+        }
+      }
+    },
+    "500": {
+      "display_name": "Emboar",
+      "variants": {
+        "default": {
+          "model": "500_emboar.glb",
+          "icon": "500_emboar.png"
+        },
+        "shiny": {
+          "model": "500_emboar_shiny.glb",
+          "icon": "500_emboar_shiny.png"
+        }
+      }
+    },
+    "501": {
+      "display_name": "Oshawott",
+      "variants": {
+        "default": {
+          "model": "501_oshawott.glb",
+          "icon": "501_oshawott.png"
+        },
+        "shiny": {
+          "model": "501_oshawott_shiny.glb",
+          "icon": "501_oshawott_shiny.png"
+        }
+      }
+    },
+    "502": {
+      "display_name": "Dewott",
+      "variants": {
+        "default": {
+          "model": "502_dewott.glb",
+          "icon": "502_dewott.png"
+        },
+        "shiny": {
+          "model": "502_dewott_shiny.glb",
+          "icon": "502_dewott_shiny.png"
+        }
+      }
+    },
+    "503": {
+      "display_name": "Samurott",
+      "variants": {
+        "default": {
+          "model": "503_samurott.glb",
+          "icon": "503_samurott.png"
+        },
+        "shiny": {
+          "model": "503_samurott_shiny.glb",
+          "icon": "503_samurott_shiny.png"
+        }
+      }
+    },
+    "504": {
+      "display_name": "Patrat",
+      "variants": {
+        "default": {
+          "model": "504_patrat.glb",
+          "icon": "504_patrat.png"
+        },
+        "shiny": {
+          "model": "504_patrat_shiny.glb",
+          "icon": "504_patrat_shiny.png"
+        }
+      }
+    },
+    "505": {
+      "display_name": "Watchog",
+      "variants": {
+        "default": {
+          "model": "505_watchog.glb",
+          "icon": "505_watchog.png"
+        },
+        "shiny": {
+          "model": "505_watchog_shiny.glb",
+          "icon": "505_watchog_shiny.png"
+        }
+      }
+    },
+    "511": {
+      "display_name": "Pansage",
+      "variants": {
+        "default": {
+          "model": "511_pansage.glb",
+          "icon": "511_pansage.png"
+        },
+        "shiny": {
+          "model": "511_pansage_shiny.glb",
+          "icon": "511_pansage_shiny.png"
+        }
+      }
+    },
+    "512": {
+      "display_name": "Simisage",
+      "variants": {
+        "default": {
+          "model": "512_simisage.glb",
+          "icon": "512_simisage.png"
+        },
+        "shiny": {
+          "model": "512_simisage_shiny.glb",
+          "icon": "512_simisage_shiny.png"
+        }
+      }
+    },
+    "513": {
+      "display_name": "Pansear",
+      "variants": {
+        "default": {
+          "model": "513_pansear.glb",
+          "icon": "513_pansear.png"
+        },
+        "shiny": {
+          "model": "513_pansear_shiny.glb",
+          "icon": "513_pansear_shiny.png"
+        }
+      }
+    },
+    "514": {
+      "display_name": "Simisear",
+      "variants": {
+        "default": {
+          "model": "514_simisear.glb",
+          "icon": "514_simisear.png"
+        },
+        "shiny": {
+          "model": "514_simisear_shiny.glb",
+          "icon": "514_simisear_shiny.png"
+        }
+      }
+    },
+    "515": {
+      "display_name": "Panpour",
+      "variants": {
+        "default": {
+          "model": "515_panpour.glb",
+          "icon": "515_panpour.png"
+        },
+        "shiny": {
+          "model": "515_panpour_shiny.glb",
+          "icon": "515_panpour_shiny.png"
+        }
+      }
+    },
+    "516": {
+      "display_name": "Simipour",
+      "variants": {
+        "default": {
+          "model": "516_simipour.glb",
+          "icon": "516_simipour.png"
+        },
+        "shiny": {
+          "model": "516_simipour_shiny.glb",
+          "icon": "516_simipour_shiny.png"
+        }
+      }
+    },
+    "529": {
+      "display_name": "Drilbur",
+      "variants": {
+        "default": {
+          "model": "529_drilbur.glb",
+          "icon": "529_drilbur.png"
+        },
+        "shiny": {
+          "model": "529_drilbur_shiny.glb",
+          "icon": "529_drilbur_shiny.png"
+        }
+      }
+    },
+    "530": {
+      "display_name": "Excadrill",
+      "variants": {
+        "default": {
+          "model": "530_excadrill.glb",
+          "icon": "530_excadrill.png"
+        },
+        "shiny": {
+          "model": "530_excadrill_shiny.glb",
+          "icon": "530_excadrill_shiny.png"
+        }
+      }
+    },
+    "531": {
+      "display_name": "Audino",
+      "variants": {
+        "default": {
+          "model": "531_audino.glb",
+          "icon": "531_audino.png"
+        },
+        "shiny": {
+          "model": "531_audino_shiny.glb",
+          "icon": "531_audino_shiny.png"
+        }
+      }
+    },
+    "543": {
+      "display_name": "Venipede",
+      "variants": {
+        "default": {
+          "model": "543_venipede.glb",
+          "icon": "543_venipede.png"
+        },
+        "shiny": {
+          "model": "543_venipede_shiny.glb",
+          "icon": "543_venipede_shiny.png"
+        }
+      }
+    },
+    "544": {
+      "display_name": "Whirlipede",
+      "variants": {
+        "default": {
+          "model": "544_whirlipede.glb",
+          "icon": "544_whirlipede.png"
+        },
+        "shiny": {
+          "model": "544_whirlipede_shiny.glb",
+          "icon": "544_whirlipede_shiny.png"
+        }
+      }
+    },
+    "545": {
+      "display_name": "Scolipede",
+      "variants": {
+        "default": {
+          "model": "545_scolipede.glb",
+          "icon": "545_scolipede.png"
+        },
+        "shiny": {
+          "model": "545_scolipede_shiny.glb",
+          "icon": "545_scolipede_shiny.png"
+        }
+      }
+    },
+    "548": {
+      "display_name": "Petilil",
+      "variants": {
+        "default": {
+          "model": "548_petilil.glb",
+          "icon": "548_petilil.png"
+        },
+        "shiny": {
+          "model": "548_petilil_shiny.glb",
+          "icon": "548_petilil_shiny.png"
+        }
+      }
+    },
+    "549": {
+      "display_name": "Lilligant",
+      "variants": {
+        "default": {
+          "model": "549_lilligant.glb",
+          "icon": "549_lilligant.png"
+        },
+        "shiny": {
+          "model": "549_lilligant_shiny.glb",
+          "icon": "549_lilligant_shiny.png"
+        }
+      }
+    },
+    "550": {
+      "display_name": "Basculin Red Striped",
+      "variants": {
+        "default": {
+          "model": "550_basculin-red-striped.glb",
+          "icon": "550_basculin-red-striped.png"
+        },
+        "shiny": {
+          "model": "550_basculin-red-striped_shiny.glb",
+          "icon": "550_basculin-red-striped_shiny.png"
+        }
+      }
+    },
+    "551": {
+      "display_name": "Sandile",
+      "variants": {
+        "default": {
+          "model": "551_sandile.glb",
+          "icon": "551_sandile.png"
+        },
+        "shiny": {
+          "model": "551_sandile_shiny.glb",
+          "icon": "551_sandile_shiny.png"
+        }
+      }
+    },
+    "552": {
+      "display_name": "Krokorok",
+      "variants": {
+        "default": {
+          "model": "552_krokorok.glb",
+          "icon": "552_krokorok.png"
+        },
+        "shiny": {
+          "model": "552_krokorok_shiny.glb",
+          "icon": "552_krokorok_shiny.png"
+        }
+      }
+    },
+    "553": {
+      "display_name": "Krookodile",
+      "variants": {
+        "default": {
+          "model": "553_krookodile.glb",
+          "icon": "553_krookodile.png"
+        },
+        "shiny": {
+          "model": "553_krookodile_shiny.glb",
+          "icon": "553_krookodile_shiny.png"
+        }
+      }
+    },
+    "559": {
+      "display_name": "Scraggy",
+      "variants": {
+        "default": {
+          "model": "559_scraggy.glb",
+          "icon": "559_scraggy.png"
+        },
+        "shiny": {
+          "model": "559_scraggy_shiny.glb",
+          "icon": "559_scraggy_shiny.png"
+        }
+      }
+    },
+    "560": {
+      "display_name": "Scrafty",
+      "variants": {
+        "default": {
+          "model": "560_scrafty.glb",
+          "icon": "560_scrafty.png"
+        },
+        "shiny": {
+          "model": "560_scrafty_shiny.glb",
+          "icon": "560_scrafty_shiny.png"
+        }
+      }
+    },
+    "568": {
+      "display_name": "Trubbish",
+      "variants": {
+        "default": {
+          "model": "568_trubbish.glb",
+          "icon": "568_trubbish.png"
+        },
+        "shiny": {
+          "model": "568_trubbish_shiny.glb",
+          "icon": "568_trubbish_shiny.png"
+        }
+      }
+    },
+    "569": {
+      "display_name": "Garbodor",
+      "variants": {
+        "default": {
+          "model": "569_garbodor.glb",
+          "icon": "569_garbodor.png"
+        },
+        "shiny": {
+          "model": "569_garbodor_shiny.glb",
+          "icon": "569_garbodor_shiny.png"
+        }
+      }
+    },
+    "570": {
+      "display_name": "Zorua",
+      "variants": {
+        "default": {
+          "model": "570_zorua.glb",
+          "icon": "570_zorua.png"
+        },
+        "shiny": {
+          "model": "570_zorua_shiny.glb",
+          "icon": "570_zorua_shiny.png"
+        }
+      }
+    },
+    "571": {
+      "display_name": "Zoroark",
+      "variants": {
+        "default": {
+          "model": "571_zoroark.glb",
+          "icon": "571_zoroark.png"
+        },
+        "shiny": {
+          "model": "571_zoroark_shiny.glb",
+          "icon": "571_zoroark_shiny.png"
+        }
+      }
+    },
+    "574": {
+      "display_name": "Gothita",
+      "variants": {
+        "default": {
+          "model": "574_gothita.glb",
+          "icon": "574_gothita.png"
+        },
+        "shiny": {
+          "model": "574_gothita_shiny.glb",
+          "icon": "574_gothita_shiny.png"
+        }
+      }
+    },
+    "575": {
+      "display_name": "Gothorita",
+      "variants": {
+        "default": {
+          "model": "575_gothorita.glb",
+          "icon": "575_gothorita.png"
+        },
+        "shiny": {
+          "model": "575_gothorita_shiny.glb",
+          "icon": "575_gothorita_shiny.png"
+        }
+      }
+    },
+    "576": {
+      "display_name": "Gothitelle",
+      "variants": {
+        "default": {
+          "model": "576_gothitelle.glb",
+          "icon": "576_gothitelle.png"
+        },
+        "shiny": {
+          "model": "576_gothitelle_shiny.glb",
+          "icon": "576_gothitelle_shiny.png"
+        }
+      }
+    },
+    "582": {
+      "display_name": "Vanillite",
+      "variants": {
+        "default": {
+          "model": "582_vanillite.glb",
+          "icon": "582_vanillite.png"
+        },
+        "shiny": {
+          "model": "582_vanillite_shiny.glb",
+          "icon": "582_vanillite_shiny.png"
+        }
+      }
+    },
+    "583": {
+      "display_name": "Vanillish",
+      "variants": {
+        "default": {
+          "model": "583_vanillish.glb",
+          "icon": "583_vanillish.png"
+        },
+        "shiny": {
+          "model": "583_vanillish_shiny.glb",
+          "icon": "583_vanillish_shiny.png"
+        }
+      }
+    },
+    "584": {
+      "display_name": "Vanilluxe",
+      "variants": {
+        "default": {
+          "model": "584_vanilluxe.glb",
+          "icon": "584_vanilluxe.png"
+        },
+        "shiny": {
+          "model": "584_vanilluxe_shiny.glb",
+          "icon": "584_vanilluxe_shiny.png"
+        }
+      }
+    },
+    "585": {
+      "display_name": "Deerling",
+      "variants": {
+        "default": {
+          "model": "585_deerling.glb",
+          "icon": "585_deerling.png"
+        },
+        "shiny": {
+          "model": "585_deerling_shiny.glb",
+          "icon": "585_deerling_shiny.png"
+        }
+      }
+    },
+    "586": {
+      "display_name": "Sawsbuck",
+      "variants": {
+        "default": {
+          "model": "586_sawsbuck.glb",
+          "icon": "586_sawsbuck.png"
+        },
+        "shiny": {
+          "model": "586_sawsbuck_shiny.glb",
+          "icon": "586_sawsbuck_shiny.png"
+        }
+      }
+    },
+    "587": {
+      "display_name": "Emolga",
+      "variants": {
+        "default": {
+          "model": "587_emolga.glb",
+          "icon": "587_emolga.png"
+        },
+        "shiny": {
+          "model": "587_emolga_shiny.glb",
+          "icon": "587_emolga_shiny.png"
+        }
+      }
+    },
+    "590": {
+      "display_name": "Foongus",
+      "variants": {
+        "default": {
+          "model": "590_foongus.glb",
+          "icon": "590_foongus.png"
+        },
+        "shiny": {
+          "model": "590_foongus_shiny.glb",
+          "icon": "590_foongus_shiny.png"
+        }
+      }
+    },
+    "591": {
+      "display_name": "Amoonguss",
+      "variants": {
+        "default": {
+          "model": "591_amoonguss.glb",
+          "icon": "591_amoonguss.png"
+        },
+        "shiny": {
+          "model": "591_amoonguss_shiny.glb",
+          "icon": "591_amoonguss_shiny.png"
+        }
+      }
+    },
+    "594": {
+      "display_name": "Alomomola",
+      "variants": {
+        "default": {
+          "model": "594_alomomola.glb",
+          "icon": "594_alomomola.png"
+        },
+        "shiny": {
+          "model": "594_alomomola_shiny.glb",
+          "icon": "594_alomomola_shiny.png"
+        }
+      }
+    },
+    "602": {
+      "display_name": "Tynamo",
+      "variants": {
+        "default": {
+          "model": "602_tynamo.glb",
+          "icon": "602_tynamo.png"
+        },
+        "shiny": {
+          "model": "602_tynamo_shiny.glb",
+          "icon": "602_tynamo_shiny.png"
+        }
+      }
+    },
+    "603": {
+      "display_name": "Eelektrik",
+      "variants": {
+        "default": {
+          "model": "603_eelektrik.glb",
+          "icon": "603_eelektrik.png"
+        },
+        "shiny": {
+          "model": "603_eelektrik_shiny.glb",
+          "icon": "603_eelektrik_shiny.png"
+        }
+      }
+    },
+    "604": {
+      "display_name": "Eelektross",
+      "variants": {
+        "default": {
+          "model": "604_eelektross.glb",
+          "icon": "604_eelektross.png"
+        },
+        "shiny": {
+          "model": "604_eelektross_shiny.glb",
+          "icon": "604_eelektross_shiny.png"
+        }
+      }
+    },
+    "607": {
+      "display_name": "Litwick",
+      "variants": {
+        "default": {
+          "model": "607_litwick.glb",
+          "icon": "607_litwick.png"
+        },
+        "shiny": {
+          "model": "607_litwick_shiny.glb",
+          "icon": "607_litwick_shiny.png"
+        }
+      }
+    },
+    "608": {
+      "display_name": "Lampent",
+      "variants": {
+        "default": {
+          "model": "608_lampent.glb",
+          "icon": "608_lampent.png"
+        },
+        "shiny": {
+          "model": "608_lampent_shiny.glb",
+          "icon": "608_lampent_shiny.png"
+        }
+      }
+    },
+    "609": {
+      "display_name": "Chandelure",
+      "variants": {
+        "default": {
+          "model": "609_chandelure.glb",
+          "icon": "609_chandelure.png"
+        },
+        "shiny": {
+          "model": "609_chandelure_shiny.glb",
+          "icon": "609_chandelure_shiny.png"
+        }
+      }
+    },
+    "610": {
+      "display_name": "Axew",
+      "variants": {
+        "default": {
+          "model": "610_axew.glb",
+          "icon": "610_axew.png"
+        },
+        "shiny": {
+          "model": "610_axew_shiny.glb",
+          "icon": "610_axew_shiny.png"
+        }
+      }
+    },
+    "611": {
+      "display_name": "Fraxure",
+      "variants": {
+        "default": {
+          "model": "611_fraxure.glb",
+          "icon": "611_fraxure.png"
+        },
+        "shiny": {
+          "model": "611_fraxure_shiny.glb",
+          "icon": "611_fraxure_shiny.png"
+        }
+      }
+    },
+    "612": {
+      "display_name": "Haxorus",
+      "variants": {
+        "default": {
+          "model": "612_haxorus.glb",
+          "icon": "612_haxorus.png"
+        },
+        "shiny": {
+          "model": "612_haxorus_shiny.glb",
+          "icon": "612_haxorus_shiny.png"
+        }
+      }
+    },
+    "613": {
+      "display_name": "Cubchoo",
+      "variants": {
+        "default": {
+          "model": "613_cubchoo.glb",
+          "icon": "613_cubchoo.png"
+        },
+        "shiny": {
+          "model": "613_cubchoo_shiny.glb",
+          "icon": "613_cubchoo_shiny.png"
+        }
+      }
+    },
+    "614": {
+      "display_name": "Beartic",
+      "variants": {
+        "default": {
+          "model": "614_beartic.glb",
+          "icon": "614_beartic.png"
+        },
+        "shiny": {
+          "model": "614_beartic_shiny.glb",
+          "icon": "614_beartic_shiny.png"
+        }
+      }
+    },
+    "615": {
+      "display_name": "Cryogonal",
+      "variants": {
+        "default": {
+          "model": "615_cryogonal.glb",
+          "icon": "615_cryogonal.png"
+        },
+        "shiny": {
+          "model": "615_cryogonal_shiny.glb",
+          "icon": "615_cryogonal_shiny.png"
+        }
+      }
+    },
+    "618": {
+      "display_name": "Stunfisk",
+      "variants": {
+        "default": {
+          "model": "618_stunfisk.glb",
+          "icon": "618_stunfisk.png"
+        },
+        "shiny": {
+          "model": "618_stunfisk_shiny.glb",
+          "icon": "618_stunfisk_shiny.png"
+        }
+      }
+    },
+    "624": {
+      "display_name": "Pawniard",
+      "variants": {
+        "default": {
+          "model": "624_pawniard.glb",
+          "icon": "624_pawniard.png"
+        },
+        "shiny": {
+          "model": "624_pawniard_shiny.glb",
+          "icon": "624_pawniard_shiny.png"
+        }
+      }
+    },
+    "625": {
+      "display_name": "Bisharp",
+      "variants": {
+        "default": {
+          "model": "625_bisharp.glb",
+          "icon": "625_bisharp.png"
+        },
+        "shiny": {
+          "model": "625_bisharp_shiny.glb",
+          "icon": "625_bisharp_shiny.png"
+        }
+      }
+    },
+    "627": {
+      "display_name": "Rufflet",
+      "variants": {
+        "default": {
+          "model": "627_rufflet.glb",
+          "icon": "627_rufflet.png"
+        },
+        "shiny": {
+          "model": "627_rufflet_shiny.glb",
+          "icon": "627_rufflet_shiny.png"
+        }
+      }
+    },
+    "628": {
+      "display_name": "Braviary",
+      "variants": {
+        "default": {
+          "model": "628_braviary.glb",
+          "icon": "628_braviary.png"
+        },
+        "shiny": {
+          "model": "628_braviary_shiny.glb",
+          "icon": "628_braviary_shiny.png"
+        }
+      }
+    },
+    "633": {
+      "display_name": "Deino",
+      "variants": {
+        "default": {
+          "model": "633_deino.glb",
+          "icon": "633_deino.png"
+        },
+        "shiny": {
+          "model": "633_deino_shiny.glb",
+          "icon": "633_deino_shiny.png"
+        }
+      }
+    },
+    "634": {
+      "display_name": "Zweilous",
+      "variants": {
+        "default": {
+          "model": "634_zweilous.glb",
+          "icon": "634_zweilous.png"
+        },
+        "shiny": {
+          "model": "634_zweilous_shiny.glb",
+          "icon": "634_zweilous_shiny.png"
+        }
+      }
+    },
+    "635": {
+      "display_name": "Hydreigon",
+      "variants": {
+        "default": {
+          "model": "635_hydreigon.glb",
+          "icon": "635_hydreigon.png"
+        },
+        "shiny": {
+          "model": "635_hydreigon_shiny.glb",
+          "icon": "635_hydreigon_shiny.png"
+        }
+      }
+    },
+    "636": {
+      "display_name": "Larvesta",
+      "variants": {
+        "default": {
+          "model": "636_larvesta.glb",
+          "icon": "636_larvesta.png"
+        },
+        "shiny": {
+          "model": "636_larvesta_shiny.glb",
+          "icon": "636_larvesta_shiny.png"
+        }
+      }
+    },
+    "637": {
+      "display_name": "Volcarona",
+      "variants": {
+        "default": {
+          "model": "637_volcarona.glb",
+          "icon": "637_volcarona.png"
+        },
+        "shiny": {
+          "model": "637_volcarona_shiny.glb",
+          "icon": "637_volcarona_shiny.png"
+        }
+      }
+    },
+    "641": {
+      "display_name": "Tornadus Incarnate",
+      "variants": {
+        "default": {
+          "model": "641_tornadus-incarnate.glb",
+          "icon": "641_tornadus-incarnate.png"
+        },
+        "shiny": {
+          "model": "641_tornadus-incarnate_shiny.glb",
+          "icon": "641_tornadus-incarnate_shiny.png"
+        }
+      }
+    },
+    "642": {
+      "display_name": "Thundurus Incarnate",
+      "variants": {
+        "default": {
+          "model": "642_thundurus-incarnate.glb",
+          "icon": "642_thundurus-incarnate.png"
+        },
+        "shiny": {
+          "model": "642_thundurus-incarnate_shiny.glb",
+          "icon": "642_thundurus-incarnate_shiny.png"
+        }
+      }
+    },
+    "645": {
+      "display_name": "Landorus Incarnate",
+      "variants": {
+        "default": {
+          "model": "645_landorus-incarnate.glb",
+          "icon": "645_landorus-incarnate.png"
+        },
+        "shiny": {
+          "model": "645_landorus-incarnate_shiny.glb",
+          "icon": "645_landorus-incarnate_shiny.png"
+        }
+      }
+    },
+    "648": {
+      "display_name": "Meloetta Aria",
+      "variants": {
+        "default": {
+          "model": "648_meloetta-aria.glb",
+          "icon": "648_meloetta-aria.png"
+        },
+        "shiny": {
+          "model": "648_meloetta-aria_shiny.glb",
+          "icon": "648_meloetta-aria_shiny.png"
+        }
+      }
+    },
+    "650": {
+      "display_name": "Chespin",
+      "variants": {
+        "default": {
+          "model": "650_chespin.glb",
+          "icon": "650_chespin.png"
+        },
+        "shiny": {
+          "model": "650_chespin_shiny.glb",
+          "icon": "650_chespin_shiny.png"
+        }
+      }
+    },
+    "651": {
+      "display_name": "Quilladin",
+      "variants": {
+        "default": {
+          "model": "651_quilladin.glb",
+          "icon": "651_quilladin.png"
+        },
+        "shiny": {
+          "model": "651_quilladin_shiny.glb",
+          "icon": "651_quilladin_shiny.png"
+        }
+      }
+    },
+    "652": {
+      "display_name": "Chesnaught",
+      "variants": {
+        "default": {
+          "model": "652_chesnaught.glb",
+          "icon": "652_chesnaught.png"
+        },
+        "shiny": {
+          "model": "652_chesnaught_shiny.glb",
+          "icon": "652_chesnaught_shiny.png"
+        }
+      }
+    },
+    "653": {
+      "display_name": "Fennekin",
+      "variants": {
+        "default": {
+          "model": "653_fennekin.glb",
+          "icon": "653_fennekin.png"
+        },
+        "shiny": {
+          "model": "653_fennekin_shiny.glb",
+          "icon": "653_fennekin_shiny.png"
+        }
+      }
+    },
+    "654": {
+      "display_name": "Braixen",
+      "variants": {
+        "default": {
+          "model": "654_braixen.glb",
+          "icon": "654_braixen.png"
+        },
+        "shiny": {
+          "model": "654_braixen_shiny.glb",
+          "icon": "654_braixen_shiny.png"
+        }
+      }
+    },
+    "655": {
+      "display_name": "Delphox",
+      "variants": {
+        "default": {
+          "model": "655_delphox.glb",
+          "icon": "655_delphox.png"
+        },
+        "shiny": {
+          "model": "655_delphox_shiny.glb",
+          "icon": "655_delphox_shiny.png"
+        }
+      }
+    },
+    "656": {
+      "display_name": "Froakie",
+      "variants": {
+        "default": {
+          "model": "656_froakie.glb",
+          "icon": "656_froakie.png"
+        },
+        "shiny": {
+          "model": "656_froakie_shiny.glb",
+          "icon": "656_froakie_shiny.png"
+        }
+      }
+    },
+    "657": {
+      "display_name": "Frogadier",
+      "variants": {
+        "default": {
+          "model": "657_frogadier.glb",
+          "icon": "657_frogadier.png"
+        },
+        "shiny": {
+          "model": "657_frogadier_shiny.glb",
+          "icon": "657_frogadier_shiny.png"
+        }
+      }
+    },
+    "658": {
+      "display_name": "Greninja",
+      "variants": {
+        "default": {
+          "model": "658_greninja.glb",
+          "icon": "658_greninja.png"
+        },
+        "shiny": {
+          "model": "658_greninja_shiny.glb",
+          "icon": "658_greninja_shiny.png"
+        }
+      }
+    },
+    "659": {
+      "display_name": "Bunnelby",
+      "variants": {
+        "default": {
+          "model": "659_bunnelby.glb",
+          "icon": "659_bunnelby.png"
+        },
+        "shiny": {
+          "model": "659_bunnelby_shiny.glb",
+          "icon": "659_bunnelby_shiny.png"
+        }
+      }
+    },
+    "660": {
+      "display_name": "Diggersby",
+      "variants": {
+        "default": {
+          "model": "660_diggersby.glb",
+          "icon": "660_diggersby.png"
+        },
+        "shiny": {
+          "model": "660_diggersby_shiny.glb",
+          "icon": "660_diggersby_shiny.png"
+        }
+      }
+    },
+    "661": {
+      "display_name": "Fletchling",
+      "variants": {
+        "default": {
+          "model": "661_fletchling.glb",
+          "icon": "661_fletchling.png"
+        },
+        "shiny": {
+          "model": "661_fletchling_shiny.glb",
+          "icon": "661_fletchling_shiny.png"
+        }
+      }
+    },
+    "662": {
+      "display_name": "Fletchinder",
+      "variants": {
+        "default": {
+          "model": "662_fletchinder.glb",
+          "icon": "662_fletchinder.png"
+        },
+        "shiny": {
+          "model": "662_fletchinder_shiny.glb",
+          "icon": "662_fletchinder_shiny.png"
+        }
+      }
+    },
+    "663": {
+      "display_name": "Talonflame",
+      "variants": {
+        "default": {
+          "model": "663_talonflame.glb",
+          "icon": "663_talonflame.png"
+        },
+        "shiny": {
+          "model": "663_talonflame_shiny.glb",
+          "icon": "663_talonflame_shiny.png"
+        }
+      }
+    },
+    "664": {
+      "display_name": "Scatterbug",
+      "variants": {
+        "default": {
+          "model": "664_scatterbug.glb",
+          "icon": "664_scatterbug.png"
+        },
+        "shiny": {
+          "model": "664_scatterbug_shiny.glb",
+          "icon": "664_scatterbug_shiny.png"
+        }
+      }
+    },
+    "665": {
+      "display_name": "Spewpa",
+      "variants": {
+        "default": {
+          "model": "665_spewpa.glb",
+          "icon": "665_spewpa.png"
+        },
+        "shiny": {
+          "model": "665_spewpa_shiny.glb",
+          "icon": "665_spewpa_shiny.png"
+        }
+      }
+    },
+    "666": {
+      "display_name": "Vivillon",
+      "variants": {
+        "default": {
+          "model": "666_vivillon.glb",
+          "icon": "666_vivillon.png"
+        },
+        "shiny": {
+          "model": "666_vivillon_shiny.glb",
+          "icon": "666_vivillon_shiny.png"
+        }
+      }
+    },
+    "667": {
+      "display_name": "Litleo",
+      "variants": {
+        "default": {
+          "model": "667_litleo.glb",
+          "icon": "667_litleo.png"
+        },
+        "shiny": {
+          "model": "667_litleo_shiny.glb",
+          "icon": "667_litleo_shiny.png"
+        }
+      }
+    },
+    "668": {
+      "display_name": "Pyroar",
+      "variants": {
+        "default": {
+          "model": "668_pyroar.glb",
+          "icon": "668_pyroar.png"
+        },
+        "shiny": {
+          "model": "668_pyroar_shiny.glb",
+          "icon": "668_pyroar_shiny.png"
+        }
+      }
+    },
+    "669": {
+      "display_name": "Flabebe",
+      "variants": {
+        "default": {
+          "model": "669_flabebe.glb",
+          "icon": "669_flabebe.png"
+        },
+        "shiny": {
+          "model": "669_flabebe_shiny.glb",
+          "icon": "669_flabebe_shiny.png"
+        }
+      }
+    },
+    "670": {
+      "display_name": "Floette",
+      "variants": {
+        "default": {
+          "model": "670_floette.glb",
+          "icon": "670_floette.png"
+        },
+        "shiny": {
+          "model": "670_floette_shiny.glb",
+          "icon": "670_floette_shiny.png"
+        }
+      }
+    },
+    "671": {
+      "display_name": "Florges",
+      "variants": {
+        "default": {
+          "model": "671_florges.glb",
+          "icon": "671_florges.png"
+        },
+        "shiny": {
+          "model": "671_florges_shiny.glb",
+          "icon": "671_florges_shiny.png"
+        }
+      }
+    },
+    "672": {
+      "display_name": "Skiddo",
+      "variants": {
+        "default": {
+          "model": "672_skiddo.glb",
+          "icon": "672_skiddo.png"
+        },
+        "shiny": {
+          "model": "672_skiddo_shiny.glb",
+          "icon": "672_skiddo_shiny.png"
+        }
+      }
+    },
+    "673": {
+      "display_name": "Gogoat",
+      "variants": {
+        "default": {
+          "model": "673_gogoat.glb",
+          "icon": "673_gogoat.png"
+        },
+        "shiny": {
+          "model": "673_gogoat_shiny.glb",
+          "icon": "673_gogoat_shiny.png"
+        }
+      }
+    },
+    "674": {
+      "display_name": "Pancham",
+      "variants": {
+        "default": {
+          "model": "674_pancham.glb",
+          "icon": "674_pancham.png"
+        },
+        "shiny": {
+          "model": "674_pancham_shiny.glb",
+          "icon": "674_pancham_shiny.png"
+        }
+      }
+    },
+    "675": {
+      "display_name": "Pangoro",
+      "variants": {
+        "default": {
+          "model": "675_pangoro.glb",
+          "icon": "675_pangoro.png"
+        },
+        "shiny": {
+          "model": "675_pangoro_shiny.glb",
+          "icon": "675_pangoro_shiny.png"
+        }
+      }
+    },
+    "676": {
+      "display_name": "Furfrou",
+      "variants": {
+        "default": {
+          "model": "676_furfrou.glb",
+          "icon": "676_furfrou.png"
+        },
+        "shiny": {
+          "model": "676_furfrou_shiny.glb",
+          "icon": "676_furfrou_shiny.png"
+        }
+      }
+    },
+    "677": {
+      "display_name": "Espurr",
+      "variants": {
+        "default": {
+          "model": "677_espurr.glb",
+          "icon": "677_espurr.png"
+        },
+        "shiny": {
+          "model": "677_espurr_shiny.glb",
+          "icon": "677_espurr_shiny.png"
+        }
+      }
+    },
+    "678": {
+      "display_name": "Meowstic",
+      "variants": {
+        "default": {
+          "model": "678_meowstic.glb",
+          "icon": "678_meowstic.png"
+        },
+        "shiny": {
+          "model": "678_meowstic_shiny.glb",
+          "icon": "678_meowstic_shiny.png"
+        }
+      }
+    },
+    "679": {
+      "display_name": "Honedge",
+      "variants": {
+        "default": {
+          "model": "679_honedge.glb",
+          "icon": "679_honedge.png"
+        },
+        "shiny": {
+          "model": "679_honedge_shiny.glb",
+          "icon": "679_honedge_shiny.png"
+        }
+      }
+    },
+    "680": {
+      "display_name": "Doublade",
+      "variants": {
+        "default": {
+          "model": "680_doublade.glb",
+          "icon": "680_doublade.png"
+        },
+        "shiny": {
+          "model": "680_doublade_shiny.glb",
+          "icon": "680_doublade_shiny.png"
+        }
+      }
+    },
+    "681": {
+      "display_name": "Aegislash",
+      "variants": {
+        "default": {
+          "model": "681_aegislash.glb",
+          "icon": "681_aegislash.png"
+        },
+        "shiny": {
+          "model": "681_aegislash_shiny.glb",
+          "icon": "681_aegislash_shiny.png"
+        }
+      }
+    },
+    "682": {
+      "display_name": "Spritzee",
+      "variants": {
+        "default": {
+          "model": "682_spritzee.glb",
+          "icon": "682_spritzee.png"
+        },
+        "shiny": {
+          "model": "682_spritzee_shiny.glb",
+          "icon": "682_spritzee_shiny.png"
+        }
+      }
+    },
+    "683": {
+      "display_name": "Aromatisse",
+      "variants": {
+        "default": {
+          "model": "683_aromatisse.glb",
+          "icon": "683_aromatisse.png"
+        },
+        "shiny": {
+          "model": "683_aromatisse_shiny.glb",
+          "icon": "683_aromatisse_shiny.png"
+        }
+      }
+    },
+    "684": {
+      "display_name": "Swirlix",
+      "variants": {
+        "default": {
+          "model": "684_swirlix.glb",
+          "icon": "684_swirlix.png"
+        },
+        "shiny": {
+          "model": "684_swirlix_shiny.glb",
+          "icon": "684_swirlix_shiny.png"
+        }
+      }
+    },
+    "685": {
+      "display_name": "Slurpuff",
+      "variants": {
+        "default": {
+          "model": "685_slurpuff.glb",
+          "icon": "685_slurpuff.png"
+        },
+        "shiny": {
+          "model": "685_slurpuff_shiny.glb",
+          "icon": "685_slurpuff_shiny.png"
+        }
+      }
+    },
+    "686": {
+      "display_name": "Inkay",
+      "variants": {
+        "default": {
+          "model": "686_inkay.glb",
+          "icon": "686_inkay.png"
+        },
+        "shiny": {
+          "model": "686_inkay_shiny.glb",
+          "icon": "686_inkay_shiny.png"
+        }
+      }
+    },
+    "687": {
+      "display_name": "Malamar",
+      "variants": {
+        "default": {
+          "model": "687_malamar.glb",
+          "icon": "687_malamar.png"
+        },
+        "shiny": {
+          "model": "687_malamar_shiny.glb",
+          "icon": "687_malamar_shiny.png"
+        }
+      }
+    },
+    "688": {
+      "display_name": "Binacle",
+      "variants": {
+        "default": {
+          "model": "688_binacle.glb",
+          "icon": "688_binacle.png"
+        },
+        "shiny": {
+          "model": "688_binacle_shiny.glb",
+          "icon": "688_binacle_shiny.png"
+        }
+      }
+    },
+    "689": {
+      "display_name": "Barbaracle",
+      "variants": {
+        "default": {
+          "model": "689_barbaracle.glb",
+          "icon": "689_barbaracle.png"
+        },
+        "shiny": {
+          "model": "689_barbaracle_shiny.glb",
+          "icon": "689_barbaracle_shiny.png"
+        }
+      }
+    },
+    "690": {
+      "display_name": "Skrelp",
+      "variants": {
+        "default": {
+          "model": "690_skrelp.glb",
+          "icon": "690_skrelp.png"
+        },
+        "shiny": {
+          "model": "690_skrelp_shiny.glb",
+          "icon": "690_skrelp_shiny.png"
+        }
+      }
+    },
+    "691": {
+      "display_name": "Dragalge",
+      "variants": {
+        "default": {
+          "model": "691_dragalge.glb",
+          "icon": "691_dragalge.png"
+        },
+        "shiny": {
+          "model": "691_dragalge_shiny.glb",
+          "icon": "691_dragalge_shiny.png"
+        }
+      }
+    },
+    "692": {
+      "display_name": "Clauncher",
+      "variants": {
+        "default": {
+          "model": "692_clauncher.glb",
+          "icon": "692_clauncher.png"
+        },
+        "shiny": {
+          "model": "692_clauncher_shiny.glb",
+          "icon": "692_clauncher_shiny.png"
+        }
+      }
+    },
+    "693": {
+      "display_name": "Clawitzer",
+      "variants": {
+        "default": {
+          "model": "693_clawitzer.glb",
+          "icon": "693_clawitzer.png"
+        },
+        "shiny": {
+          "model": "693_clawitzer_shiny.glb",
+          "icon": "693_clawitzer_shiny.png"
+        }
+      }
+    },
+    "694": {
+      "display_name": "Helioptile",
+      "variants": {
+        "default": {
+          "model": "694_helioptile.glb",
+          "icon": "694_helioptile.png"
+        },
+        "shiny": {
+          "model": "694_helioptile_shiny.glb",
+          "icon": "694_helioptile_shiny.png"
+        }
+      }
+    },
+    "695": {
+      "display_name": "Heliolisk",
+      "variants": {
+        "default": {
+          "model": "695_heliolisk.glb",
+          "icon": "695_heliolisk.png"
+        },
+        "shiny": {
+          "model": "695_heliolisk_shiny.glb",
+          "icon": "695_heliolisk_shiny.png"
+        }
+      }
+    },
+    "696": {
+      "display_name": "Tyrunt",
+      "variants": {
+        "default": {
+          "model": "696_tyrunt.glb",
+          "icon": "696_tyrunt.png"
+        },
+        "shiny": {
+          "model": "696_tyrunt_shiny.glb",
+          "icon": "696_tyrunt_shiny.png"
+        }
+      }
+    },
+    "697": {
+      "display_name": "Tyrantrum",
+      "variants": {
+        "default": {
+          "model": "697_tyrantrum.glb",
+          "icon": "697_tyrantrum.png"
+        },
+        "shiny": {
+          "model": "697_tyrantrum_shiny.glb",
+          "icon": "697_tyrantrum_shiny.png"
+        }
+      }
+    },
+    "698": {
+      "display_name": "Amaura",
+      "variants": {
+        "default": {
+          "model": "698_amaura.glb",
+          "icon": "698_amaura.png"
+        },
+        "shiny": {
+          "model": "698_amaura_shiny.glb",
+          "icon": "698_amaura_shiny.png"
+        }
+      }
+    },
+    "699": {
+      "display_name": "Aurorus",
+      "variants": {
+        "default": {
+          "model": "699_aurorus.glb",
+          "icon": "699_aurorus.png"
+        },
+        "shiny": {
+          "model": "699_aurorus_shiny.glb",
+          "icon": "699_aurorus_shiny.png"
+        }
+      }
+    },
+    "700": {
+      "display_name": "Sylveon",
+      "variants": {
+        "default": {
+          "model": "700_sylveon.glb",
+          "icon": "700_sylveon.png"
+        },
+        "shiny": {
+          "model": "700_sylveon_shiny.glb",
+          "icon": "700_sylveon_shiny.png"
+        }
+      }
+    },
+    "701": {
+      "display_name": "Hawlucha",
+      "variants": {
+        "default": {
+          "model": "701_hawlucha.glb",
+          "icon": "701_hawlucha.png"
+        },
+        "shiny": {
+          "model": "701_hawlucha_shiny.glb",
+          "icon": "701_hawlucha_shiny.png"
+        }
+      }
+    },
+    "702": {
+      "display_name": "Dedenne",
+      "variants": {
+        "default": {
+          "model": "702_dedenne.glb",
+          "icon": "702_dedenne.png"
+        },
+        "shiny": {
+          "model": "702_dedenne_shiny.glb",
+          "icon": "702_dedenne_shiny.png"
+        }
+      }
+    },
+    "703": {
+      "display_name": "Carbink",
+      "variants": {
+        "default": {
+          "model": "703_carbink.glb",
+          "icon": "703_carbink.png"
+        },
+        "shiny": {
+          "model": "703_carbink_shiny.glb",
+          "icon": "703_carbink_shiny.png"
+        }
+      }
+    },
+    "704": {
+      "display_name": "Goomy",
+      "variants": {
+        "default": {
+          "model": "704_goomy.glb",
+          "icon": "704_goomy.png"
+        },
+        "shiny": {
+          "model": "704_goomy_shiny.glb",
+          "icon": "704_goomy_shiny.png"
+        }
+      }
+    },
+    "705": {
+      "display_name": "Sliggoo",
+      "variants": {
+        "default": {
+          "model": "705_sliggoo.glb",
+          "icon": "705_sliggoo.png"
+        },
+        "shiny": {
+          "model": "705_sliggoo_shiny.glb",
+          "icon": "705_sliggoo_shiny.png"
+        }
+      }
+    },
+    "706": {
+      "display_name": "Goodra",
+      "variants": {
+        "default": {
+          "model": "706_goodra.glb",
+          "icon": "706_goodra.png"
+        },
+        "shiny": {
+          "model": "706_goodra_shiny.glb",
+          "icon": "706_goodra_shiny.png"
+        }
+      }
+    },
+    "707": {
+      "display_name": "Klefki",
+      "variants": {
+        "default": {
+          "model": "707_klefki.glb",
+          "icon": "707_klefki.png"
+        },
+        "shiny": {
+          "model": "707_klefki_shiny.glb",
+          "icon": "707_klefki_shiny.png"
+        }
+      }
+    },
+    "708": {
+      "display_name": "Phantump",
+      "variants": {
+        "default": {
+          "model": "708_phantump.glb",
+          "icon": "708_phantump.png"
+        },
+        "shiny": {
+          "model": "708_phantump_shiny.glb",
+          "icon": "708_phantump_shiny.png"
+        }
+      }
+    },
+    "709": {
+      "display_name": "Trevenant",
+      "variants": {
+        "default": {
+          "model": "709_trevenant.glb",
+          "icon": "709_trevenant.png"
+        },
+        "shiny": {
+          "model": "709_trevenant_shiny.glb",
+          "icon": "709_trevenant_shiny.png"
+        }
+      }
+    },
+    "710": {
+      "display_name": "Pumpkaboo",
+      "variants": {
+        "default": {
+          "model": "710_pumpkaboo.glb",
+          "icon": "710_pumpkaboo.png"
+        },
+        "shiny": {
+          "model": "710_pumpkaboo_shiny.glb",
+          "icon": "710_pumpkaboo_shiny.png"
+        }
+      }
+    },
+    "711": {
+      "display_name": "Gourgeist",
+      "variants": {
+        "default": {
+          "model": "711_gourgeist.glb",
+          "icon": "711_gourgeist.png"
+        },
+        "shiny": {
+          "model": "711_gourgeist_shiny.glb",
+          "icon": "711_gourgeist_shiny.png"
+        }
+      }
+    },
+    "712": {
+      "display_name": "Bergmite",
+      "variants": {
+        "default": {
+          "model": "712_bergmite.glb",
+          "icon": "712_bergmite.png"
+        },
+        "shiny": {
+          "model": "712_bergmite_shiny.glb",
+          "icon": "712_bergmite_shiny.png"
+        }
+      }
+    },
+    "713": {
+      "display_name": "Avalugg",
+      "variants": {
+        "default": {
+          "model": "713_avalugg.glb",
+          "icon": "713_avalugg.png"
+        },
+        "shiny": {
+          "model": "713_avalugg_shiny.glb",
+          "icon": "713_avalugg_shiny.png"
+        }
+      }
+    },
+    "714": {
+      "display_name": "Noibat",
+      "variants": {
+        "default": {
+          "model": "714_noibat.glb",
+          "icon": "714_noibat.png"
+        },
+        "shiny": {
+          "model": "714_noibat_shiny.glb",
+          "icon": "714_noibat_shiny.png"
+        }
+      }
+    },
+    "715": {
+      "display_name": "Noivern",
+      "variants": {
+        "default": {
+          "model": "715_noivern.glb",
+          "icon": "715_noivern.png"
+        },
+        "shiny": {
+          "model": "715_noivern_shiny.glb",
+          "icon": "715_noivern_shiny.png"
+        }
+      }
+    },
+    "716": {
+      "display_name": "Xerneas",
+      "variants": {
+        "default": {
+          "model": "716_xerneas.glb",
+          "icon": "716_xerneas.png"
+        },
+        "shiny": {
+          "model": "716_xerneas_shiny.glb",
+          "icon": "716_xerneas_shiny.png"
+        }
+      }
+    },
+    "717": {
+      "display_name": "Yveltal",
+      "variants": {
+        "default": {
+          "model": "717_yveltal.glb",
+          "icon": "717_yveltal.png"
+        },
+        "shiny": {
+          "model": "717_yveltal_shiny.glb",
+          "icon": "717_yveltal_shiny.png"
+        }
+      }
+    },
+    "718": {
+      "display_name": "Zygarde",
+      "variants": {
+        "default": {
+          "model": "718_zygarde.glb",
+          "icon": "718_zygarde.png"
+        },
+        "shiny": {
+          "model": "718_zygarde_shiny.glb",
+          "icon": "718_zygarde_shiny.png"
+        }
+      }
+    },
+    "719": {
+      "display_name": "Diancie",
+      "variants": {
+        "default": {
+          "model": "719_diancie.glb",
+          "icon": "719_diancie.png"
+        },
+        "shiny": {
+          "model": "719_diancie_shiny.glb",
+          "icon": "719_diancie_shiny.png"
+        }
+      }
+    },
+    "720": {
+      "display_name": "Hoopa",
+      "variants": {
+        "default": {
+          "model": "720_hoopa.glb",
+          "icon": "720_hoopa.png"
+        },
+        "shiny": {
+          "model": "720_hoopa_shiny.glb",
+          "icon": "720_hoopa_shiny.png"
+        }
+      }
+    },
+    "721": {
+      "display_name": "Volcanion",
+      "variants": {
+        "default": {
+          "model": "721_volcanion.glb",
+          "icon": "721_volcanion.png"
+        },
+        "shiny": {
+          "model": "721_volcanion_shiny.glb",
+          "icon": "721_volcanion_shiny.png"
+        }
+      }
+    },
+    "722": {
+      "display_name": "Rowlet",
+      "variants": {
+        "default": {
+          "model": "722_rowlet.glb",
+          "icon": "722_rowlet.png"
+        },
+        "shiny": {
+          "model": "722_rowlet_shiny.glb",
+          "icon": "722_rowlet_shiny.png"
+        }
+      }
+    },
+    "723": {
+      "display_name": "Dartrix",
+      "variants": {
+        "default": {
+          "model": "723_dartrix.glb",
+          "icon": "723_dartrix.png"
+        },
+        "shiny": {
+          "model": "723_dartrix_shiny.glb",
+          "icon": "723_dartrix_shiny.png"
+        }
+      }
+    },
+    "724": {
+      "display_name": "Decidueye",
+      "variants": {
+        "default": {
+          "model": "724_decidueye.glb",
+          "icon": "724_decidueye.png"
+        },
+        "shiny": {
+          "model": "724_decidueye_shiny.glb",
+          "icon": "724_decidueye_shiny.png"
+        }
+      }
+    },
+    "734": {
+      "display_name": "Yungoos",
+      "variants": {
+        "default": {
+          "model": "734_yungoos.glb",
+          "icon": "734_yungoos.png"
+        },
+        "shiny": {
+          "model": "734_yungoos_shiny.glb",
+          "icon": "734_yungoos_shiny.png"
+        }
+      }
+    },
+    "735": {
+      "display_name": "Gumshoos",
+      "variants": {
+        "default": {
+          "model": "735_gumshoos.glb",
+          "icon": "735_gumshoos.png"
+        },
+        "shiny": {
+          "model": "735_gumshoos_shiny.glb",
+          "icon": "735_gumshoos_shiny.png"
+        }
+      }
+    },
+    "739": {
+      "display_name": "Crabrawler",
+      "variants": {
+        "default": {
+          "model": "739_crabrawler.glb",
+          "icon": "739_crabrawler.png"
+        },
+        "shiny": {
+          "model": "739_crabrawler_shiny.glb",
+          "icon": "739_crabrawler_shiny.png"
+        }
+      }
+    },
+    "740": {
+      "display_name": "Crabominable",
+      "variants": {
+        "default": {
+          "model": "740_crabominable.glb",
+          "icon": "740_crabominable.png"
+        },
+        "shiny": {
+          "model": "740_crabominable_shiny.glb",
+          "icon": "740_crabominable_shiny.png"
+        }
+      }
+    },
+    "741": {
+      "display_name": "Oricorio",
+      "variants": {
+        "default": {
+          "model": "741_oricorio.glb",
+          "icon": "741_oricorio.png"
+        },
+        "shiny": {
+          "model": "741_oricorio_shiny.glb",
+          "icon": "741_oricorio_shiny.png"
+        }
+      }
+    },
+    "744": {
+      "display_name": "Rockruff",
+      "variants": {
+        "default": {
+          "model": "744_rockruff.glb",
+          "icon": "744_rockruff.png"
+        },
+        "shiny": {
+          "model": "744_rockruff_shiny.glb",
+          "icon": "744_rockruff_shiny.png"
+        }
+      }
+    },
+    "745": {
+      "display_name": "Lycanroc",
+      "variants": {
+        "default": {
+          "model": "745_lycanroc.glb",
+          "icon": "745_lycanroc.png"
+        },
+        "shiny": {
+          "model": "745_lycanroc_shiny.glb",
+          "icon": "745_lycanroc_shiny.png"
+        }
+      }
+    },
+    "748": {
+      "display_name": "Toxapex",
+      "variants": {
+        "default": {
+          "model": "748_toxapex.glb",
+          "icon": "748_toxapex.png"
+        },
+        "shiny": {
+          "model": "748_toxapex_shiny.glb",
+          "icon": "748_toxapex_shiny.png"
+        }
+      }
+    },
+    "749": {
+      "display_name": "Mudbray",
+      "variants": {
+        "default": {
+          "model": "749_mudbray.glb",
+          "icon": "749_mudbray.png"
+        },
+        "shiny": {
+          "model": "749_mudbray_shiny.glb",
+          "icon": "749_mudbray_shiny.png"
+        }
+      }
+    },
+    "750": {
+      "display_name": "Mudsdale",
+      "variants": {
+        "default": {
+          "model": "750_mudsdale.glb",
+          "icon": "750_mudsdale.png"
+        },
+        "shiny": {
+          "model": "750_mudsdale_shiny.glb",
+          "icon": "750_mudsdale_shiny.png"
+        }
+      }
+    },
+    "753": {
+      "display_name": "Fomantis",
+      "variants": {
+        "default": {
+          "model": "753_fomantis.glb",
+          "icon": "753_fomantis.png"
+        },
+        "shiny": {
+          "model": "753_fomantis_shiny.glb",
+          "icon": "753_fomantis_shiny.png"
+        }
+      }
+    },
+    "754": {
+      "display_name": "Lurantis",
+      "variants": {
+        "default": {
+          "model": "754_lurantis.glb",
+          "icon": "754_lurantis.png"
+        },
+        "shiny": {
+          "model": "754_lurantis_shiny.glb",
+          "icon": "754_lurantis_shiny.png"
+        }
+      }
+    },
+    "757": {
+      "display_name": "Salandit",
+      "variants": {
+        "default": {
+          "model": "757_salandit.glb",
+          "icon": "757_salandit.png"
+        },
+        "shiny": {
+          "model": "757_salandit_shiny.glb",
+          "icon": "757_salandit_shiny.png"
+        }
+      }
+    },
+    "758": {
+      "display_name": "Salazzle",
+      "variants": {
+        "default": {
+          "model": "758_salazzle.glb",
+          "icon": "758_salazzle.png"
+        },
+        "shiny": {
+          "model": "758_salazzle_shiny.glb",
+          "icon": "758_salazzle_shiny.png"
+        }
+      }
+    },
+    "761": {
+      "display_name": "Bounsweet",
+      "variants": {
+        "default": {
+          "model": "761_bounsweet.glb",
+          "icon": "761_bounsweet.png"
+        },
+        "shiny": {
+          "model": "761_bounsweet_shiny.glb",
+          "icon": "761_bounsweet_shiny.png"
+        }
+      }
+    },
+    "762": {
+      "display_name": "Steenee",
+      "variants": {
+        "default": {
+          "model": "762_steenee.glb",
+          "icon": "762_steenee.png"
+        },
+        "shiny": {
+          "model": "762_steenee_shiny.glb",
+          "icon": "762_steenee_shiny.png"
+        }
+      }
+    },
+    "763": {
+      "display_name": "Tsareena",
+      "variants": {
+        "default": {
+          "model": "763_tsareena.glb",
+          "icon": "763_tsareena.png"
+        },
+        "shiny": {
+          "model": "763_tsareena_shiny.glb",
+          "icon": "763_tsareena_shiny.png"
+        }
+      }
+    },
+    "765": {
+      "display_name": "Oranguru",
+      "variants": {
+        "default": {
+          "model": "765_oranguru.glb",
+          "icon": "765_oranguru.png"
+        },
+        "shiny": {
+          "model": "765_oranguru_shiny.glb",
+          "icon": "765_oranguru_shiny.png"
+        }
+      }
+    },
+    "766": {
+      "display_name": "Passimian",
+      "variants": {
+        "default": {
+          "model": "766_passimian.glb",
+          "icon": "766_passimian.png"
+        },
+        "shiny": {
+          "model": "766_passimian_shiny.glb",
+          "icon": "766_passimian_shiny.png"
+        }
+      }
+    },
+    "769": {
+      "display_name": "Sandygast",
+      "variants": {
+        "default": {
+          "model": "769_sandygast.glb",
+          "icon": "769_sandygast.png"
+        },
+        "shiny": {
+          "model": "769_sandygast_shiny.glb",
+          "icon": "769_sandygast_shiny.png"
+        }
+      }
+    },
+    "770": {
+      "display_name": "Palossand",
+      "variants": {
+        "default": {
+          "model": "770_palossand.glb",
+          "icon": "770_palossand.png"
+        },
+        "shiny": {
+          "model": "770_palossand_shiny.glb",
+          "icon": "770_palossand_shiny.png"
+        }
+      }
+    },
+    "775": {
+      "display_name": "Komala",
+      "variants": {
+        "default": {
+          "model": "775_komala.glb",
+          "icon": "775_komala.png"
+        },
+        "shiny": {
+          "model": "775_komala_shiny.glb",
+          "icon": "775_komala_shiny.png"
+        }
+      }
+    },
+    "778": {
+      "display_name": "Mimikyu",
+      "variants": {
+        "default": {
+          "model": "778_mimikyu.glb",
+          "icon": "778_mimikyu.png"
+        },
+        "shiny": {
+          "model": "778_mimikyu_shiny.glb",
+          "icon": "778_mimikyu_shiny.png"
+        }
+      }
+    },
+    "779": {
+      "display_name": "Bruxish",
+      "variants": {
+        "default": {
+          "model": "779_bruxish.glb",
+          "icon": "779_bruxish.png"
+        },
+        "shiny": {
+          "model": "779_bruxish_shiny.glb",
+          "icon": "779_bruxish_shiny.png"
+        }
+      }
+    },
+    "780": {
+      "display_name": "Drampa",
+      "variants": {
+        "default": {
+          "model": "780_drampa.glb",
+          "icon": "780_drampa.png"
+        },
+        "shiny": {
+          "model": "780_drampa_shiny.glb",
+          "icon": "780_drampa_shiny.png"
+        }
+      }
+    },
+    "801": {
+      "display_name": "Magearna",
+      "variants": {
+        "default": {
+          "model": "801_magearna.glb",
+          "icon": "801_magearna.png"
+        },
+        "shiny": {
+          "model": "801_magearna_shiny.glb",
+          "icon": "801_magearna_shiny.png"
+        }
+      }
+    },
+    "810": {
+      "display_name": "Grookey",
+      "variants": {
+        "default": {
+          "model": "810_grookey.glb",
+          "icon": "810_grookey.png"
+        },
+        "shiny": {
+          "model": "810_grookey_shiny.glb",
+          "icon": "810_grookey_shiny.png"
+        }
+      }
+    },
+    "811": {
+      "display_name": "Thwackey",
+      "variants": {
+        "default": {
+          "model": "811_thwackey.glb",
+          "icon": "811_thwackey.png"
+        },
+        "shiny": {
+          "model": "811_thwackey_shiny.glb",
+          "icon": "811_thwackey_shiny.png"
+        }
+      }
+    },
+    "812": {
+      "display_name": "Rillaboom",
+      "variants": {
+        "default": {
+          "model": "812_rillaboom.glb",
+          "icon": "812_rillaboom.png"
+        },
+        "shiny": {
+          "model": "812_rillaboom_shiny.glb",
+          "icon": "812_rillaboom_shiny.png"
+        }
+      }
+    },
+    "813": {
+      "display_name": "Scorbunny",
+      "variants": {
+        "default": {
+          "model": "813_scorbunny.glb",
+          "icon": "813_scorbunny.png"
+        },
+        "shiny": {
+          "model": "813_scorbunny_shiny.glb",
+          "icon": "813_scorbunny_shiny.png"
+        }
+      }
+    },
+    "814": {
+      "display_name": "Raboot",
+      "variants": {
+        "default": {
+          "model": "814_raboot.glb",
+          "icon": "814_raboot.png"
+        },
+        "shiny": {
+          "model": "814_raboot_shiny.glb",
+          "icon": "814_raboot_shiny.png"
+        }
+      }
+    },
+    "815": {
+      "display_name": "Cinderace",
+      "variants": {
+        "default": {
+          "model": "815_cinderace.glb",
+          "icon": "815_cinderace.png"
+        },
+        "shiny": {
+          "model": "815_cinderace_shiny.glb",
+          "icon": "815_cinderace_shiny.png"
+        }
+      }
+    },
+    "816": {
+      "display_name": "Sobble",
+      "variants": {
+        "default": {
+          "model": "816_sobble.glb",
+          "icon": "816_sobble.png"
+        },
+        "shiny": {
+          "model": "816_sobble_shiny.glb",
+          "icon": "816_sobble_shiny.png"
+        }
+      }
+    },
+    "817": {
+      "display_name": "Drizzile",
+      "variants": {
+        "default": {
+          "model": "817_drizzile.glb",
+          "icon": "817_drizzile.png"
+        },
+        "shiny": {
+          "model": "817_drizzile_shiny.glb",
+          "icon": "817_drizzile_shiny.png"
+        }
+      }
+    },
+    "818": {
+      "display_name": "Inteleon",
+      "variants": {
+        "default": {
+          "model": "818_inteleon.glb",
+          "icon": "818_inteleon.png"
+        },
+        "shiny": {
+          "model": "818_inteleon_shiny.glb",
+          "icon": "818_inteleon_shiny.png"
+        }
+      }
+    },
+    "819": {
+      "display_name": "Skwovet",
+      "variants": {
+        "default": {
+          "model": "819_skwovet.glb",
+          "icon": "819_skwovet.png"
+        },
+        "shiny": {
+          "model": "819_skwovet_shiny.glb",
+          "icon": "819_skwovet_shiny.png"
+        }
+      }
+    },
+    "820": {
+      "display_name": "Greedent",
+      "variants": {
+        "default": {
+          "model": "820_greedent.glb",
+          "icon": "820_greedent.png"
+        },
+        "shiny": {
+          "model": "820_greedent_shiny.glb",
+          "icon": "820_greedent_shiny.png"
+        }
+      }
+    },
+    "821": {
+      "display_name": "Rookidee",
+      "variants": {
+        "default": {
+          "model": "821_rookidee.glb",
+          "icon": "821_rookidee.png"
+        },
+        "shiny": {
+          "model": "821_rookidee_shiny.glb",
+          "icon": "821_rookidee_shiny.png"
+        }
+      }
+    },
+    "822": {
+      "display_name": "Corvisquire",
+      "variants": {
+        "default": {
+          "model": "822_corvisquire.glb",
+          "icon": "822_corvisquire.png"
+        },
+        "shiny": {
+          "model": "822_corvisquire_shiny.glb",
+          "icon": "822_corvisquire_shiny.png"
+        }
+      }
+    },
+    "823": {
+      "display_name": "Corviknight",
+      "variants": {
+        "default": {
+          "model": "823_corviknight.glb",
+          "icon": "823_corviknight.png"
+        },
+        "shiny": {
+          "model": "823_corviknight_shiny.glb",
+          "icon": "823_corviknight_shiny.png"
+        }
+      }
+    },
+    "833": {
+      "display_name": "Chewtle",
+      "variants": {
+        "default": {
+          "model": "833_chewtle.glb",
+          "icon": "833_chewtle.png"
+        },
+        "shiny": {
+          "model": "833_chewtle_shiny.glb",
+          "icon": "833_chewtle_shiny.png"
+        }
+      }
+    },
+    "834": {
+      "display_name": "Drednaw",
+      "variants": {
+        "default": {
+          "model": "834_drednaw.glb",
+          "icon": "834_drednaw.png"
+        },
+        "shiny": {
+          "model": "834_drednaw_shiny.glb",
+          "icon": "834_drednaw_shiny.png"
+        }
+      }
+    },
+    "837": {
+      "display_name": "Rolycoly",
+      "variants": {
+        "default": {
+          "model": "837_rolycoly.glb",
+          "icon": "837_rolycoly.png"
+        },
+        "shiny": {
+          "model": "837_rolycoly_shiny.glb",
+          "icon": "837_rolycoly_shiny.png"
+        }
+      }
+    },
+    "838": {
+      "display_name": "Carkol",
+      "variants": {
+        "default": {
+          "model": "838_carkol.glb",
+          "icon": "838_carkol.png"
+        },
+        "shiny": {
+          "model": "838_carkol_shiny.glb",
+          "icon": "838_carkol_shiny.png"
+        }
+      }
+    },
+    "839": {
+      "display_name": "Coalossal",
+      "variants": {
+        "default": {
+          "model": "839_coalossal.glb",
+          "icon": "839_coalossal.png"
+        },
+        "shiny": {
+          "model": "839_coalossal_shiny.glb",
+          "icon": "839_coalossal_shiny.png"
+        }
+      }
+    },
+    "840": {
+      "display_name": "Applin",
+      "variants": {
+        "default": {
+          "model": "840_applin.glb",
+          "icon": "840_applin.png"
+        },
+        "shiny": {
+          "model": "840_applin_shiny.glb",
+          "icon": "840_applin_shiny.png"
+        }
+      }
+    },
+    "841": {
+      "display_name": "Flapple",
+      "variants": {
+        "default": {
+          "model": "841_flapple.glb",
+          "icon": "841_flapple.png"
+        },
+        "shiny": {
+          "model": "841_flapple_shiny.glb",
+          "icon": "841_flapple_shiny.png"
+        }
+      }
+    },
+    "842": {
+      "display_name": "Appletun",
+      "variants": {
+        "default": {
+          "model": "842_appletun.glb",
+          "icon": "842_appletun.png"
+        },
+        "shiny": {
+          "model": "842_appletun_shiny.glb",
+          "icon": "842_appletun_shiny.png"
+        }
+      }
+    },
+    "843": {
+      "display_name": "Silicobra",
+      "variants": {
+        "default": {
+          "model": "843_silicobra.glb",
+          "icon": "843_silicobra.png"
+        },
+        "shiny": {
+          "model": "843_silicobra_shiny.glb",
+          "icon": "843_silicobra_shiny.png"
+        }
+      }
+    },
+    "844": {
+      "display_name": "Sandaconda",
+      "variants": {
+        "default": {
+          "model": "844_sandaconda.glb",
+          "icon": "844_sandaconda.png"
+        },
+        "shiny": {
+          "model": "844_sandaconda_shiny.glb",
+          "icon": "844_sandaconda_shiny.png"
+        }
+      }
+    },
+    "846": {
+      "display_name": "Arrokuda",
+      "variants": {
+        "default": {
+          "model": "846_arrokuda.glb",
+          "icon": "846_arrokuda.png"
+        },
+        "shiny": {
+          "model": "846_arrokuda_shiny.glb",
+          "icon": "846_arrokuda_shiny.png"
+        }
+      }
+    },
+    "847": {
+      "display_name": "Barraskewda",
+      "variants": {
+        "default": {
+          "model": "847_barraskewda.glb",
+          "icon": "847_barraskewda.png"
+        },
+        "shiny": {
+          "model": "847_barraskewda_shiny.glb",
+          "icon": "847_barraskewda_shiny.png"
+        }
+      }
+    },
+    "848": {
+      "display_name": "Toxel",
+      "variants": {
+        "default": {
+          "model": "848_toxel.glb",
+          "icon": "848_toxel.png"
+        },
+        "shiny": {
+          "model": "848_toxel_shiny.glb",
+          "icon": "848_toxel_shiny.png"
+        }
+      }
+    },
+    "849": {
+      "display_name": "Toxtricity",
+      "variants": {
+        "default": {
+          "model": "849_toxtricity.glb",
+          "icon": "849_toxtricity.png"
+        },
+        "shiny": {
+          "model": "849_toxtricity_shiny.glb",
+          "icon": "849_toxtricity_shiny.png"
+        }
+      }
+    },
+    "854": {
+      "display_name": "Sinistea",
+      "variants": {
+        "default": {
+          "model": "854_sinistea.glb",
+          "icon": "854_sinistea.png"
+        },
+        "shiny": {
+          "model": "854_sinistea_shiny.glb",
+          "icon": "854_sinistea_shiny.png"
+        }
+      }
+    },
+    "855": {
+      "display_name": "Polteageist",
+      "variants": {
+        "default": {
+          "model": "855_polteageist.glb",
+          "icon": "855_polteageist.png"
+        },
+        "shiny": {
+          "model": "855_polteageist_shiny.glb",
+          "icon": "855_polteageist_shiny.png"
+        }
+      }
+    },
+    "856": {
+      "display_name": "Hatenna",
+      "variants": {
+        "default": {
+          "model": "856_hatenna.glb",
+          "icon": "856_hatenna.png"
+        },
+        "shiny": {
+          "model": "856_hatenna_shiny.glb",
+          "icon": "856_hatenna_shiny.png"
+        }
+      }
+    },
+    "857": {
+      "display_name": "Hattrem",
+      "variants": {
+        "default": {
+          "model": "857_hattrem.glb",
+          "icon": "857_hattrem.png"
+        },
+        "shiny": {
+          "model": "857_hattrem_shiny.glb",
+          "icon": "857_hattrem_shiny.png"
+        }
+      }
+    },
+    "858": {
+      "display_name": "Hatterene",
+      "variants": {
+        "default": {
+          "model": "858_hatterene.glb",
+          "icon": "858_hatterene.png"
+        },
+        "shiny": {
+          "model": "858_hatterene_shiny.glb",
+          "icon": "858_hatterene_shiny.png"
+        }
+      }
+    },
+    "859": {
+      "display_name": "Impidimp",
+      "variants": {
+        "default": {
+          "model": "859_impidimp.glb",
+          "icon": "859_impidimp.png"
+        },
+        "shiny": {
+          "model": "859_impidimp_shiny.glb",
+          "icon": "859_impidimp_shiny.png"
+        }
+      }
+    },
+    "860": {
+      "display_name": "Morgrem",
+      "variants": {
+        "default": {
+          "model": "860_morgrem.glb",
+          "icon": "860_morgrem.png"
+        },
+        "shiny": {
+          "model": "860_morgrem_shiny.glb",
+          "icon": "860_morgrem_shiny.png"
+        }
+      }
+    },
+    "861": {
+      "display_name": "Grimmsnarl",
+      "variants": {
+        "default": {
+          "model": "861_grimmsnarl.glb",
+          "icon": "861_grimmsnarl.png"
+        },
+        "shiny": {
+          "model": "861_grimmsnarl_shiny.glb",
+          "icon": "861_grimmsnarl_shiny.png"
+        }
+      }
+    },
+    "863": {
+      "display_name": "Perrserker",
+      "variants": {
+        "default": {
+          "model": "863_perrserker.glb",
+          "icon": "863_perrserker.png"
+        },
+        "shiny": {
+          "model": "863_perrserker_shiny.glb",
+          "icon": "863_perrserker_shiny.png"
+        }
+      }
+    },
+    "870": {
+      "display_name": "Falinks",
+      "variants": {
+        "default": {
+          "model": "870_falinks.glb",
+          "icon": "870_falinks.png"
+        },
+        "shiny": {
+          "model": "870_falinks_shiny.glb",
+          "icon": "870_falinks_shiny.png"
+        }
+      }
+    },
+    "871": {
+      "display_name": "Pincurchin",
+      "variants": {
+        "default": {
+          "model": "871_pincurchin.glb",
+          "icon": "871_pincurchin.png"
+        },
+        "shiny": {
+          "model": "871_pincurchin_shiny.glb",
+          "icon": "871_pincurchin_shiny.png"
+        }
+      }
+    },
+    "872": {
+      "display_name": "Snom",
+      "variants": {
+        "default": {
+          "model": "872_snom.glb",
+          "icon": "872_snom.png"
+        },
+        "shiny": {
+          "model": "872_snom_shiny.glb",
+          "icon": "872_snom_shiny.png"
+        }
+      }
+    },
+    "873": {
+      "display_name": "Frosmoth",
+      "variants": {
+        "default": {
+          "model": "873_frosmoth.glb",
+          "icon": "873_frosmoth.png"
+        },
+        "shiny": {
+          "model": "873_frosmoth_shiny.glb",
+          "icon": "873_frosmoth_shiny.png"
+        }
+      }
+    },
+    "874": {
+      "display_name": "Stonjourner",
+      "variants": {
+        "default": {
+          "model": "874_stonjourner.glb",
+          "icon": "874_stonjourner.png"
+        },
+        "shiny": {
+          "model": "874_stonjourner_shiny.glb",
+          "icon": "874_stonjourner_shiny.png"
+        }
+      }
+    },
+    "875": {
+      "display_name": "Eiscue",
+      "variants": {
+        "default": {
+          "model": "875_eiscue.glb",
+          "icon": "875_eiscue.png"
+        },
+        "shiny": {
+          "model": "875_eiscue_shiny.glb",
+          "icon": "875_eiscue_shiny.png"
+        }
+      }
+    },
+    "876": {
+      "display_name": "Indeedee",
+      "variants": {
+        "default": {
+          "model": "876_indeedee.glb",
+          "icon": "876_indeedee.png"
+        },
+        "shiny": {
+          "model": "876_indeedee_shiny.glb",
+          "icon": "876_indeedee_shiny.png"
+        }
+      }
+    },
+    "878": {
+      "display_name": "Cufant",
+      "variants": {
+        "default": {
+          "model": "878_cufant.glb",
+          "icon": "878_cufant.png"
+        },
+        "shiny": {
+          "model": "878_cufant_shiny.glb",
+          "icon": "878_cufant_shiny.png"
+        }
+      }
+    },
+    "879": {
+      "display_name": "Copperajah",
+      "variants": {
+        "default": {
+          "model": "879_copperajah.glb",
+          "icon": "879_copperajah.png"
+        },
+        "shiny": {
+          "model": "879_copperajah_shiny.glb",
+          "icon": "879_copperajah_shiny.png"
+        }
+      }
+    },
+    "885": {
+      "display_name": "Dreepy",
+      "variants": {
+        "default": {
+          "model": "885_dreepy.glb",
+          "icon": "885_dreepy.png"
+        },
+        "shiny": {
+          "model": "885_dreepy_shiny.glb",
+          "icon": "885_dreepy_shiny.png"
+        }
+      }
+    },
+    "886": {
+      "display_name": "Drakloak",
+      "variants": {
+        "default": {
+          "model": "886_drakloak.glb",
+          "icon": "886_drakloak.png"
+        },
+        "shiny": {
+          "model": "886_drakloak_shiny.glb",
+          "icon": "886_drakloak_shiny.png"
+        }
+      }
+    },
+    "887": {
+      "display_name": "Dragapult",
+      "variants": {
+        "default": {
+          "model": "887_dragapult.glb",
+          "icon": "887_dragapult.png"
+        },
+        "shiny": {
+          "model": "887_dragapult_shiny.glb",
+          "icon": "887_dragapult_shiny.png"
+        }
+      }
+    },
+    "888": {
+      "display_name": "Zacian",
+      "variants": {
+        "default": {
+          "model": "888_zacian.glb",
+          "icon": "888_zacian.png"
+        },
+        "shiny": {
+          "model": "888_zacian_shiny.glb",
+          "icon": "888_zacian_shiny.png"
+        }
+      }
+    },
+    "889": {
+      "display_name": "Zamazenta",
+      "variants": {
+        "default": {
+          "model": "889_zamazenta.glb",
+          "icon": "889_zamazenta.png"
+        },
+        "shiny": {
+          "model": "889_zamazenta_shiny.glb",
+          "icon": "889_zamazenta_shiny.png"
+        }
+      }
+    },
+    "890": {
+      "display_name": "Eternatus",
+      "variants": {
+        "default": {
+          "model": "890_eternatus.glb",
+          "icon": "890_eternatus.png"
+        },
+        "shiny": {
+          "model": "890_eternatus_shiny.glb",
+          "icon": "890_eternatus_shiny.png"
+        }
+      }
+    },
+    "891": {
+      "display_name": "Kubfu",
+      "variants": {
+        "default": {
+          "model": "891_kubfu.glb",
+          "icon": "891_kubfu.png"
+        },
+        "shiny": {
+          "model": "891_kubfu_shiny.glb",
+          "icon": "891_kubfu_shiny.png"
+        }
+      }
+    },
+    "892": {
+      "display_name": "Urshifu",
+      "variants": {
+        "default": {
+          "model": "892_urshifu.glb",
+          "icon": "892_urshifu.png"
+        },
+        "shiny": {
+          "model": "892_urshifu_shiny.glb",
+          "icon": "892_urshifu_shiny.png"
+        }
+      }
+    },
+    "893": {
+      "display_name": "Zarude",
+      "variants": {
+        "default": {
+          "model": "893_zarude.glb",
+          "icon": "893_zarude.png"
+        },
+        "shiny": {
+          "model": "893_zarude_shiny.glb",
+          "icon": "893_zarude_shiny.png"
+        }
+      }
+    },
+    "894": {
+      "display_name": "Regieleki",
+      "variants": {
+        "default": {
+          "model": "894_regieleki.glb",
+          "icon": "894_regieleki.png"
+        },
+        "shiny": {
+          "model": "894_regieleki_shiny.glb",
+          "icon": "894_regieleki_shiny.png"
+        }
+      }
+    },
+    "895": {
+      "display_name": "Regidrago",
+      "variants": {
+        "default": {
+          "model": "895_regidrago.glb",
+          "icon": "895_regidrago.png"
+        },
+        "shiny": {
+          "model": "895_regidrago_shiny.glb",
+          "icon": "895_regidrago_shiny.png"
+        }
+      }
+    },
+    "896": {
+      "display_name": "Glastrier",
+      "variants": {
+        "default": {
+          "model": "896_glastrier.glb",
+          "icon": "896_glastrier.png"
+        },
+        "shiny": {
+          "model": "896_glastrier_shiny.glb",
+          "icon": "896_glastrier_shiny.png"
+        }
+      }
+    },
+    "897": {
+      "display_name": "Spectrier",
+      "variants": {
+        "default": {
+          "model": "897_spectrier.glb",
+          "icon": "897_spectrier.png"
+        },
+        "shiny": {
+          "model": "897_spectrier_shiny.glb",
+          "icon": "897_spectrier_shiny.png"
+        }
+      }
+    },
+    "898": {
+      "display_name": "Calyrex",
+      "variants": {
+        "default": {
+          "model": "898_calyrex.glb",
+          "icon": "898_calyrex.png"
+        },
+        "shiny": {
+          "model": "898_calyrex_shiny.glb",
+          "icon": "898_calyrex_shiny.png"
+        }
+      }
+    },
+    "899": {
+      "display_name": "Wyrdeer",
+      "variants": {
+        "default": {
+          "model": "899_wyrdeer.glb",
+          "icon": "899_wyrdeer.png"
+        },
+        "shiny": {
+          "model": "899_wyrdeer_shiny.glb",
+          "icon": "899_wyrdeer_shiny.png"
+        }
+      }
+    },
+    "900": {
+      "display_name": "Kleavor",
+      "variants": {
+        "default": {
+          "model": "900_kleavor.glb",
+          "icon": "900_kleavor.png"
+        },
+        "shiny": {
+          "model": "900_kleavor_shiny.glb",
+          "icon": "900_kleavor_shiny.png"
+        }
+      }
+    },
+    "901": {
+      "display_name": "Ursaluna",
+      "variants": {
+        "default": {
+          "model": "901_ursaluna.glb",
+          "icon": "901_ursaluna.png"
+        },
+        "shiny": {
+          "model": "901_ursaluna_shiny.glb",
+          "icon": "901_ursaluna_shiny.png"
+        }
+      }
+    },
+    "902": {
+      "display_name": "Basculegion",
+      "variants": {
+        "default": {
+          "model": "902_basculegion.glb",
+          "icon": "902_basculegion.png"
+        },
+        "shiny": {
+          "model": "902_basculegion_shiny.glb",
+          "icon": "902_basculegion_shiny.png"
+        }
+      }
+    },
+    "903": {
+      "display_name": "Sneasler",
+      "variants": {
+        "default": {
+          "model": "903_sneasler.glb",
+          "icon": "903_sneasler.png"
+        },
+        "shiny": {
+          "model": "903_sneasler_shiny.glb",
+          "icon": "903_sneasler_shiny.png"
+        }
+      }
+    },
+    "904": {
+      "display_name": "Overqwil",
+      "variants": {
+        "default": {
+          "model": "904_overqwil.glb",
+          "icon": "904_overqwil.png"
+        },
+        "shiny": {
+          "model": "904_overqwil_shiny.glb",
+          "icon": "904_overqwil_shiny.png"
+        }
+      }
+    },
+    "905": {
+      "display_name": "Enamorus",
+      "variants": {
+        "default": {
+          "model": "905_enamorus.glb",
+          "icon": "905_enamorus.png"
+        },
+        "shiny": {
+          "model": "905_enamorus_shiny.glb",
+          "icon": "905_enamorus_shiny.png"
+        }
+      }
+    },
+    "906": {
+      "display_name": "Sprigatito",
+      "variants": {
+        "default": {
+          "model": "906_sprigatito.glb",
+          "icon": "906_sprigatito.png"
+        },
+        "shiny": {
+          "model": "906_sprigatito_shiny.glb",
+          "icon": "906_sprigatito_shiny.png"
+        }
+      }
+    },
+    "907": {
+      "display_name": "Floragato",
+      "variants": {
+        "default": {
+          "model": "907_floragato.glb",
+          "icon": "907_floragato.png"
+        },
+        "shiny": {
+          "model": "907_floragato_shiny.glb",
+          "icon": "907_floragato_shiny.png"
+        }
+      }
+    },
+    "908": {
+      "display_name": "Meowscarada",
+      "variants": {
+        "default": {
+          "model": "908_meowscarada.glb",
+          "icon": "908_meowscarada.png"
+        },
+        "shiny": {
+          "model": "908_meowscarada_shiny.glb",
+          "icon": "908_meowscarada_shiny.png"
+        }
+      }
+    },
+    "909": {
+      "display_name": "Fuecoco",
+      "variants": {
+        "default": {
+          "model": "909_fuecoco.glb",
+          "icon": "909_fuecoco.png"
+        },
+        "shiny": {
+          "model": "909_fuecoco_shiny.glb",
+          "icon": "909_fuecoco_shiny.png"
+        }
+      }
+    },
+    "910": {
+      "display_name": "Crocalor",
+      "variants": {
+        "default": {
+          "model": "910_crocalor.glb",
+          "icon": "910_crocalor.png"
+        },
+        "shiny": {
+          "model": "910_crocalor_shiny.glb",
+          "icon": "910_crocalor_shiny.png"
+        }
+      }
+    },
+    "911": {
+      "display_name": "Skeledirge",
+      "variants": {
+        "default": {
+          "model": "911_skeledirge.glb",
+          "icon": "911_skeledirge.png"
+        },
+        "shiny": {
+          "model": "911_skeledirge_shiny.glb",
+          "icon": "911_skeledirge_shiny.png"
+        }
+      }
+    },
+    "912": {
+      "display_name": "Quaxly",
+      "variants": {
+        "default": {
+          "model": "912_quaxly.glb",
+          "icon": "912_quaxly.png"
+        },
+        "shiny": {
+          "model": "912_quaxly_shiny.glb",
+          "icon": "912_quaxly_shiny.png"
+        }
+      }
+    },
+    "913": {
+      "display_name": "Quaxwell",
+      "variants": {
+        "default": {
+          "model": "913_quaxwell.glb",
+          "icon": "913_quaxwell.png"
+        },
+        "shiny": {
+          "model": "913_quaxwell_shiny.glb",
+          "icon": "913_quaxwell_shiny.png"
+        }
+      }
+    },
+    "914": {
+      "display_name": "Quaquaval",
+      "variants": {
+        "default": {
+          "model": "914_quaquaval.glb",
+          "icon": "914_quaquaval.png"
+        },
+        "shiny": {
+          "model": "914_quaquaval_shiny.glb",
+          "icon": "914_quaquaval_shiny.png"
+        }
+      }
+    },
+    "915": {
+      "display_name": "Lechonk",
+      "variants": {
+        "default": {
+          "model": "915_lechonk.glb",
+          "icon": "915_lechonk.png"
+        },
+        "shiny": {
+          "model": "915_lechonk_shiny.glb",
+          "icon": "915_lechonk_shiny.png"
+        }
+      }
+    },
+    "916": {
+      "display_name": "Oinkologne",
+      "variants": {
+        "default": {
+          "model": "916_oinkologne.glb",
+          "icon": "916_oinkologne.png"
+        },
+        "shiny": {
+          "model": "916_oinkologne_shiny.glb",
+          "icon": "916_oinkologne_shiny.png"
+        }
+      }
+    },
+    "917": {
+      "display_name": "Tarountula",
+      "variants": {
+        "default": {
+          "model": "917_tarountula.glb",
+          "icon": "917_tarountula.png"
+        },
+        "shiny": {
+          "model": "917_tarountula_shiny.glb",
+          "icon": "917_tarountula_shiny.png"
+        }
+      }
+    },
+    "918": {
+      "display_name": "Spidops",
+      "variants": {
+        "default": {
+          "model": "918_spidops.glb",
+          "icon": "918_spidops.png"
+        },
+        "shiny": {
+          "model": "918_spidops_shiny.glb",
+          "icon": "918_spidops_shiny.png"
+        }
+      }
+    },
+    "919": {
+      "display_name": "Nymble",
+      "variants": {
+        "default": {
+          "model": "919_nymble.glb",
+          "icon": "919_nymble.png"
+        },
+        "shiny": {
+          "model": "919_nymble_shiny.glb",
+          "icon": "919_nymble_shiny.png"
+        }
+      }
+    },
+    "920": {
+      "display_name": "Lokix",
+      "variants": {
+        "default": {
+          "model": "920_lokix.glb",
+          "icon": "920_lokix.png"
+        },
+        "shiny": {
+          "model": "920_lokix_shiny.glb",
+          "icon": "920_lokix_shiny.png"
+        }
+      }
+    },
+    "921": {
+      "display_name": "Pawmi",
+      "variants": {
+        "default": {
+          "model": "921_pawmi.glb",
+          "icon": "921_pawmi.png"
+        },
+        "shiny": {
+          "model": "921_pawmi_shiny.glb",
+          "icon": "921_pawmi_shiny.png"
+        }
+      }
+    },
+    "922": {
+      "display_name": "Pawmo",
+      "variants": {
+        "default": {
+          "model": "922_pawmo.glb",
+          "icon": "922_pawmo.png"
+        },
+        "shiny": {
+          "model": "922_pawmo_shiny.glb",
+          "icon": "922_pawmo_shiny.png"
+        }
+      }
+    },
+    "923": {
+      "display_name": "Pawmot",
+      "variants": {
+        "default": {
+          "model": "923_pawmot.glb",
+          "icon": "923_pawmot.png"
+        },
+        "shiny": {
+          "model": "923_pawmot_shiny.glb",
+          "icon": "923_pawmot_shiny.png"
+        }
+      }
+    },
+    "924": {
+      "display_name": "Tandemaus",
+      "variants": {
+        "default": {
+          "model": "924_tandemaus.glb",
+          "icon": "924_tandemaus.png"
+        },
+        "shiny": {
+          "model": "924_tandemaus_shiny.glb",
+          "icon": "924_tandemaus_shiny.png"
+        }
+      }
+    },
+    "925": {
+      "display_name": "Maushold",
+      "variants": {
+        "default": {
+          "model": "925_maushold.glb",
+          "icon": "925_maushold.png"
+        },
+        "shiny": {
+          "model": "925_maushold_shiny.glb",
+          "icon": "925_maushold_shiny.png"
+        }
+      }
+    },
+    "926": {
+      "display_name": "Fidough",
+      "variants": {
+        "default": {
+          "model": "926_fidough.glb",
+          "icon": "926_fidough.png"
+        },
+        "shiny": {
+          "model": "926_fidough_shiny.glb",
+          "icon": "926_fidough_shiny.png"
+        }
+      }
+    },
+    "927": {
+      "display_name": "Dachsbun",
+      "variants": {
+        "default": {
+          "model": "927_dachsbun.glb",
+          "icon": "927_dachsbun.png"
+        },
+        "shiny": {
+          "model": "927_dachsbun_shiny.glb",
+          "icon": "927_dachsbun_shiny.png"
+        }
+      }
+    },
+    "928": {
+      "display_name": "Smoliv",
+      "variants": {
+        "default": {
+          "model": "928_smoliv.glb",
+          "icon": "928_smoliv.png"
+        },
+        "shiny": {
+          "model": "928_smoliv_shiny.glb",
+          "icon": "928_smoliv_shiny.png"
+        }
+      }
+    },
+    "929": {
+      "display_name": "Dolliv",
+      "variants": {
+        "default": {
+          "model": "929_dolliv.glb",
+          "icon": "929_dolliv.png"
+        },
+        "shiny": {
+          "model": "929_dolliv_shiny.glb",
+          "icon": "929_dolliv_shiny.png"
+        }
+      }
+    },
+    "930": {
+      "display_name": "Arboliva",
+      "variants": {
+        "default": {
+          "model": "930_arboliva.glb",
+          "icon": "930_arboliva.png"
+        },
+        "shiny": {
+          "model": "930_arboliva_shiny.glb",
+          "icon": "930_arboliva_shiny.png"
+        }
+      }
+    },
+    "931": {
+      "display_name": "Squawkabilly",
+      "variants": {
+        "default": {
+          "model": "931_squawkabilly.glb",
+          "icon": "931_squawkabilly.png"
+        },
+        "shiny": {
+          "model": "931_squawkabilly_shiny.glb",
+          "icon": "931_squawkabilly_shiny.png"
+        }
+      }
+    },
+    "932": {
+      "display_name": "Nacli",
+      "variants": {
+        "default": {
+          "model": "932_nacli.glb",
+          "icon": "932_nacli.png"
+        },
+        "shiny": {
+          "model": "932_nacli_shiny.glb",
+          "icon": "932_nacli_shiny.png"
+        }
+      }
+    },
+    "933": {
+      "display_name": "Naclstack",
+      "variants": {
+        "default": {
+          "model": "933_naclstack.glb",
+          "icon": "933_naclstack.png"
+        },
+        "shiny": {
+          "model": "933_naclstack_shiny.glb",
+          "icon": "933_naclstack_shiny.png"
+        }
+      }
+    },
+    "934": {
+      "display_name": "Garganacl",
+      "variants": {
+        "default": {
+          "model": "934_garganacl.glb",
+          "icon": "934_garganacl.png"
+        },
+        "shiny": {
+          "model": "934_garganacl_shiny.glb",
+          "icon": "934_garganacl_shiny.png"
+        }
+      }
+    },
+    "935": {
+      "display_name": "Charcadet",
+      "variants": {
+        "default": {
+          "model": "935_charcadet.glb",
+          "icon": "935_charcadet.png"
+        },
+        "shiny": {
+          "model": "935_charcadet_shiny.glb",
+          "icon": "935_charcadet_shiny.png"
+        }
+      }
+    },
+    "936": {
+      "display_name": "Armarouge",
+      "variants": {
+        "default": {
+          "model": "936_armarouge.glb",
+          "icon": "936_armarouge.png"
+        },
+        "shiny": {
+          "model": "936_armarouge_shiny.glb",
+          "icon": "936_armarouge_shiny.png"
+        }
+      }
+    },
+    "937": {
+      "display_name": "Ceruledge",
+      "variants": {
+        "default": {
+          "model": "937_ceruledge.glb",
+          "icon": "937_ceruledge.png"
+        },
+        "shiny": {
+          "model": "937_ceruledge_shiny.glb",
+          "icon": "937_ceruledge_shiny.png"
+        }
+      }
+    },
+    "938": {
+      "display_name": "Tadbulb",
+      "variants": {
+        "default": {
+          "model": "938_tadbulb.glb",
+          "icon": "938_tadbulb.png"
+        },
+        "shiny": {
+          "model": "938_tadbulb_shiny.glb",
+          "icon": "938_tadbulb_shiny.png"
+        }
+      }
+    },
+    "939": {
+      "display_name": "Bellibolt",
+      "variants": {
+        "default": {
+          "model": "939_bellibolt.glb",
+          "icon": "939_bellibolt.png"
+        },
+        "shiny": {
+          "model": "939_bellibolt_shiny.glb",
+          "icon": "939_bellibolt_shiny.png"
+        }
+      }
+    },
+    "940": {
+      "display_name": "Wattrel",
+      "variants": {
+        "default": {
+          "model": "940_wattrel.glb",
+          "icon": "940_wattrel.png"
+        },
+        "shiny": {
+          "model": "940_wattrel_shiny.glb",
+          "icon": "940_wattrel_shiny.png"
+        }
+      }
+    },
+    "941": {
+      "display_name": "Kilowattrel",
+      "variants": {
+        "default": {
+          "model": "941_kilowattrel.glb",
+          "icon": "941_kilowattrel.png"
+        },
+        "shiny": {
+          "model": "941_kilowattrel_shiny.glb",
+          "icon": "941_kilowattrel_shiny.png"
+        }
+      }
+    },
+    "942": {
+      "display_name": "Maschiff",
+      "variants": {
+        "default": {
+          "model": "942_maschiff.glb",
+          "icon": "942_maschiff.png"
+        },
+        "shiny": {
+          "model": "942_maschiff_shiny.glb",
+          "icon": "942_maschiff_shiny.png"
+        }
+      }
+    },
+    "943": {
+      "display_name": "Mabosstiff",
+      "variants": {
+        "default": {
+          "model": "943_mabosstiff.glb",
+          "icon": "943_mabosstiff.png"
+        },
+        "shiny": {
+          "model": "943_mabosstiff_shiny.glb",
+          "icon": "943_mabosstiff_shiny.png"
+        }
+      }
+    },
+    "944": {
+      "display_name": "Shroodle",
+      "variants": {
+        "default": {
+          "model": "944_shroodle.glb",
+          "icon": "944_shroodle.png"
+        },
+        "shiny": {
+          "model": "944_shroodle_shiny.glb",
+          "icon": "944_shroodle_shiny.png"
+        }
+      }
+    },
+    "945": {
+      "display_name": "Grafaiai",
+      "variants": {
+        "default": {
+          "model": "945_grafaiai.glb",
+          "icon": "945_grafaiai.png"
+        },
+        "shiny": {
+          "model": "945_grafaiai_shiny.glb",
+          "icon": "945_grafaiai_shiny.png"
+        }
+      }
+    },
+    "946": {
+      "display_name": "Bramblin",
+      "variants": {
+        "default": {
+          "model": "946_bramblin.glb",
+          "icon": "946_bramblin.png"
+        },
+        "shiny": {
+          "model": "946_bramblin_shiny.glb",
+          "icon": "946_bramblin_shiny.png"
+        }
+      }
+    },
+    "947": {
+      "display_name": "Brambleghast",
+      "variants": {
+        "default": {
+          "model": "947_brambleghast.glb",
+          "icon": "947_brambleghast.png"
+        },
+        "shiny": {
+          "model": "947_brambleghast_shiny.glb",
+          "icon": "947_brambleghast_shiny.png"
+        }
+      }
+    },
+    "948": {
+      "display_name": "Toedscool",
+      "variants": {
+        "default": {
+          "model": "948_toedscool.glb",
+          "icon": "948_toedscool.png"
+        },
+        "shiny": {
+          "model": "948_toedscool_shiny.glb",
+          "icon": "948_toedscool_shiny.png"
+        }
+      }
+    },
+    "949": {
+      "display_name": "Toedscruel",
+      "variants": {
+        "default": {
+          "model": "949_toedscruel.glb",
+          "icon": "949_toedscruel.png"
+        },
+        "shiny": {
+          "model": "949_toedscruel_shiny.glb",
+          "icon": "949_toedscruel_shiny.png"
+        }
+      }
+    },
+    "950": {
+      "display_name": "Klawf",
+      "variants": {
+        "default": {
+          "model": "950_klawf.glb",
+          "icon": "950_klawf.png"
+        },
+        "shiny": {
+          "model": "950_klawf_shiny.glb",
+          "icon": "950_klawf_shiny.png"
+        }
+      }
+    },
+    "951": {
+      "display_name": "Capsakid",
+      "variants": {
+        "default": {
+          "model": "951_capsakid.glb",
+          "icon": "951_capsakid.png"
+        },
+        "shiny": {
+          "model": "951_capsakid_shiny.glb",
+          "icon": "951_capsakid_shiny.png"
+        }
+      }
+    },
+    "952": {
+      "display_name": "Scovillain",
+      "variants": {
+        "default": {
+          "model": "952_scovillain.glb",
+          "icon": "952_scovillain.png"
+        },
+        "shiny": {
+          "model": "952_scovillain_shiny.glb",
+          "icon": "952_scovillain_shiny.png"
+        }
+      }
+    },
+    "953": {
+      "display_name": "Rellor",
+      "variants": {
+        "default": {
+          "model": "953_rellor.glb",
+          "icon": "953_rellor.png"
+        },
+        "shiny": {
+          "model": "953_rellor_shiny.glb",
+          "icon": "953_rellor_shiny.png"
+        }
+      }
+    },
+    "954": {
+      "display_name": "Rabsca",
+      "variants": {
+        "default": {
+          "model": "954_rabsca.glb",
+          "icon": "954_rabsca.png"
+        },
+        "shiny": {
+          "model": "954_rabsca_shiny.glb",
+          "icon": "954_rabsca_shiny.png"
+        }
+      }
+    },
+    "955": {
+      "display_name": "Flittle",
+      "variants": {
+        "default": {
+          "model": "955_flittle.glb",
+          "icon": "955_flittle.png"
+        },
+        "shiny": {
+          "model": "955_flittle_shiny.glb",
+          "icon": "955_flittle_shiny.png"
+        }
+      }
+    },
+    "956": {
+      "display_name": "Espathra",
+      "variants": {
+        "default": {
+          "model": "956_espathra.glb",
+          "icon": "956_espathra.png"
+        },
+        "shiny": {
+          "model": "956_espathra_shiny.glb",
+          "icon": "956_espathra_shiny.png"
+        }
+      }
+    },
+    "957": {
+      "display_name": "Tinkatink",
+      "variants": {
+        "default": {
+          "model": "957_tinkatink.glb",
+          "icon": "957_tinkatink.png"
+        },
+        "shiny": {
+          "model": "957_tinkatink_shiny.glb",
+          "icon": "957_tinkatink_shiny.png"
+        }
+      }
+    },
+    "958": {
+      "display_name": "Tinkatuff",
+      "variants": {
+        "default": {
+          "model": "958_tinkatuff.glb",
+          "icon": "958_tinkatuff.png"
+        },
+        "shiny": {
+          "model": "958_tinkatuff_shiny.glb",
+          "icon": "958_tinkatuff_shiny.png"
+        }
+      }
+    },
+    "959": {
+      "display_name": "Tinkaton",
+      "variants": {
+        "default": {
+          "model": "959_tinkaton.glb",
+          "icon": "959_tinkaton.png"
+        },
+        "shiny": {
+          "model": "959_tinkaton_shiny.glb",
+          "icon": "959_tinkaton_shiny.png"
+        }
+      }
+    },
+    "960": {
+      "display_name": "Wiglett",
+      "variants": {
+        "default": {
+          "model": "960_wiglett.glb",
+          "icon": "960_wiglett.png"
+        },
+        "shiny": {
+          "model": "960_wiglett_shiny.glb",
+          "icon": "960_wiglett_shiny.png"
+        }
+      }
+    },
+    "961": {
+      "display_name": "Wugtrio",
+      "variants": {
+        "default": {
+          "model": "961_wugtrio.glb",
+          "icon": "961_wugtrio.png"
+        },
+        "shiny": {
+          "model": "961_wugtrio_shiny.glb",
+          "icon": "961_wugtrio_shiny.png"
+        }
+      }
+    },
+    "962": {
+      "display_name": "Bombirdier",
+      "variants": {
+        "default": {
+          "model": "962_bombirdier.glb",
+          "icon": "962_bombirdier.png"
+        },
+        "shiny": {
+          "model": "962_bombirdier_shiny.glb",
+          "icon": "962_bombirdier_shiny.png"
+        }
+      }
+    },
+    "963": {
+      "display_name": "Finizen",
+      "variants": {
+        "default": {
+          "model": "963_finizen.glb",
+          "icon": "963_finizen.png"
+        },
+        "shiny": {
+          "model": "963_finizen_shiny.glb",
+          "icon": "963_finizen_shiny.png"
+        }
+      }
+    },
+    "964": {
+      "display_name": "Palafin",
+      "variants": {
+        "default": {
+          "model": "964_palafin.glb",
+          "icon": "964_palafin.png"
+        },
+        "shiny": {
+          "model": "964_palafin_shiny.glb",
+          "icon": "964_palafin_shiny.png"
+        }
+      }
+    },
+    "965": {
+      "display_name": "Varoom",
+      "variants": {
+        "default": {
+          "model": "965_varoom.glb",
+          "icon": "965_varoom.png"
+        },
+        "shiny": {
+          "model": "965_varoom_shiny.glb",
+          "icon": "965_varoom_shiny.png"
+        }
+      }
+    },
+    "966": {
+      "display_name": "Revavroom",
+      "variants": {
+        "default": {
+          "model": "966_revavroom.glb",
+          "icon": "966_revavroom.png"
+        },
+        "shiny": {
+          "model": "966_revavroom_shiny.glb",
+          "icon": "966_revavroom_shiny.png"
+        }
+      }
+    },
+    "967": {
+      "display_name": "Cyclizar",
+      "variants": {
+        "default": {
+          "model": "967_cyclizar.glb",
+          "icon": "967_cyclizar.png"
+        },
+        "shiny": {
+          "model": "967_cyclizar_shiny.glb",
+          "icon": "967_cyclizar_shiny.png"
+        }
+      }
+    },
+    "968": {
+      "display_name": "Orthworm",
+      "variants": {
+        "default": {
+          "model": "968_orthworm.glb",
+          "icon": "968_orthworm.png"
+        },
+        "shiny": {
+          "model": "968_orthworm_shiny.glb",
+          "icon": "968_orthworm_shiny.png"
+        }
+      }
+    },
+    "969": {
+      "display_name": "Glimmet",
+      "variants": {
+        "default": {
+          "model": "969_glimmet.glb",
+          "icon": "969_glimmet.png"
+        },
+        "shiny": {
+          "model": "969_glimmet_shiny.glb",
+          "icon": "969_glimmet_shiny.png"
+        }
+      }
+    },
+    "970": {
+      "display_name": "Glimmora",
+      "variants": {
+        "default": {
+          "model": "970_glimmora.glb",
+          "icon": "970_glimmora.png"
+        },
+        "shiny": {
+          "model": "970_glimmora_shiny.glb",
+          "icon": "970_glimmora_shiny.png"
+        }
+      }
+    },
+    "971": {
+      "display_name": "Greavard",
+      "variants": {
+        "default": {
+          "model": "971_greavard.glb",
+          "icon": "971_greavard.png"
+        },
+        "shiny": {
+          "model": "971_greavard_shiny.glb",
+          "icon": "971_greavard_shiny.png"
+        }
+      }
+    },
+    "972": {
+      "display_name": "Houndstone",
+      "variants": {
+        "default": {
+          "model": "972_houndstone.glb",
+          "icon": "972_houndstone.png"
+        },
+        "shiny": {
+          "model": "972_houndstone_shiny.glb",
+          "icon": "972_houndstone_shiny.png"
+        }
+      }
+    },
+    "973": {
+      "display_name": "Flamigo",
+      "variants": {
+        "default": {
+          "model": "973_flamigo.glb",
+          "icon": "973_flamigo.png"
+        },
+        "shiny": {
+          "model": "973_flamigo_shiny.glb",
+          "icon": "973_flamigo_shiny.png"
+        }
+      }
+    },
+    "974": {
+      "display_name": "Cetoddle",
+      "variants": {
+        "default": {
+          "model": "974_cetoddle.glb",
+          "icon": "974_cetoddle.png"
+        },
+        "shiny": {
+          "model": "974_cetoddle_shiny.glb",
+          "icon": "974_cetoddle_shiny.png"
+        }
+      }
+    },
+    "975": {
+      "display_name": "Cetitan",
+      "variants": {
+        "default": {
+          "model": "975_cetitan.glb",
+          "icon": "975_cetitan.png"
+        },
+        "shiny": {
+          "model": "975_cetitan_shiny.glb",
+          "icon": "975_cetitan_shiny.png"
+        }
+      }
+    },
+    "976": {
+      "display_name": "Veluza",
+      "variants": {
+        "default": {
+          "model": "976_veluza.glb",
+          "icon": "976_veluza.png"
+        },
+        "shiny": {
+          "model": "976_veluza_shiny.glb",
+          "icon": "976_veluza_shiny.png"
+        }
+      }
+    },
+    "977": {
+      "display_name": "Dondozo",
+      "variants": {
+        "default": {
+          "model": "977_dondozo.glb",
+          "icon": "977_dondozo.png"
+        },
+        "shiny": {
+          "model": "977_dondozo_shiny.glb",
+          "icon": "977_dondozo_shiny.png"
+        }
+      }
+    },
+    "978": {
+      "display_name": "Tatsugiri",
+      "variants": {
+        "default": {
+          "model": "978_tatsugiri.glb",
+          "icon": "978_tatsugiri.png"
+        },
+        "shiny": {
+          "model": "978_tatsugiri_shiny.glb",
+          "icon": "978_tatsugiri_shiny.png"
+        }
+      }
+    },
+    "979": {
+      "display_name": "Annihilape",
+      "variants": {
+        "default": {
+          "model": "979_annihilape.glb",
+          "icon": "979_annihilape.png"
+        },
+        "shiny": {
+          "model": "979_annihilape_shiny.glb",
+          "icon": "979_annihilape_shiny.png"
+        }
+      }
+    },
+    "980": {
+      "display_name": "Clodsire",
+      "variants": {
+        "default": {
+          "model": "980_clodsire.glb",
+          "icon": "980_clodsire.png"
+        },
+        "shiny": {
+          "model": "980_clodsire_shiny.glb",
+          "icon": "980_clodsire_shiny.png"
+        }
+      }
+    },
+    "981": {
+      "display_name": "Farigiraf",
+      "variants": {
+        "default": {
+          "model": "981_farigiraf.glb",
+          "icon": "981_farigiraf.png"
+        },
+        "shiny": {
+          "model": "981_farigiraf_shiny.glb",
+          "icon": "981_farigiraf_shiny.png"
+        }
+      }
+    },
+    "982": {
+      "display_name": "Dudunsparce",
+      "variants": {
+        "default": {
+          "model": "982_dudunsparce.glb",
+          "icon": "982_dudunsparce.png"
+        },
+        "shiny": {
+          "model": "982_dudunsparce_shiny.glb",
+          "icon": "982_dudunsparce_shiny.png"
+        }
+      }
+    },
+    "983": {
+      "display_name": "Kingambit",
+      "variants": {
+        "default": {
+          "model": "983_kingambit.glb",
+          "icon": "983_kingambit.png"
+        },
+        "shiny": {
+          "model": "983_kingambit_shiny.glb",
+          "icon": "983_kingambit_shiny.png"
+        }
+      }
+    },
+    "984": {
+      "display_name": "Great Tusk",
+      "variants": {
+        "default": {
+          "model": "984_great-tusk.glb",
+          "icon": "984_great-tusk.png"
+        },
+        "shiny": {
+          "model": "984_great-tusk_shiny.glb",
+          "icon": "984_great-tusk_shiny.png"
+        }
+      }
+    },
+    "985": {
+      "display_name": "Scream Tail",
+      "variants": {
+        "default": {
+          "model": "985_scream-tail.glb",
+          "icon": "985_scream-tail.png"
+        },
+        "shiny": {
+          "model": "985_scream-tail_shiny.glb",
+          "icon": "985_scream-tail_shiny.png"
+        }
+      }
+    },
+    "986": {
+      "display_name": "Brute Bonnet",
+      "variants": {
+        "default": {
+          "model": "986_brute-bonnet.glb",
+          "icon": "986_brute-bonnet.png"
+        },
+        "shiny": {
+          "model": "986_brute-bonnet_shiny.glb",
+          "icon": "986_brute-bonnet_shiny.png"
+        }
+      }
+    },
+    "987": {
+      "display_name": "Flutter Mane",
+      "variants": {
+        "default": {
+          "model": "987_flutter-mane.glb",
+          "icon": "987_flutter-mane.png"
+        },
+        "shiny": {
+          "model": "987_flutter-mane_shiny.glb",
+          "icon": "987_flutter-mane_shiny.png"
+        }
+      }
+    },
+    "988": {
+      "display_name": "Slither Wing",
+      "variants": {
+        "default": {
+          "model": "988_slither-wing.glb",
+          "icon": "988_slither-wing.png"
+        },
+        "shiny": {
+          "model": "988_slither-wing_shiny.glb",
+          "icon": "988_slither-wing_shiny.png"
+        }
+      }
+    },
+    "989": {
+      "display_name": "Sandy Shocks",
+      "variants": {
+        "default": {
+          "model": "989_sandy-shocks.glb",
+          "icon": "989_sandy-shocks.png"
+        },
+        "shiny": {
+          "model": "989_sandy-shocks_shiny.glb",
+          "icon": "989_sandy-shocks_shiny.png"
+        }
+      }
+    },
+    "990": {
+      "display_name": "Iron Treads",
+      "variants": {
+        "default": {
+          "model": "990_iron-treads.glb",
+          "icon": "990_iron-treads.png"
+        },
+        "shiny": {
+          "model": "990_iron-treads_shiny.glb",
+          "icon": "990_iron-treads_shiny.png"
+        }
+      }
+    },
+    "991": {
+      "display_name": "Iron Bundle",
+      "variants": {
+        "default": {
+          "model": "991_iron-bundle.glb",
+          "icon": "991_iron-bundle.png"
+        },
+        "shiny": {
+          "model": "991_iron-bundle_shiny.glb",
+          "icon": "991_iron-bundle_shiny.png"
+        }
+      }
+    },
+    "992": {
+      "display_name": "Iron Hands",
+      "variants": {
+        "default": {
+          "model": "992_iron-hands.glb",
+          "icon": "992_iron-hands.png"
+        },
+        "shiny": {
+          "model": "992_iron-hands_shiny.glb",
+          "icon": "992_iron-hands_shiny.png"
+        }
+      }
+    },
+    "993": {
+      "display_name": "Iron Jugulis",
+      "variants": {
+        "default": {
+          "model": "993_iron-jugulis.glb",
+          "icon": "993_iron-jugulis.png"
+        },
+        "shiny": {
+          "model": "993_iron-jugulis_shiny.glb",
+          "icon": "993_iron-jugulis_shiny.png"
+        }
+      }
+    },
+    "994": {
+      "display_name": "Iron Moth",
+      "variants": {
+        "default": {
+          "model": "994_iron-moth.glb",
+          "icon": "994_iron-moth.png"
+        },
+        "shiny": {
+          "model": "994_iron-moth_shiny.glb",
+          "icon": "994_iron-moth_shiny.png"
+        }
+      }
+    },
+    "995": {
+      "display_name": "Iron Thorns",
+      "variants": {
+        "default": {
+          "model": "995_iron-thorns.glb",
+          "icon": "995_iron-thorns.png"
+        },
+        "shiny": {
+          "model": "995_iron-thorns_shiny.glb",
+          "icon": "995_iron-thorns_shiny.png"
+        }
+      }
+    },
+    "996": {
+      "display_name": "Frigibax",
+      "variants": {
+        "default": {
+          "model": "996_frigibax.glb",
+          "icon": "996_frigibax.png"
+        },
+        "shiny": {
+          "model": "996_frigibax_shiny.glb",
+          "icon": "996_frigibax_shiny.png"
+        }
+      }
+    },
+    "997": {
+      "display_name": "Arctibax",
+      "variants": {
+        "default": {
+          "model": "997_arctibax.glb",
+          "icon": "997_arctibax.png"
+        },
+        "shiny": {
+          "model": "997_arctibax_shiny.glb",
+          "icon": "997_arctibax_shiny.png"
+        }
+      }
+    },
+    "998": {
+      "display_name": "Baxcalibur",
+      "variants": {
+        "default": {
+          "model": "998_baxcalibur.glb",
+          "icon": "998_baxcalibur.png"
+        },
+        "shiny": {
+          "model": "998_baxcalibur_shiny.glb",
+          "icon": "998_baxcalibur_shiny.png"
+        }
+      }
+    },
+    "999": {
+      "display_name": "Gimmighoul",
+      "variants": {
+        "default": {
+          "model": "999_gimmighoul.glb",
+          "icon": "999_gimmighoul.png"
+        },
+        "shiny": {
+          "model": "999_gimmighoul_shiny.glb",
+          "icon": "999_gimmighoul_shiny.png"
+        }
+      }
+    },
+    "1000": {
+      "display_name": "Gholdengo",
+      "variants": {
+        "default": {
+          "model": "1000_gholdengo.glb",
+          "icon": "1000_gholdengo.png"
+        },
+        "shiny": {
+          "model": "1000_gholdengo_shiny.glb",
+          "icon": "1000_gholdengo_shiny.png"
+        }
+      }
+    },
+    "1001": {
+      "display_name": "Wo Chien",
+      "variants": {
+        "default": {
+          "model": "1001_wo-chien.glb",
+          "icon": "1001_wo-chien.png"
+        },
+        "shiny": {
+          "model": "1001_wo-chien_shiny.glb",
+          "icon": "1001_wo-chien_shiny.png"
+        }
+      }
+    },
+    "1002": {
+      "display_name": "Chien Pao",
+      "variants": {
+        "default": {
+          "model": "1002_chien-pao.glb",
+          "icon": "1002_chien-pao.png"
+        },
+        "shiny": {
+          "model": "1002_chien-pao_shiny.glb",
+          "icon": "1002_chien-pao_shiny.png"
+        }
+      }
+    },
+    "1003": {
+      "display_name": "Ting Lu",
+      "variants": {
+        "default": {
+          "model": "1003_ting-lu.glb",
+          "icon": "1003_ting-lu.png"
+        },
+        "shiny": {
+          "model": "1003_ting-lu_shiny.glb",
+          "icon": "1003_ting-lu_shiny.png"
+        }
+      }
+    },
+    "1004": {
+      "display_name": "Chi Yu",
+      "variants": {
+        "default": {
+          "model": "1004_chi-yu.glb",
+          "icon": "1004_chi-yu.png"
+        },
+        "shiny": {
+          "model": "1004_chi-yu_shiny.glb",
+          "icon": "1004_chi-yu_shiny.png"
+        }
+      }
+    },
+    "1005": {
+      "display_name": "Roaring Moon",
+      "variants": {
+        "default": {
+          "model": "1005_roaring-moon.glb",
+          "icon": "1005_roaring-moon.png"
+        },
+        "shiny": {
+          "model": "1005_roaring-moon_shiny.glb",
+          "icon": "1005_roaring-moon_shiny.png"
+        }
+      }
+    },
+    "1006": {
+      "display_name": "Iron Valiant",
+      "variants": {
+        "default": {
+          "model": "1006_iron-valiant.glb",
+          "icon": "1006_iron-valiant.png"
+        },
+        "shiny": {
+          "model": "1006_iron-valiant_shiny.glb",
+          "icon": "1006_iron-valiant_shiny.png"
+        }
+      }
+    },
+    "1007": {
+      "display_name": "Koraidon",
+      "variants": {
+        "default": {
+          "model": "1007_koraidon.glb",
+          "icon": "1007_koraidon.png"
+        },
+        "shiny": {
+          "model": "1007_koraidon_shiny.glb",
+          "icon": "1007_koraidon_shiny.png"
+        }
+      }
+    },
+    "1008": {
+      "display_name": "Miraidon",
+      "variants": {
+        "default": {
+          "model": "1008_miraidon.glb",
+          "icon": "1008_miraidon.png"
+        },
+        "shiny": {
+          "model": "1008_miraidon_shiny.glb",
+          "icon": "1008_miraidon_shiny.png"
+        }
+      }
+    },
+    "1009": {
+      "display_name": "Walking Wake",
+      "variants": {
+        "default": {
+          "model": "1009_walking-wake.glb",
+          "icon": "1009_walking-wake.png"
+        },
+        "shiny": {
+          "model": "1009_walking-wake_shiny.glb",
+          "icon": "1009_walking-wake_shiny.png"
+        }
+      }
+    },
+    "1010": {
+      "display_name": "Iron Leaves",
+      "variants": {
+        "default": {
+          "model": "1010_iron-leaves.glb",
+          "icon": "1010_iron-leaves.png"
+        },
+        "shiny": {
+          "model": "1010_iron-leaves_shiny.glb",
+          "icon": "1010_iron-leaves_shiny.png"
+        }
+      }
+    }
+  }
+}
