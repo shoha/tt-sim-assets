@@ -1,0 +1,587 @@
+{
+  "pack_id": "trainers",
+  "display_name": "Trainers",
+  "version": "1.0",
+  "base_url": "https://raw.githubusercontent.com/shoha/tt-sim-assets/main/trainers/",
+  "assets": {
+    "artist": {
+      "display_name": "Artist",
+      "variants": {
+        "default": {
+          "model": "artist.glb",
+          "icon": "artist.png"
+        }
+      }
+    },
+    "backpacker": {
+      "display_name": "Backpacker",
+      "variants": {
+        "default": {
+          "model": "backpacker.glb",
+          "icon": "backpacker.png"
+        }
+      }
+    },
+    "battle": {
+      "display_name": "Battle",
+      "variants": {
+        "default": {
+          "model": "battle.glb",
+          "icon": "battle.png"
+        }
+      }
+    },
+    "boss": {
+      "display_name": "Boss",
+      "variants": {
+        "default": {
+          "model": "boss.glb",
+          "icon": "boss.png"
+        }
+      }
+    },
+    "businessman": {
+      "display_name": "Businessman",
+      "variants": {
+        "default": {
+          "model": "businessman.glb",
+          "icon": "businessman.png"
+        }
+      }
+    },
+    "chef": {
+      "display_name": "Chef",
+      "variants": {
+        "default": {
+          "model": "chef.glb",
+          "icon": "chef.png"
+        }
+      }
+    },
+    "cleaning": {
+      "display_name": "Cleaning",
+      "variants": {
+        "default": {
+          "model": "cleaning.glb",
+          "icon": "cleaning.png"
+        }
+      }
+    },
+    "deliverer": {
+      "display_name": "Deliverer",
+      "variants": {
+        "default": {
+          "model": "deliverer.glb",
+          "icon": "deliverer.png"
+        }
+      }
+    },
+    "detective": {
+      "display_name": "Detective",
+      "variants": {
+        "default": {
+          "model": "detective.glb",
+          "icon": "detective.png"
+        }
+      }
+    },
+    "dragon": {
+      "display_name": "Dragon",
+      "variants": {
+        "default": {
+          "model": "dragon.glb",
+          "icon": "dragon.png"
+        }
+      }
+    },
+    "dragontamer": {
+      "display_name": "Dragontamer",
+      "variants": {
+        "default": {
+          "model": "dragontamer.glb",
+          "icon": "dragontamer.png"
+        }
+      }
+    },
+    "esper": {
+      "display_name": "Esper",
+      "variants": {
+        "default": {
+          "model": "esper.glb",
+          "icon": "esper.png"
+        }
+      }
+    },
+    "eviil": {
+      "display_name": "Eviil",
+      "variants": {
+        "default": {
+          "model": "eviil.glb",
+          "icon": "eviil.png"
+        }
+      }
+    },
+    "f": {
+      "display_name": "F",
+      "variants": {
+        "default": {
+          "model": "f.glb",
+          "icon": "f.png"
+        }
+      }
+    },
+    "fire": {
+      "display_name": "Fire",
+      "variants": {
+        "default": {
+          "model": "fire.glb",
+          "icon": "fire.png"
+        }
+      }
+    },
+    "friend": {
+      "display_name": "Friend",
+      "variants": {
+        "default": {
+          "model": "friend.glb",
+          "icon": "friend.png"
+        }
+      }
+    },
+    "fs": {
+      "display_name": "Fs",
+      "variants": {
+        "default": {
+          "model": "fs.glb",
+          "icon": "fs.png"
+        }
+      }
+    },
+    "future": {
+      "display_name": "Future",
+      "variants": {
+        "default": {
+          "model": "future.glb",
+          "icon": "future.png"
+        }
+      }
+    },
+    "ghost": {
+      "display_name": "Ghost",
+      "variants": {
+        "default": {
+          "model": "ghost.glb",
+          "icon": "ghost.png"
+        }
+      }
+    },
+    "grass": {
+      "display_name": "Grass",
+      "variants": {
+        "default": {
+          "model": "grass.glb",
+          "icon": "grass.png"
+        }
+      }
+    },
+    "ground": {
+      "display_name": "Ground",
+      "variants": {
+        "default": {
+          "model": "ground.glb",
+          "icon": "ground.png"
+        }
+      }
+    },
+    "ice": {
+      "display_name": "Ice",
+      "variants": {
+        "default": {
+          "model": "ice.glb",
+          "icon": "ice.png"
+        }
+      }
+    },
+    "insect": {
+      "display_name": "Insect",
+      "variants": {
+        "default": {
+          "model": "insect.glb",
+          "icon": "insect.png"
+        }
+      }
+    },
+    "junior": {
+      "display_name": "Junior",
+      "variants": {
+        "default": {
+          "model": "junior.glb",
+          "icon": "junior.png"
+        }
+      }
+    },
+    "karate": {
+      "display_name": "Karate",
+      "variants": {
+        "default": {
+          "model": "karate.glb",
+          "icon": "karate.png"
+        }
+      }
+    },
+    "leader": {
+      "display_name": "Leader",
+      "variants": {
+        "default": {
+          "model": "leader.glb",
+          "icon": "leader.png"
+        }
+      }
+    },
+    "league": {
+      "display_name": "League",
+      "variants": {
+        "default": {
+          "model": "league.glb",
+          "icon": "league.png"
+        }
+      }
+    },
+    "m": {
+      "display_name": "M",
+      "variants": {
+        "default": {
+          "model": "m.glb",
+          "icon": "m.png"
+        }
+      }
+    },
+    "manager": {
+      "display_name": "Manager",
+      "variants": {
+        "default": {
+          "model": "manager.glb",
+          "icon": "manager.png"
+        }
+      }
+    },
+    "mania": {
+      "display_name": "Mania",
+      "variants": {
+        "default": {
+          "model": "mania.glb",
+          "icon": "mania.png"
+        }
+      }
+    },
+    "model": {
+      "display_name": "Model",
+      "variants": {
+        "default": {
+          "model": "model.glb",
+          "icon": "model.png"
+        }
+      }
+    },
+    "mother": {
+      "display_name": "Mother",
+      "variants": {
+        "default": {
+          "model": "mother.glb",
+          "icon": "mother.png"
+        }
+      }
+    },
+    "mountain": {
+      "display_name": "Mountain",
+      "variants": {
+        "default": {
+          "model": "mountain.glb",
+          "icon": "mountain.png"
+        }
+      }
+    },
+    "mr": {
+      "display_name": "Mr",
+      "variants": {
+        "default": {
+          "model": "mr.glb",
+          "icon": "mr.png"
+        }
+      }
+    },
+    "musician": {
+      "display_name": "Musician",
+      "variants": {
+        "default": {
+          "model": "musician.glb",
+          "icon": "musician.png"
+        }
+      }
+    },
+    "normal": {
+      "display_name": "Normal",
+      "variants": {
+        "default": {
+          "model": "normal.glb",
+          "icon": "normal.png"
+        }
+      }
+    },
+    "ol": {
+      "display_name": "Ol",
+      "variants": {
+        "default": {
+          "model": "ol.glb",
+          "icon": "ol.png"
+        }
+      }
+    },
+    "pc": {
+      "display_name": "Pc",
+      "variants": {
+        "default": {
+          "model": "pc.glb",
+          "icon": "pc.png"
+        }
+      }
+    },
+    "poison": {
+      "display_name": "Poison",
+      "variants": {
+        "default": {
+          "model": "poison.glb",
+          "icon": "poison.png"
+        }
+      }
+    },
+    "president": {
+      "display_name": "President",
+      "variants": {
+        "default": {
+          "model": "president.glb",
+          "icon": "president.png"
+        }
+      }
+    },
+    "primitive": {
+      "display_name": "Primitive",
+      "variants": {
+        "default": {
+          "model": "primitive.glb",
+          "icon": "primitive.png"
+        }
+      }
+    },
+    "principal": {
+      "display_name": "Principal",
+      "variants": {
+        "default": {
+          "model": "principal.glb",
+          "icon": "principal.png"
+        }
+      }
+    },
+    "researcher": {
+      "display_name": "Researcher",
+      "variants": {
+        "default": {
+          "model": "researcher.glb",
+          "icon": "researcher.png"
+        }
+      }
+    },
+    "richf": {
+      "display_name": "Richf",
+      "variants": {
+        "default": {
+          "model": "richf.glb",
+          "icon": "richf.png"
+        }
+      }
+    },
+    "richm": {
+      "display_name": "Richm",
+      "variants": {
+        "default": {
+          "model": "richm.glb",
+          "icon": "richm.png"
+        }
+      }
+    },
+    "secretary": {
+      "display_name": "Secretary",
+      "variants": {
+        "default": {
+          "model": "secretary.glb",
+          "icon": "secretary.png"
+        }
+      }
+    },
+    "senior": {
+      "display_name": "Senior",
+      "variants": {
+        "default": {
+          "model": "senior.glb",
+          "icon": "senior.png"
+        }
+      }
+    },
+    "stafff": {
+      "display_name": "Stafff",
+      "variants": {
+        "default": {
+          "model": "stafff.glb",
+          "icon": "stafff.png"
+        }
+      }
+    },
+    "staffm": {
+      "display_name": "Staffm",
+      "variants": {
+        "default": {
+          "model": "staffm.glb",
+          "icon": "staffm.png"
+        }
+      }
+    },
+    "steel": {
+      "display_name": "Steel",
+      "variants": {
+        "default": {
+          "model": "steel.glb",
+          "icon": "steel.png"
+        }
+      }
+    },
+    "tanpan": {
+      "display_name": "Tanpan",
+      "variants": {
+        "default": {
+          "model": "tanpan.glb",
+          "icon": "tanpan.png"
+        }
+      }
+    },
+    "taxidriver": {
+      "display_name": "Taxidriver",
+      "variants": {
+        "default": {
+          "model": "taxidriver.glb",
+          "icon": "taxidriver.png"
+        }
+      }
+    },
+    "tbattle": {
+      "display_name": "Tbattle",
+      "variants": {
+        "default": {
+          "model": "tbattle.glb",
+          "icon": "tbattle.png"
+        }
+      }
+    },
+    "tecology": {
+      "display_name": "Tecology",
+      "variants": {
+        "default": {
+          "model": "tecology.glb",
+          "icon": "tecology.png"
+        }
+      }
+    },
+    "thistory": {
+      "display_name": "Thistory",
+      "variants": {
+        "default": {
+          "model": "thistory.glb",
+          "icon": "thistory.png"
+        }
+      }
+    },
+    "thome": {
+      "display_name": "Thome",
+      "variants": {
+        "default": {
+          "model": "thome.glb",
+          "icon": "thome.png"
+        }
+      }
+    },
+    "tlanguage": {
+      "display_name": "Tlanguage",
+      "variants": {
+        "default": {
+          "model": "tlanguage.glb",
+          "icon": "tlanguage.png"
+        }
+      }
+    },
+    "tmath": {
+      "display_name": "Tmath",
+      "variants": {
+        "default": {
+          "model": "tmath.glb",
+          "icon": "tmath.png"
+        }
+      }
+    },
+    "tnursing": {
+      "display_name": "Tnursing",
+      "variants": {
+        "default": {
+          "model": "tnursing.glb",
+          "icon": "tnursing.png"
+        }
+      }
+    },
+    "tribef": {
+      "display_name": "Tribef",
+      "variants": {
+        "default": {
+          "model": "tribef.glb",
+          "icon": "tribef.png"
+        }
+      }
+    },
+    "tribem": {
+      "display_name": "Tribem",
+      "variants": {
+        "default": {
+          "model": "tribem.glb",
+          "icon": "tribem.png"
+        }
+      }
+    },
+    "waiter": {
+      "display_name": "Waiter",
+      "variants": {
+        "default": {
+          "model": "waiter.glb",
+          "icon": "waiter.png"
+        }
+      }
+    },
+    "waitress": {
+      "display_name": "Waitress",
+      "variants": {
+        "default": {
+          "model": "waitress.glb",
+          "icon": "waitress.png"
+        }
+      }
+    },
+    "water": {
+      "display_name": "Water",
+      "variants": {
+        "default": {
+          "model": "water.glb",
+          "icon": "water.png"
+        }
+      }
+    },
+    "worker": {
+      "display_name": "Worker",
+      "variants": {
+        "default": {
+        
