@@ -584,4 +584,10 @@
       "display_name": "Worker",
       "variants": {
         "default": {
-        
+          "model": "worker.glb",
+          "icon": "worker.png"
+        }
+      }
+    }
+  }
+}
